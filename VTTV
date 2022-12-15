@@ -3,34 +3,37 @@
 #EXTINF:-1,BEIN 4k
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/61447
-#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max 1 4K
+#EXTINF:-1,beIN Sport Max 1 4K
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49190
-#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max  2 4K 
+#EXTINF:-1,beIN Sport Max  2 4K 
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49191
-#EXTINF:-1,beIN Sport Max 4K:beINSport Max 3 4K
+#EXTINF:-1,beINSport Max 3 4K
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49198
-#EXTINF:-1,beIN Sport Max 4K:beINSport Max 4 4K 
+#EXTINF:-1,beINSport Max 4 4K 
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49199
-#EXTINF:-1,beIN Sport Max 4K:beINSport Max 5 4K 
+#EXTINF:-1,beINSport Max 5 4K 
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49200
-#EXTINF:-1,beIN Sport Max 4K:beINSport Max 6 4K
+#EXTINF:-1,beINSport Max 6 4K
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49201
-#EXTINF:-1,beIN Sport Max Sd:beINMax 1SD
+#EXTINF:-1,beINMax 1SD
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/62539
 #EXTINF:-1,beIN Sport Max Sd:beINMax 2SD
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/62540
-#EXTINF:-1,beIN Max 1 HD
+#EXTINF:-1,beIN Max 1 HD,#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/61794
-#EXTINF:-1,beIN Max 2 HD
+#EXTINF:-1,beIN Max 2 HD,#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/61795
-#EXTINF:-1,beIN Sport Max Sd:beIN Max 1 SD
+#EXTINF:-1,beIN Max 1 SD,#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/62537
-#EXTINF:-1,beIN Sport Max Sd:beIN Max 2 SD
+#EXTINF:-1,beIN Max 2 SD,#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/62538
 #EXTINF:-1,beIN Max 1 FHD
 http://carthage-pro.fr:25461/test2/test2/40765
