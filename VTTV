@@ -22,124 +22,157 @@ http://carthage-pro.fr:25461/test2/test2/49200
 #EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49201
 #EXTINF:-1,beINMax 1SD
-#EXTGRP: Bein Max 4k
+#EXTGRP: Bein Max SD
 http://carthage-pro.fr:25461/test2/test2/62539
-#EXTINF:-1,beIN Sport Max Sd:beINMax 2SD
-#EXTGRP: Bein Max 4k
+#EXTINF:-1,beINMax 2 SD
+#EXTGRP: Bein Max SD
 http://carthage-pro.fr:25461/test2/test2/62540
-#EXTINF:-1,beIN Max 1 HD,#EXTGRP: Bein Max 4k
+#EXTINF:-1,beIN Max 1 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61794
-#EXTINF:-1,beIN Max 2 HD,#EXTGRP: Bein Max 4k
+#EXTINF:-1,beIN Max 2 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61795
-#EXTINF:-1,beIN Max 1 SD,#EXTGRP: Bein Max 4k
+#EXTINF:-1,beIN Max 1 SD
+#EXTGRP: Bein Max SD
 http://carthage-pro.fr:25461/test2/test2/62537
-#EXTINF:-1,beIN Max 2 SD,#EXTGRP: Bein Max 4k
+#EXTINF:-1,beIN Max 2 SD
+#EXTGRP: Bein Max SD
 http://carthage-pro.fr:25461/test2/test2/62538
 #EXTINF:-1,beIN Max 1 FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/40765
 #EXTINF:-1,beIN Max 2 FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/40766
 #EXTINF:-1,beIN Max 3 FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/61443
 #EXTINF:-1,beIN Max 4 FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/61444
 #EXTINF:-1,beIN Max 5  FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/61445
 #EXTINF:-1,beIN Max 6  FHD
+#EXTGRP: Bein Max FHD
 http://carthage-pro.fr:25461/test2/test2/61446
 #EXTINF:-1,beINMax 1HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61658
 #EXTINF:-1,beINMax 2HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61659
 #EXTINF:-1,Loc.BeINMax 1 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/62687
 #EXTINF:-1,Loc.BeINMax 2 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/62686
 #EXTINF:-1,BEINSPORTS MAX 1 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61662
 #EXTINF:-1,BEINSPORTS MAX 2 HD
+#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61667
 #EXTINF:-1,|AF| Canal+ Sport 1
+#EXTGRP: Canal+ Sport AFRIQUE
 http://carthage-pro.fr:25461/test2/test2/96
 #EXTINF:-1,|AF| Canal+ Sport 2
+#EXTGRP: Canal+ Sport AFRIQUE
 http://carthage-pro.fr:25461/test2/test2/100
 #EXTINF:-1,|AF| Canal+ Sport 3
+#EXTGRP: Canal+ Sport AFRIQUE
 http://carthage-pro.fr:25461/test2/test2/101
 #EXTINF:-1,|AF| Canal+ Sport 4
+#EXTGRP: Canal+ Sport AFRIQUE
 http://carthage-pro.fr:25461/test2/test2/104
 #EXTINF:-1,|AF| Canal+ Sport 5
+#EXTGRP: Canal+ Sport AFRIQUE
 http://carthage-pro.fr:25461/test2/test2/105
 #EXTINF:-1,|FR|  Alpe d'huez TV HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/49277
 #EXTINF:-1,|FR|  BIP TV
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59084
-#EXTINF:-1,|FR|  DANCE STAR TV 
+#EXTINF:-1,|FR|  DANCE STAR TV
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/45842
 #EXTINF:-1,|FR|  Sofy TV
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59101
 #EXTINF:-1,|FR| 13eme RUE HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36908
 #EXTINF:-1,|FR| 6ter HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36998
 #EXTINF:-1,|FR| A LA CARTE 01
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36849
 #EXTINF:-1,|FR| A LA CARTE 02
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36848
 #EXTINF:-1,|FR| A LA CARTE 03
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36847
 #EXTINF:-1,|FR| A LA CARTE 04
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36846
 #EXTINF:-1,|FR| A LA CARTE 05
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36845
 #EXTINF:-1,|FR| A LA CARTE 06
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36844
 #EXTINF:-1,|FR| A LA CARTE 07
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36843
 #EXTINF:-1,|FR| A LA CARTE 08
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36842
 #EXTINF:-1,|FR| A LA CARTE 09
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36850
 #EXTINF:-1,|FR| A LA CARTE 10
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36851
 #EXTINF:-1,|FR| AB1 HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36921
 #EXTINF:-1,|FR| ACTION HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36890
 #EXTINF:-1,|FR| ADN
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/56752
 #EXTINF:-1,|FR| Alsace 20  HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/49276
-#EXTINF:-1,|FR| AMAZON PRIME 1 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49486
-#EXTINF:-1,|FR| AMAZON PRIME 2 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49487
-#EXTINF:-1,|FR| AMAZON PRIME 3 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49488
-#EXTINF:-1,|FR| AMAZON PRIME 4 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49489
-#EXTINF:-1,|FR| AMAZON PRIME 5 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49490
-#EXTINF:-1,|FR| AMAZON PRIME 6 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49491
-#EXTINF:-1,|FR| AMAZON PRIME 7 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49492
-#EXTINF:-1,|FR| AMAZON PRIME 8 ( ONLY EVENTS )
-http://carthage-pro.fr:25461/test2/test2/49493
 #EXTINF:-1,|FR| ANIMAUX HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37028
 #EXTINF:-1,|FR| ARTE HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37000
 #EXTINF:-1,|FR| Automoto HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36751
 #EXTINF:-1,|FR| BEIN SPORT 1 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36807
 #EXTINF:-1,|FR| BEIN SPORT 1 LOW
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/125
 #EXTINF:-1,|FR| BEIN SPORT 2 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36802
 #EXTINF:-1,|FR| BEIN SPORT 3 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36803
 #EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36765
 #EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
 http://carthage-pro.fr:25461/test2/test2/36794
