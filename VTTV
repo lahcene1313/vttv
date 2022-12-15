@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,BEIN 4k
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/61447
 #EXTINF:-1,beIN Sport Max 4K:beIN Sport Max 1 4K
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49190
-#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max  2 4K  
+#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max  2 4K 
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49191
 #EXTINF:-1,beIN Sport Max 4K:beINSport Max 3 4K
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49198
 #EXTINF:-1,beIN Sport Max 4K:beINSport Max 4 4K 
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49199
 #EXTINF:-1,beIN Sport Max 4K:beINSport Max 5 4K 
+#EXTGRP: Bein Max 4k
 http://carthage-pro.fr:25461/test2/test2/49200
 #EXTINF:-1,beIN Sport Max 4K:beINSport Max 6 4K
 http://carthage-pro.fr:25461/test2/test2/49201
