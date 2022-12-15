@@ -1,33 +1,29 @@
 #EXTM3U
 #EXTINF:-1,BEIN 4k
 http://carthage-pro.fr:25461/test2/test2/61447
-#EXTINF:-1,beIN Sport Max 1 4K
+#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max 1 4K
 http://carthage-pro.fr:25461/test2/test2/49190
-#EXTINF:-1,beIN Sport Max  2 4K  
+#EXTINF:-1,beIN Sport Max 4K:beIN Sport Max  2 4K  
 http://carthage-pro.fr:25461/test2/test2/49191
-#EXTINF:-1,beINSport Max 3 4K
+#EXTINF:-1,beIN Sport Max 4K:beINSport Max 3 4K
 http://carthage-pro.fr:25461/test2/test2/49198
-#EXTINF:-1,beINSport Max 4 4K 
+#EXTINF:-1,beIN Sport Max 4K:beINSport Max 4 4K 
 http://carthage-pro.fr:25461/test2/test2/49199
-#EXTINF:-1,beINSport Max 5 4K 
+#EXTINF:-1,beIN Sport Max 4K:beINSport Max 5 4K 
 http://carthage-pro.fr:25461/test2/test2/49200
-#EXTINF:-1,beINSport Max 6 4K
+#EXTINF:-1,beIN Sport Max 4K:beINSport Max 6 4K
 http://carthage-pro.fr:25461/test2/test2/49201
-
-____
-#EXTINF:-1,•●★ |SP| Fifa Qatar 2022 |SP| ★●•
-http://carthage-pro.fr:25461/test2/test2/61448
-#EXTINF:-1,beINMax 1SD
+#EXTINF:-1,beIN Sport Max Sd:beINMax 1SD
 http://carthage-pro.fr:25461/test2/test2/62539
-#EXTINF:-1,beINMax 2SD
+#EXTINF:-1,beIN Sport Max Sd:beINMax 2SD
 http://carthage-pro.fr:25461/test2/test2/62540
 #EXTINF:-1,beIN Max 1 HD
 http://carthage-pro.fr:25461/test2/test2/61794
 #EXTINF:-1,beIN Max 2 HD
 http://carthage-pro.fr:25461/test2/test2/61795
-#EXTINF:-1,beIN Max 1 SD
+#EXTINF:-1,beIN Sport Max Sd:beIN Max 1 SD
 http://carthage-pro.fr:25461/test2/test2/62537
-#EXTINF:-1,beIN Max 2 SD
+#EXTINF:-1,beIN Sport Max Sd:beIN Max 2 SD
 http://carthage-pro.fr:25461/test2/test2/62538
 #EXTINF:-1,beIN Max 1 FHD
 http://carthage-pro.fr:25461/test2/test2/40765
@@ -1467,69 +1463,69 @@ http://carthage-pro.fr:25461/test2/test2/58643
 http://carthage-pro.fr:25461/test2/test2/58644
 #EXTINF:-1,|DZ| Awraas Tv
 http://carthage-pro.fr:25461/test2/test2/25
-#EXTINF:-1,|DZ| ALGERIA 2  thania
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 2  thania
 http://carthage-pro.fr:25461/test2/test2/26
-#EXTINF:-1,|DZ| ALGERIA 7 Almareefa
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 7 Almareefa
 http://carthage-pro.fr:25461/test2/test2/27
-#EXTINF:-1,|DZ| ALGERIA 8 AlThakera
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 8 AlThakera
 http://carthage-pro.fr:25461/test2/test2/28
-#EXTINF:-1,|DZ| BERBERE TV
+#EXTINF:-1,|DZ| ALGERIA:BERBERE TV
 http://carthage-pro.fr:25461/test2/test2/29
-#EXTINF:-1,|DZ| ALGERIA 1 Aloula
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 1 Aloula
 http://carthage-pro.fr:25461/test2/test2/30
-#EXTINF:-1,|DZ| BAHIA TV
+#EXTINF:-1,|DZ| ALGERIA:BAHIA TV
 http://carthage-pro.fr:25461/test2/test2/31
-#EXTINF:-1,|DZ| TAMAZIGHT ALGER
+#EXTINF:-1,|DZ| ALGERIA:TAMAZIGHT ALGER
 http://carthage-pro.fr:25461/test2/test2/33
-#EXTINF:-1,|DZ| BEUR TV
+#EXTINF:-1,|DZ| ALGERIA:BEUR TV
 http://carthage-pro.fr:25461/test2/test2/34
-#EXTINF:-1,|DZ| SAMIRA TV
+#EXTINF:-1,|DZ| ALGERIA:SAMIRA TV
 http://carthage-pro.fr:25461/test2/test2/35
-#EXTINF:-1,|DZ| CHOUROUK BENNA
+#EXTINF:-1,|DZ| ALGERIA:CHOUROUK BENNA
 http://carthage-pro.fr:25461/test2/test2/36
-#EXTINF:-1,|DZ| CHOUROUK NEWS
+#EXTINF:-1,|DZ| ALGERIA:CHOUROUK NEWS
 http://carthage-pro.fr:25461/test2/test2/37
-#EXTINF:-1,|DZ| CHOUROUK TV
+#EXTINF:-1,|DZ| ALGERIA:CHOUROUK TV
 http://carthage-pro.fr:25461/test2/test2/38
-#EXTINF:-1,|DZ| CHAMS TV
+#EXTINF:-1,|DZ| ALGERIA:CHAMS TV
 http://carthage-pro.fr:25461/test2/test2/39
-#EXTINF:-1,|DZ| PROGRAMME NATIONAL
+#EXTINF:-1,|DZ| ALGERIA:PROGRAMME NATIONAL
 http://carthage-pro.fr:25461/test2/test2/40
-#EXTINF:-1,|DZ| HADDEF ALGERIE
+#EXTINF:-1,|DZ| ALGERIA:HADDEF ALGERIE
 http://carthage-pro.fr:25461/test2/test2/41
-#EXTINF:-1,|DZ| EL BILAD  TV
+#EXTINF:-1,|DZ| ALGERIA:EL BILAD  TV
 http://carthage-pro.fr:25461/test2/test2/42
-#EXTINF:-1,|DZ| DZAIER NEWS
+#EXTINF:-1,|DZ| ALGERIA:DZAIER NEWS
 http://carthage-pro.fr:25461/test2/test2/43
-#EXTINF:-1,|DZ| DZAIER TV
+#EXTINF:-1,|DZ| ALGERIA:DZAIER TV
 http://carthage-pro.fr:25461/test2/test2/44
-#EXTINF:-1,|DZ| ALGERIA 3 Akhbaria
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 3 Akhbaria
 http://carthage-pro.fr:25461/test2/test2/45
-#EXTINF:-1,|DZ| CANAL ALGERIE
+#EXTINF:-1,|DZ| ALGERIA:CANAL ALGERIE
 http://carthage-pro.fr:25461/test2/test2/46
-#EXTINF:-1,|DZ| ALGERIA 5 Koran
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 5 Koran
 http://carthage-pro.fr:25461/test2/test2/47
-#EXTINF:-1,|DZ| ALGERIA 4 Amazigia
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 4 Amazigia
 http://carthage-pro.fr:25461/test2/test2/48
-#EXTINF:-1,|DZ| EL FADJR
+#EXTINF:-1,|DZ| ALGERIA:EL FADJR
 http://carthage-pro.fr:25461/test2/test2/49
-#EXTINF:-1,|DZ| ALGERIA AL ANIS
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA AL ANIS
 http://carthage-pro.fr:25461/test2/test2/51
-#EXTINF:-1,|DZ| ANNAHAR TV
+#EXTINF:-1,|DZ| ALGERIA:ANNAHAR TV
 http://carthage-pro.fr:25461/test2/test2/52
-#EXTINF:-1,|DZ| ZAHRA TV
+#EXTINF:-1,|DZ| ALGERIA:ZAHRA TV
 http://carthage-pro.fr:25461/test2/test2/55895
-#EXTINF:-1,|DZ|ONE AL JAZAIRYA
+#EXTINF:-1,|DZ| ALGERIA:ONE AL JAZAIRYA
 http://carthage-pro.fr:25461/test2/test2/53
-#EXTINF:-1,|DZ| DZAIER 3
+#EXTINF:-1,|DZ| ALGERIA:DZAIER 3
 http://carthage-pro.fr:25461/test2/test2/54
-#EXTINF:-1,|DZ| M+ DZ
+#EXTINF:-1,|DZ| ALGERIA:M+ DZ
 http://carthage-pro.fr:25461/test2/test2/55
-#EXTINF:-1,|DZ| EL WATANIA ALGERIE
+#EXTINF:-1,|DZ| ALGERIA:EL WATANIA ALGERIE
 http://carthage-pro.fr:25461/test2/test2/56
 #EXTINF:-1,•●★ |DZ| ALGERIE |DZ| ★●•
 http://carthage-pro.fr:25461/test2/test2/36480
-#EXTINF:-1,|DZ| ALGERIA 6 Jazaeriya
+#EXTINF:-1,|DZ| ALGERIA:ALGERIA 6 Jazaeriya
 http://carthage-pro.fr:25461/test2/test2/49278
 #EXTINF:-1,|MA| MAROC 8 TAMAZIGHT HD
 http://carthage-pro.fr:25461/test2/test2/57
@@ -2735,4 +2731,3 @@ http://carthage-pro.fr:25461/test2/test2/53634
 http://carthage-pro.fr:25461/test2/test2/55891
 #EXTINF:-1,|AR| AD SPORTS Premium 2
 http://carthage-pro.fr:25461/test2/test2/55892
-
