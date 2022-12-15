@@ -175,112 +175,163 @@ http://carthage-pro.fr:25461/test2/test2/36803
 #EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36765
 #EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36794
 #EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36793
 #EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36769
 #EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36768
 #EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36767
 #EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
+#EXTGRP: BEIN SPORT FRANCE
 http://carthage-pro.fr:25461/test2/test2/36766
 #EXTINF:-1,|FR| BET HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36943
 #EXTINF:-1,|FR| BFM Grand Lille TV
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59089
-#EXTINF:-1,|FR| BFM Grand Littoral 
+#EXTINF:-1,|FR| BFM Grand Littoral
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59090
 #EXTINF:-1,|FR| BFM HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36951
 #EXTINF:-1,|FR| BFM ile de France
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59092
 #EXTINF:-1,|FR| BFM Lyon
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/59091
-#EXTINF:-1,|FR| BFM Sport 
+#EXTINF:-1,|FR| BFM Sport
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36752
 #EXTINF:-1,|FR| BOING HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37077
 #EXTINF:-1,|FR| BOOMERANG HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37085
 #EXTINF:-1,|FR| BRAVA HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36937
 #EXTINF:-1,|FR| C NEWS HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36953
 #EXTINF:-1,|FR| C8 FHD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36968
 #EXTINF:-1,|FR| CANAL J HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37075
 #EXTINF:-1,|FR| CANAL PLAY 03
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36831
 #EXTINF:-1,|FR| CANAL PLAY 06
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36828
 #EXTINF:-1,|FR| CANAL PLAY 07
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36827
 #EXTINF:-1,|FR| CANAL PLAY 08
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36826
 #EXTINF:-1,|FR| CANAL PLAY 09
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36825
 #EXTINF:-1,|FR| CANAL PLAY 10
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36824
 #EXTINF:-1,|FR| CANAL PLAY 11
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36841
 #EXTINF:-1,|FR| CANAL PLAY 12
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36840
 #EXTINF:-1,|FR| CANAL PLAY 13
+CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36839
-#EXTINF:-1,|FR| CANAL+ (ligue1) MOTOGP
-http://carthage-pro.fr:25461/test2/test2/46131
 #EXTINF:-1,|FR| CANAL+ CINEMA HD
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36910
 #EXTINF:-1,|FR| CANAL+ DECALE HD
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36911
 #EXTINF:-1,|FR| CANAL+ FORMULA1
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/46133
 #EXTINF:-1,|FR| CANAL+ HD
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36909
 #EXTINF:-1,|FR| CANAL+ KIDS
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36912
 #EXTINF:-1,|FR| CANAL+ PREMIER LEAGUE
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/46130
 #EXTINF:-1,|FR| CANAL+ SERIES HD
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36913
 #EXTINF:-1,|FR| CANAL+ SPORT HD
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/36854
 #EXTINF:-1,|FR| CANAL+ TOP14
+#EXTGRP: CANAL+
 http://carthage-pro.fr:25461/test2/test2/46129
 #EXTINF:-1,|FR| CANALPLAY ACTION
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36832
 #EXTINF:-1,|FR| CANALPLAY COMEDIE
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/49187
 #EXTINF:-1,|FR| CANALPLAY JEUNESSE
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36830
 #EXTINF:-1,|FR| CANALPLAY POLICIER
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/36829
 #EXTINF:-1,|FR| CARTOON NETWORK HD
+#EXTGRP: CANAL PLAY
 http://carthage-pro.fr:25461/test2/test2/37084
 #EXTINF:-1,|FR| CGTN Français
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37718
 #EXTINF:-1,|FR| CHASSE ET PECHE HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/37014
 #EXTINF:-1,|FR| CHERIE 25 FHD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36966
 #EXTINF:-1,|FR| CINE+ CLASSIC HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36901
 #EXTINF:-1,|FR| CINE+ CLUB HD
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36915
 #EXTINF:-1,|FR| CINE+ EMOTION
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36895
 #EXTINF:-1,|FR| CINE+ FAMIZ
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36900
 #EXTINF:-1,|FR| CINE+ FRISSON
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36899
-#EXTINF:-1,|FR| CINE+ PREMIERE 
+#EXTINF:-1,|FR| CINE+ PREMIERE
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36896
 #EXTINF:-1,|FR| CLIQUE TV
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/45859
 #EXTINF:-1,|FR| Comedie
+#EXTGRP: FRANCE
 http://carthage-pro.fr:25461/test2/test2/36934
 #EXTINF:-1,|FR| CRIME DISTRICT HD
 http://carthage-pro.fr:25461/test2/test2/37047
@@ -572,32 +623,6 @@ http://carthage-pro.fr:25461/test2/test2/37027
 http://carthage-pro.fr:25461/test2/test2/37001
 #EXTINF:-1,|FR| WEO HD
 http://carthage-pro.fr:25461/test2/test2/36919
-#EXTINF:-1,•●★ |FR| A LA CARTE |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36822
-#EXTINF:-1,•●★ |FR| AMAZON PRIME |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/54056
-#EXTINF:-1,•●★ |FR| BEINSPORT |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/38380
-#EXTINF:-1,•●★ |FR| CANALPLAY |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36838
-#EXTINF:-1,•●★ |FR| DIVERTISSEMENT |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36917
-#EXTINF:-1,•●★ |FR| DOCUMENTAIRE |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/59669
-#EXTINF:-1,•●★ |FR| FRANCE CINEMA |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36852
-#EXTINF:-1,•●★ |FR| FRANCE HD |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36963
-#EXTINF:-1,•●★ |FR| FRANCE SPORT |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36716
-#EXTINF:-1,•●★ |FR| KIDS |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/37073
-#EXTINF:-1,•●★ |FR| MUSIC |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/37059
-#EXTINF:-1,•●★ |FR| RMC SPORT |FR| ★●•
-http://carthage-pro.fr:25461/test2/test2/38347
-#EXTINF:-1,•●★ |BE| BELGIQUE |BE| ★●•
-http://carthage-pro.fr:25461/test2/test2/2500
 #EXTINF:-1,|BE| AB3 HD
 http://carthage-pro.fr:25461/test2/test2/2516
 #EXTINF:-1,|BE| ABXPLORE HD
@@ -656,19 +681,24 @@ http://carthage-pro.fr:25461/test2/test2/2531
 http://carthage-pro.fr:25461/test2/test2/2533
 #EXTINF:-1,|BE| VOO SPORT WORLD 3 HD
 http://carthage-pro.fr:25461/test2/test2/2535
-#EXTINF:-1,beIN SPORTS MAX1 (480p)
+#EXTINF:-1,beIN SPORTS MAX1
+#EXTGRP: beIN SPORTS MAX (480p)
 http://carthage-pro.fr:25461/test2/test2/62688
-#EXTINF:-1,beIN SPORTS MAX2 (480p)
+#EXTINF:-1,beIN SPORTS MAX2
+#EXTGRP: beIN SPORTS MAX (480p)
 http://carthage-pro.fr:25461/test2/test2/62689
 #EXTINF:-1,|TN|  Radio National
+#EXTGRP: TUNISIE
 http://carthage-pro.fr:25461/test2/test2/62695
 #EXTINF:-1,|TN| Radio Jawhara FM
+#EXTGRP: TUNISIE
 http://carthage-pro.fr:25461/test2/test2/62694
 #EXTINF:-1,|AR| 4 KIDS
 http://carthage-pro.fr:25461/test2/test2/59694
 #EXTINF:-1,|AR| Alaraby TV
 http://carthage-pro.fr:25461/test2/test2/35114
 #EXTINF:-1,|AR|  Al Hiwar TV
+#EXTGRP: TUNISIE
 http://carthage-pro.fr:25461/test2/test2/34528
 #EXTINF:-1,|SA| Al-Khalij TV
 http://carthage-pro.fr:25461/test2/test2/35194
@@ -1506,69 +1536,98 @@ http://carthage-pro.fr:25461/test2/test2/58643
 http://carthage-pro.fr:25461/test2/test2/58644
 #EXTINF:-1,|DZ| Awraas Tv
 http://carthage-pro.fr:25461/test2/test2/25
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 2  thania
+#EXTINF:-1,|DZ| ALGERIA 2  thania
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/26
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 7 Almareefa
+#EXTINF:-1,|DZ| ALGERIA 7 Almareefa
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/27
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 8 AlThakera
+#EXTINF:-1,|DZ| ALGERIA 8 AlThakera
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/28
-#EXTINF:-1,|DZ| ALGERIA:BERBERE TV
+#EXTINF:-1,|DZ| BERBERE TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/29
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 1 Aloula
+#EXTINF:-1,|DZ| ALGERIA 1 Aloula
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/30
-#EXTINF:-1,|DZ| ALGERIA:BAHIA TV
+#EXTINF:-1,|DZ| BAHIA TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/31
-#EXTINF:-1,|DZ| ALGERIA:TAMAZIGHT ALGER
+#EXTINF:-1,|DZ| TAMAZIGHT ALGER
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/33
-#EXTINF:-1,|DZ| ALGERIA:BEUR TV
+#EXTINF:-1,|DZ| BEUR TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/34
-#EXTINF:-1,|DZ| ALGERIA:SAMIRA TV
+#EXTINF:-1,|DZ| SAMIRA TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/35
-#EXTINF:-1,|DZ| ALGERIA:CHOUROUK BENNA
+#EXTINF:-1,|DZ| CHOUROUK BENNA
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/36
-#EXTINF:-1,|DZ| ALGERIA:CHOUROUK NEWS
+#EXTINF:-1,|DZ| CHOUROUK NEWS
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/37
-#EXTINF:-1,|DZ| ALGERIA:CHOUROUK TV
+#EXTINF:-1,|DZ| CHOUROUK TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/38
-#EXTINF:-1,|DZ| ALGERIA:CHAMS TV
+#EXTINF:-1,|DZ| CHAMS TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/39
-#EXTINF:-1,|DZ| ALGERIA:PROGRAMME NATIONAL
+#EXTINF:-1,|DZ| PROGRAMME NATIONAL
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/40
-#EXTINF:-1,|DZ| ALGERIA:HADDEF ALGERIE
+#EXTINF:-1,|DZ| HADDEF ALGERIE
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/41
-#EXTINF:-1,|DZ| ALGERIA:EL BILAD  TV
+#EXTINF:-1,|DZ| EL BILAD  TV
 http://carthage-pro.fr:25461/test2/test2/42
-#EXTINF:-1,|DZ| ALGERIA:DZAIER NEWS
+#EXTINF:-1,|DZ| DZAIER NEWS
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/43
-#EXTINF:-1,|DZ| ALGERIA:DZAIER TV
+#EXTINF:-1,|DZ| DZAIER TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/44
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 3 Akhbaria
+#EXTINF:-1,|DZ| ALGERIA 3 Akhbaria
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/45
-#EXTINF:-1,|DZ| ALGERIA:CANAL ALGERIE
+#EXTINF:-1,|DZ| CANAL ALGERIE
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/46
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 5 Koran
+#EXTINF:-1,|DZ| ALGERIA 5 Koran
 http://carthage-pro.fr:25461/test2/test2/47
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 4 Amazigia
+#EXTINF:-1,|DZ| ALGERIA 4 Amazigia
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/48
-#EXTINF:-1,|DZ| ALGERIA:EL FADJR
+#EXTINF:-1,|DZ| EL FADJR
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/49
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA AL ANIS
+#EXTINF:-1,|DZ| ALGERIA AL ANIS
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/51
-#EXTINF:-1,|DZ| ALGERIA:ANNAHAR TV
+#EXTINF:-1,|DZ| ANNAHAR TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/52
-#EXTINF:-1,|DZ| ALGERIA:ZAHRA TV
+#EXTINF:-1,|DZ| ZAHRA TV
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/55895
-#EXTINF:-1,|DZ| ALGERIA:ONE AL JAZAIRYA
+#EXTINF:-1,|DZ| ONE AL JAZAIRYA
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/53
-#EXTINF:-1,|DZ| ALGERIA:DZAIER 3
+#EXTINF:-1,|DZ| DZAIER 3
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/54
-#EXTINF:-1,|DZ| ALGERIA:M+ DZ
+#EXTINF:-1,|DZ| M+ DZ
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/55
-#EXTINF:-1,|DZ| ALGERIA:EL WATANIA ALGERIE
+#EXTINF:-1,|DZ| EL WATANIA ALGERIE
+#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/56
 #EXTINF:-1,•●★ |DZ| ALGERIE |DZ| ★●•
 http://carthage-pro.fr:25461/test2/test2/36480
-#EXTINF:-1,|DZ| ALGERIA:ALGERIA 6 Jazaeriya
+#EXTINF:-1,|DZ| ALGERIA 6 Jazaeriya
+http://carthage-pro.fr:25461/test2/test2/49278
 http://carthage-pro.fr:25461/test2/test2/49278
 #EXTINF:-1,|MA| MAROC 8 TAMAZIGHT HD
 http://carthage-pro.fr:25461/test2/test2/57
