@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Animation",Pluto TV16 Animé
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Animation",Persiana 16 Junior
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Bein 4k new",Be in new 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Bein Max 4k",Bein 4k
 http://carthage-pro.fr:25461/test2/test2/100
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beIN Sport Max 1 4K
 http://carthage-pro.fr:25461/test2/test2/49190
@@ -19,683 +15,497 @@ http://carthage-pro.fr:25461/test2/test2/49200
 http://carthage-pro.fr:25461/test2/test2/49201
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max SD",beINMax 1SD
 http://carthage-pro.fr:25461/test2/test2/62539
-#EXTINF:-1,beINMax 2 SD
-#EXTGRP: Bein Max SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max SD",beINMax 2 SD
 http://carthage-pro.fr:25461/test2/test2/62540
-#EXTINF:-1,beIN Max 1 HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",beIN Max 1 HD
 http://carthage-pro.fr:25461/test2/test2/61794
-#EXTINF:-1,beIN Max 2 HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",beIN Max 2 HD
 http://carthage-pro.fr:25461/test2/test2/61795
-#EXTINF:-1,beIN Max 1 SD
-#EXTGRP: Bein Max SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max SD",beIN Max 1 SD
 http://carthage-pro.fr:25461/test2/test2/62537
-#EXTINF:-1,beIN Max 2 SD
-#EXTGRP: Bein Max SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max SD",beIN Max 2 SD
 http://carthage-pro.fr:25461/test2/test2/62538
-#EXTINF:-1,beIN Max 1 FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 1 FHD
 http://carthage-pro.fr:25461/test2/test2/40765
-#EXTINF:-1,beIN Max 2 FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 2 FHD
 http://carthage-pro.fr:25461/test2/test2/40766
-#EXTINF:-1,beIN Max 3 FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 3 FHD
 http://carthage-pro.fr:25461/test2/test2/61443
-#EXTINF:-1,beIN Max 4 FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 4 FHD
 http://carthage-pro.fr:25461/test2/test2/61444
-#EXTINF:-1,beIN Max 5  FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 5  FHD
 http://carthage-pro.fr:25461/test2/test2/61445
-#EXTINF:-1,beIN Max 6  FHD
-#EXTGRP: Bein Max FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max FHD",beIN Max 6  FHD
 http://carthage-pro.fr:25461/test2/test2/61446
-#EXTINF:-1,beINMax 1HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",beINMax 1HD
 http://carthage-pro.fr:25461/test2/test2/61658
-#EXTINF:-1,beINMax 2HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",beINMax 2HD
 http://carthage-pro.fr:25461/test2/test2/61659
-#EXTINF:-1,Loc.BeINMax 1 HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",Loc.BeINMax 1 HD
 http://carthage-pro.fr:25461/test2/test2/62687
-#EXTINF:-1,Loc.BeINMax 2 HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",Loc.BeINMax 2 HD
 http://carthage-pro.fr:25461/test2/test2/62686
 #EXTINF:-1,BEINSPORTS MAX 1 HD
-#EXTGRP: Bein Max HD
 http://carthage-pro.fr:25461/test2/test2/61662
-#EXTINF:-1,BEINSPORTS MAX 2 HD
-#EXTGRP: Bein Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",BEINSPORTS MAX 2 HD
 http://carthage-pro.fr:25461/test2/test2/61667
-#EXTINF:-1,|AF| Canal+ Sport 1
-#EXTGRP: Canal+ Sport AFRIQUE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 1
 http://carthage-pro.fr:25461/test2/test2/96
-#EXTINF:-1,|AF| Canal+ Sport 2
-#EXTGRP: Canal+ Sport AFRIQUE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 2
 http://carthage-pro.fr:25461/test2/test2/100
-#EXTINF:-1,|AF| Canal+ Sport 3
-#EXTGRP: Canal+ Sport AFRIQUE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 3
 http://carthage-pro.fr:25461/test2/test2/101
-#EXTINF:-1,|AF| Canal+ Sport 4
-#EXTGRP: Canal+ Sport AFRIQUE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 4
 http://carthage-pro.fr:25461/test2/test2/104
-#EXTINF:-1,|AF| Canal+ Sport 5
-#EXTGRP: Canal+ Sport AFRIQUE
-http://carthage-pro.fr:25461/test2/test2/105
-#EXTINF:-1,|FR|  Alpe d'huez TV HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/49277
-#EXTINF:-1,|FR|  BIP TV
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59084
-#EXTINF:-1,|FR|  DANCE STAR TV
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/45842
-#EXTINF:-1,|FR|  Sofy TV
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59101
-#EXTINF:-1,|FR| 13eme RUE HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",13eme RUE HD
 http://carthage-pro.fr:25461/test2/test2/36908
-#EXTINF:-1,|FR| 6ter HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",6ter HD
 http://carthage-pro.fr:25461/test2/test2/36998
-#EXTINF:-1,|FR| A LA CARTE 01
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 01
 http://carthage-pro.fr:25461/test2/test2/36849
-#EXTINF:-1,|FR| A LA CARTE 02
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 02
 http://carthage-pro.fr:25461/test2/test2/36848
-#EXTINF:-1,|FR| A LA CARTE 03
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 03
 http://carthage-pro.fr:25461/test2/test2/36847
-#EXTINF:-1,|FR| A LA CARTE 04
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 04
 http://carthage-pro.fr:25461/test2/test2/36846
-#EXTINF:-1,|FR| A LA CARTE 05
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 05
 http://carthage-pro.fr:25461/test2/test2/36845
-#EXTINF:-1,|FR| A LA CARTE 06
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 06
 http://carthage-pro.fr:25461/test2/test2/36844
-#EXTINF:-1,|FR| A LA CARTE 07
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 07
 http://carthage-pro.fr:25461/test2/test2/36843
-#EXTINF:-1,|FR| A LA CARTE 08
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 08
 http://carthage-pro.fr:25461/test2/test2/36842
-#EXTINF:-1,|FR| A LA CARTE 09
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 09
 http://carthage-pro.fr:25461/test2/test2/36850
-#EXTINF:-1,|FR| A LA CARTE 10
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",A LA CARTE 10
 http://carthage-pro.fr:25461/test2/test2/36851
-#EXTINF:-1,|FR| AB1 HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",AB1 HD
 http://carthage-pro.fr:25461/test2/test2/36921
-#EXTINF:-1,|FR| ACTION HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ACTION HD
 http://carthage-pro.fr:25461/test2/test2/36890
-#EXTINF:-1,|FR| ADN
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/56752
-#EXTINF:-1,|FR| Alsace 20  HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/49276
-#EXTINF:-1,|FR| ANIMAUX HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ANIMAUX HD
 http://carthage-pro.fr:25461/test2/test2/37028
-#EXTINF:-1,|FR| ARTE HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ARTE HD
 http://carthage-pro.fr:25461/test2/test2/37000
-#EXTINF:-1,|FR| Automoto HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Automoto HD
 http://carthage-pro.fr:25461/test2/test2/36751
-#EXTINF:-1,|FR| BEIN SPORT 1 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT 1 HD
 http://carthage-pro.fr:25461/test2/test2/36807
-#EXTINF:-1,|FR| BEIN SPORT 1 LOW
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT 1 LOW
 http://carthage-pro.fr:25461/test2/test2/125
-#EXTINF:-1,|FR| BEIN SPORT 2 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT 2 HD
 http://carthage-pro.fr:25461/test2/test2/36802
-#EXTINF:-1,|FR| BEIN SPORT 3 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT 3 HD
 http://carthage-pro.fr:25461/test2/test2/36803
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 10 HD
 http://carthage-pro.fr:25461/test2/test2/36765
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 4 HD
 http://carthage-pro.fr:25461/test2/test2/36794
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 5 HD
 http://carthage-pro.fr:25461/test2/test2/36793
-#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 6 HD
 http://carthage-pro.fr:25461/test2/test2/36769
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 7 HD
 http://carthage-pro.fr:25461/test2/test2/36768
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 8 HD
 http://carthage-pro.fr:25461/test2/test2/36767
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
-#EXTGRP: BEIN SPORT FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORT FRANCE",BEIN SPORT MAX 9 HD
 http://carthage-pro.fr:25461/test2/test2/36766
-#EXTINF:-1,|FR| BET HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/36943
-#EXTINF:-1,|FR| BFM Grand Lille TV
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59089
-#EXTINF:-1,|FR| BFM Grand Littoral
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59090
-#EXTINF:-1,|FR| BFM HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",BFM HD
 http://carthage-pro.fr:25461/test2/test2/36951
-#EXTINF:-1,|FR| BFM ile de France
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59092
-#EXTINF:-1,|FR| BFM Lyon
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/59091
-#EXTINF:-1,|FR| BFM Sport
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/36752
-#EXTINF:-1,|FR| BOING HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/37077
-#EXTINF:-1,|FR| BOOMERANG HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",BOOMERANG HD
 http://carthage-pro.fr:25461/test2/test2/37085
-#EXTINF:-1,|FR| BRAVA HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/36937
-#EXTINF:-1,|FR| C NEWS HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",C NEWS HD
 http://carthage-pro.fr:25461/test2/test2/36953
-#EXTINF:-1,|FR| C8 FHD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",C8 FHD
 http://carthage-pro.fr:25461/test2/test2/36968
-#EXTINF:-1,|FR| CANAL J HD
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/37075
-#EXTINF:-1,|FR| CANAL PLAY 03
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 03
 http://carthage-pro.fr:25461/test2/test2/36831
-#EXTINF:-1,|FR| CANAL PLAY 06
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 06
 http://carthage-pro.fr:25461/test2/test2/36828
-#EXTINF:-1,|FR| CANAL PLAY 07
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 07
 http://carthage-pro.fr:25461/test2/test2/36827
-#EXTINF:-1,|FR| CANAL PLAY 08
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 08
 http://carthage-pro.fr:25461/test2/test2/36826
-#EXTINF:-1,|FR| CANAL PLAY 09
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 09
 http://carthage-pro.fr:25461/test2/test2/36825
-#EXTINF:-1,|FR| CANAL PLAY 10
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 10
 http://carthage-pro.fr:25461/test2/test2/36824
-#EXTINF:-1,|FR| CANAL PLAY 11
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 11
 http://carthage-pro.fr:25461/test2/test2/36841
-#EXTINF:-1,|FR| CANAL PLAY 12
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 12
 http://carthage-pro.fr:25461/test2/test2/36840
-#EXTINF:-1,|FR| CANAL PLAY 13
-CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY 13
 http://carthage-pro.fr:25461/test2/test2/36839
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ CINEMA HD
 http://carthage-pro.fr:25461/test2/test2/36910
-#EXTINF:-1,|FR| CANAL+ DECALE HD
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ DECALE HD
 http://carthage-pro.fr:25461/test2/test2/36911
-#EXTINF:-1,|FR| CANAL+ FORMULA1
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ FORMULA1
 http://carthage-pro.fr:25461/test2/test2/46133
-#EXTINF:-1,|FR| CANAL+ HD
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ HD
 http://carthage-pro.fr:25461/test2/test2/36909
-#EXTINF:-1,|FR| CANAL+ KIDS
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ KIDS
 http://carthage-pro.fr:25461/test2/test2/36912
-#EXTINF:-1,|FR| CANAL+ PREMIER LEAGUE
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ PREMIER LEAGUE
 http://carthage-pro.fr:25461/test2/test2/46130
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ SERIES HD
 http://carthage-pro.fr:25461/test2/test2/36913
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ SPORT HD
 http://carthage-pro.fr:25461/test2/test2/36854
-#EXTINF:-1,|FR| CANAL+ TOP14
-#EXTGRP: CANAL+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLUS",CANAL+ TOP14
 http://carthage-pro.fr:25461/test2/test2/46129
-#EXTINF:-1,|FR| CANALPLAY ACTION
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY ACTION
 http://carthage-pro.fr:25461/test2/test2/36832
-#EXTINF:-1,|FR| CANALPLAY COMEDIE
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY COMEDIE
 http://carthage-pro.fr:25461/test2/test2/49187
-#EXTINF:-1,|FR| CANALPLAY JEUNESSE
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY JEUNESSE
 http://carthage-pro.fr:25461/test2/test2/36830
-#EXTINF:-1,|FR| CANALPLAY POLICIER
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CANAL PLAY POLICIER
 http://carthage-pro.fr:25461/test2/test2/36829
-#EXTINF:-1,|FR| CARTOON NETWORK HD
-#EXTGRP: CANAL PLAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL PLAY",CARTOON NETWORK HD
 http://carthage-pro.fr:25461/test2/test2/37084
-#EXTINF:-1,|FR| CGTN Français
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CGTN Français
 http://carthage-pro.fr:25461/test2/test2/37718
-#EXTINF:-1,|FR| CHASSE ET PECHE HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CHASSE ET PECHE HD
 http://carthage-pro.fr:25461/test2/test2/37014
-#EXTINF:-1,|FR| CHERIE 25 FHD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CHERIE 25 FHD
 http://carthage-pro.fr:25461/test2/test2/36966
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ CLASSIC HD
 http://carthage-pro.fr:25461/test2/test2/36901
-#EXTINF:-1,|FR| CINE+ CLUB HD
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ CLUB HD
 http://carthage-pro.fr:25461/test2/test2/36915
-#EXTINF:-1,|FR| CINE+ EMOTION
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ EMOTION
 http://carthage-pro.fr:25461/test2/test2/36895
-#EXTINF:-1,|FR| CINE+ FAMIZ
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ FAMIZ
 http://carthage-pro.fr:25461/test2/test2/36900
-#EXTINF:-1,|FR| CINE+ FRISSON
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ FRISSON
 http://carthage-pro.fr:25461/test2/test2/36899
-#EXTINF:-1,|FR| CINE+ PREMIERE
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CINE+ PREMIERE
 http://carthage-pro.fr:25461/test2/test2/36896
-#EXTINF:-1,|FR| CLIQUE TV
-#EXTGRP: FRANCE
-http://carthage-pro.fr:25461/test2/test2/45859
-#EXTINF:-1,|FR| Comedie
-#EXTGRP: FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Comedie
 http://carthage-pro.fr:25461/test2/test2/36934
-#EXTINF:-1,|FR| CRIME DISTRICT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CRIME DISTRICT HD
 http://carthage-pro.fr:25461/test2/test2/37047
-#EXTINF:-1,|FR| CStar HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CStar HD
 http://carthage-pro.fr:25461/test2/test2/36967
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISCOVERY FAMILY HD
 http://carthage-pro.fr:25461/test2/test2/36947
-#EXTINF:-1,|FR| DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISCOVERY HD
 http://carthage-pro.fr:25461/test2/test2/37026
-#EXTINF:-1,|FR| DISCOVERY ID HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISCOVERY ID HD
 http://carthage-pro.fr:25461/test2/test2/37046
-#EXTINF:-1,|FR| DISCOVERY SCI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISCOVERY SCI HD
 http://carthage-pro.fr:25461/test2/test2/37025
-#EXTINF:-1,|FR| DISNEY + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISNEY + HD
 http://carthage-pro.fr:25461/test2/test2/37114
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISNEY CHANNEL HD
 http://carthage-pro.fr:25461/test2/test2/37088
-#EXTINF:-1,|FR| DISNEY CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISNEY CINEMA HD
 http://carthage-pro.fr:25461/test2/test2/37086
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISNEY JUNIOR HD
 http://carthage-pro.fr:25461/test2/test2/37092
-#EXTINF:-1,|FR| DISNEY XD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DISNEY XD HD
 http://carthage-pro.fr:25461/test2/test2/37087
-#EXTINF:-1,|FR| E! Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",E! Entertainment HD
 http://carthage-pro.fr:25461/test2/test2/36922
-#EXTINF:-1,|FR| ELLE GIRL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ELLE GIRL HD
 http://carthage-pro.fr:25461/test2/test2/36942
-#EXTINF:-1,|FR| EQUIDIA LIFE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",EQUIDIA LIFE HD
 http://carthage-pro.fr:25461/test2/test2/36753
-#EXTINF:-1,|FR| Equidia Live HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Equidia Live HD
 http://carthage-pro.fr:25461/test2/test2/36754
-#EXTINF:-1,|FR| Equipe21 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Equipe21 HD
 http://carthage-pro.fr:25461/test2/test2/36755
-#EXTINF:-1,|FR| EURONEWS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",EURONEWS HD
 http://carthage-pro.fr:25461/test2/test2/36950
-#EXTINF:-1,|FR| EuroSport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",EuroSport 1 HD
 http://carthage-pro.fr:25461/test2/test2/36759
-#EXTINF:-1,|FR| EuroSport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",EuroSport 2 HD
 http://carthage-pro.fr:25461/test2/test2/36758
-#EXTINF:-1,|FR| EXTREME SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",EXTREME SPORTS HD
 http://carthage-pro.fr:25461/test2/test2/36798
-#EXTINF:-1,|FR| FOOT 24 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FOOT 24 HD
 http://carthage-pro.fr:25461/test2/test2/36757
-#EXTINF:-1,|FR| FRANCE 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE 2 HD
 http://carthage-pro.fr:25461/test2/test2/36976
-#EXTINF:-1,|FR| France 24 FR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",France 24 FR
 http://carthage-pro.fr:25461/test2/test2/350
-#EXTINF:-1,|FR| FRANCE 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE 3 FHD
 http://carthage-pro.fr:25461/test2/test2/37005
-#EXTINF:-1,|FR| FRANCE 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE 4 FHD
 http://carthage-pro.fr:25461/test2/test2/37004
-#EXTINF:-1,|FR| FRANCE 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE 5 HD
 http://carthage-pro.fr:25461/test2/test2/36973
-#EXTINF:-1,|FR| FRANCE INFO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE INFO HD
 http://carthage-pro.fr:25461/test2/test2/36960
-#EXTINF:-1,|FR| FRANCE O FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE O FHD
 http://carthage-pro.fr:25461/test2/test2/37002
-#EXTINF:-1,|FR| FRANCE.24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE.24
 http://carthage-pro.fr:25461/test2/test2/36955
-#EXTINF:-1,|FR| GAME ONE HD
-http://carthage-pro.fr:25461/test2/test2/37074
-#EXTINF:-1,|FR| GOLF + HD
-http://carthage-pro.fr:25461/test2/test2/36799
-#EXTINF:-1,|FR| Golf Channel HD
-http://carthage-pro.fr:25461/test2/test2/36756
-#EXTINF:-1,|FR| GONG MAX HD
-http://carthage-pro.fr:25461/test2/test2/37115
-#EXTINF:-1,|FR| GULLI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",GULLI HD
 http://carthage-pro.fr:25461/test2/test2/37076
-#EXTINF:-1,|FR| HISTOIRE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",HISTOIRE HD
 http://carthage-pro.fr:25461/test2/test2/37016
-#EXTINF:-1,|FR| Infosport HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Infosport HD
 http://carthage-pro.fr:25461/test2/test2/36760
-#EXTINF:-1,|FR| J-ONE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",J-ONE HD
 http://carthage-pro.fr:25461/test2/test2/37113
-#EXTINF:-1,|FR| KOMBAT SPORT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",KOMBAT SPORT HD
 http://carthage-pro.fr:25461/test2/test2/36750
-#EXTINF:-1,|FR| LCI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",LCI
 http://carthage-pro.fr:25461/test2/test2/36958
-#EXTINF:-1,|FR| LN24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",LN24
 http://carthage-pro.fr:25461/test2/test2/37715
-#EXTINF:-1,|FR| M6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",M6 FHD
 http://carthage-pro.fr:25461/test2/test2/37006
-#EXTINF:-1,|FR| M6 International
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",M6 International
 http://carthage-pro.fr:25461/test2/test2/36959
-#EXTINF:-1,|FR| M6 MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",M6 MUSIC
 http://carthage-pro.fr:25461/test2/test2/37070
-#EXTINF:-1,|FR| MANGAS TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MANGAS TV HD
 http://carthage-pro.fr:25461/test2/test2/37078
-#EXTINF:-1,|FR| MCM HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MCM HD
 http://carthage-pro.fr:25461/test2/test2/37056
-#EXTINF:-1,|FR| MCM TOP HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MCM TOP HD
 http://carthage-pro.fr:25461/test2/test2/37055
-#EXTINF:-1,|FR| MDL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MDL
 http://carthage-pro.fr:25461/test2/test2/59082
-#EXTINF:-1,|FR| MELODY TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MELODY TV HD
 http://carthage-pro.fr:25461/test2/test2/45860
-#EXTINF:-1,|FR| MEZZO LIVE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MEZZO LIVE HD
 http://carthage-pro.fr:25461/test2/test2/37071
-#EXTINF:-1,|FR| MTV 00HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MTV 00HD
 http://carthage-pro.fr:25461/test2/test2/37062
-#EXTINF:-1,|FR| MTV 80s HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MTV 80s HD
 http://carthage-pro.fr:25461/test2/test2/37058
-#EXTINF:-1,|FR| MTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MTV HD
 http://carthage-pro.fr:25461/test2/test2/45840
-#EXTINF:-1,|FR| MTV Hits HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MTV Hits HD
 http://carthage-pro.fr:25461/test2/test2/37057
-#EXTINF:-1,|FR| MUSEUM TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",MUSEUM TV HD
 http://carthage-pro.fr:25461/test2/test2/37052
-#EXTINF:-1,|FR| My Cuisine FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",My Cuisine FHD
 http://carthage-pro.fr:25461/test2/test2/57732
-#EXTINF:-1,|FR| NAGO TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NAGO TV
 http://carthage-pro.fr:25461/test2/test2/45843
-#EXTINF:-1,|FR| NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NAT GEO HD
 http://carthage-pro.fr:25461/test2/test2/37024
-#EXTINF:-1,|FR| NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NAT GEO WILD HD
 http://carthage-pro.fr:25461/test2/test2/37023
-#EXTINF:-1,|FR| NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NICKELODEON HD
 http://carthage-pro.fr:25461/test2/test2/37081
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NICKELODEON JUNIOR HD
 http://carthage-pro.fr:25461/test2/test2/37079
-#EXTINF:-1,|FR| NRJ HITS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NRJ HITS
 http://carthage-pro.fr:25461/test2/test2/37063
-#EXTINF:-1,|FR| NRJ12 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NRJ12 FHD
 http://carthage-pro.fr:25461/test2/test2/36997
-#EXTINF:-1,|FR| OCS CHOC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",OCS CHOC
 http://carthage-pro.fr:25461/test2/test2/36894
-#EXTINF:-1,|FR| OCS CITY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",OCS CITY
 http://carthage-pro.fr:25461/test2/test2/36893
-#EXTINF:-1,|FR| OCS Geants
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",OCS Geants
 http://carthage-pro.fr:25461/test2/test2/36891
-#EXTINF:-1,|FR| OCS MAX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",OCS MAX
 http://carthage-pro.fr:25461/test2/test2/36892
-#EXTINF:-1,|FR| ONE TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ONE TV HD
 http://carthage-pro.fr:25461/test2/test2/36941
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PARAMOUNT CHANNEL
 http://carthage-pro.fr:25461/test2/test2/36882
-#EXTINF:-1,|FR| PARIS PREMIERE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PARIS PREMIERE
 http://carthage-pro.fr:25461/test2/test2/36883
-#EXTINF:-1,|FR| PIWI + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PIWI + HD
 http://carthage-pro.fr:25461/test2/test2/37091
-#EXTINF:-1,|FR| PLANET PLUS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PLANET PLUS HD
 http://carthage-pro.fr:25461/test2/test2/37022
-#EXTINF:-1,|FR| PLANETE A-E HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PLANETE A-E HD
 http://carthage-pro.fr:25461/test2/test2/37020
-#EXTINF:-1,|FR| PLANETE CI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",PLANETE CI HD
 http://carthage-pro.fr:25461/test2/test2/37021
-#EXTINF:-1,|FR| POLAR+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",POLAR+
 http://carthage-pro.fr:25461/test2/test2/36897
-#EXTINF:-1,|FR| RFM TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RFM TV HD
 http://carthage-pro.fr:25461/test2/test2/36940
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC DECOUVERTE HD
 http://carthage-pro.fr:25461/test2/test2/37019
-#EXTINF:-1,|FR| RMC Sport Live 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 1 FHD
 http://carthage-pro.fr:25461/test2/test2/38379
-#EXTINF:-1,|FR| RMC Sport Live 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 1 HD
 http://carthage-pro.fr:25461/test2/test2/36746
-#EXTINF:-1,|FR| RMC Sport Live 10 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 10 HD
 http://carthage-pro.fr:25461/test2/test2/36814
-#EXTINF:-1,|FR| RMC Sport Live 11 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 11 FHD
 http://carthage-pro.fr:25461/test2/test2/36813
-#EXTINF:-1,|FR| RMC Sport Live 12 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 12 FHD
 http://carthage-pro.fr:25461/test2/test2/36812
-#EXTINF:-1,|FR| RMC Sport Live 13 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 13 FHD
 http://carthage-pro.fr:25461/test2/test2/36811
-#EXTINF:-1,|FR| RMC Sport Live 14 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 14 FHD
 http://carthage-pro.fr:25461/test2/test2/36810
-#EXTINF:-1,|FR| RMC Sport Live 15 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 15 FHD
 http://carthage-pro.fr:25461/test2/test2/36809
-#EXTINF:-1,|FR| RMC Sport Live 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 2 FHD
 http://carthage-pro.fr:25461/test2/test2/36786
-#EXTINF:-1,|FR| RMC Sport Live 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 2 HD
 http://carthage-pro.fr:25461/test2/test2/36820
-#EXTINF:-1,|FR| RMC Sport Live 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 3 FHD
 http://carthage-pro.fr:25461/test2/test2/36748
-#EXTINF:-1,|FR| RMC Sport Live 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 3 HD
 http://carthage-pro.fr:25461/test2/test2/36808
-#EXTINF:-1,|FR| RMC Sport Live 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 4 FHD
 http://carthage-pro.fr:25461/test2/test2/36804
-#EXTINF:-1,|FR| RMC Sport Live 5 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 5 FHD
 http://carthage-pro.fr:25461/test2/test2/36761
-#EXTINF:-1,|FR| RMC Sport Live 6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 6 FHD
 http://carthage-pro.fr:25461/test2/test2/36785
-#EXTINF:-1,|FR| RMC Sport Live 7 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 7 FHD
 http://carthage-pro.fr:25461/test2/test2/36817
-#EXTINF:-1,|FR| RMC Sport Live 8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 8 HD
 http://carthage-pro.fr:25461/test2/test2/36816
-#EXTINF:-1,|FR| RMC Sport Live 9 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC Sport Live 9 FHD
 http://carthage-pro.fr:25461/test2/test2/36815
-#EXTINF:-1,|FR| RMC STORY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RMC STORY HD
 http://carthage-pro.fr:25461/test2/test2/37050
-#EXTINF:-1,|FR| ROUGE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ROUGE TV
 http://carthage-pro.fr:25461/test2/test2/36881
-#EXTINF:-1,|FR| RTL9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RTL9
 http://carthage-pro.fr:25461/test2/test2/36888
-#EXTINF:-1,|FR| SCIENCE ET VIE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",SCIENCE ET VIE HD
 http://carthage-pro.fr:25461/test2/test2/37018
-#EXTINF:-1,|FR| SEASON HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",SEASON HD
 http://carthage-pro.fr:25461/test2/test2/37013
-#EXTINF:-1,|FR| SERIE CLUB
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",SERIE CLUB
 http://carthage-pro.fr:25461/test2/test2/36884
-#EXTINF:-1,|FR| SPORT EN FRANCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",SPORT EN FRANCE
 http://carthage-pro.fr:25461/test2/test2/46117
-#EXTINF:-1,|FR| SYFY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",SYFY
 http://carthage-pro.fr:25461/test2/test2/36887
-#EXTINF:-1,|FR| TCM CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TCM CINEMA
 http://carthage-pro.fr:25461/test2/test2/36885
-#EXTINF:-1,|FR| TELETOON + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TELETOON + HD
 http://carthage-pro.fr:25461/test2/test2/37083
-#EXTINF:-1,|FR| TELETOON +1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TELETOON +1 HD
 http://carthage-pro.fr:25461/test2/test2/37082
-#EXTINF:-1,|FR| TEVA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TEVA HD
 http://carthage-pro.fr:25461/test2/test2/36926
-#EXTINF:-1,|FR| TF1 +1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TF1 +1 HD
 http://carthage-pro.fr:25461/test2/test2/37009
-#EXTINF:-1,|FR| TF1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TF1 FHD
 http://carthage-pro.fr:25461/test2/test2/37007
-#EXTINF:-1,|FR| TF1 Series Films FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TF1 Series Films FHD
 http://carthage-pro.fr:25461/test2/test2/37008
-#EXTINF:-1,|FR| TFX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TFX
 http://carthage-pro.fr:25461/test2/test2/36889
-#EXTINF:-1,|FR| TIJI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TIJI
 http://carthage-pro.fr:25461/test2/test2/56751
-#EXTINF:-1,|FR| TMC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TMC
 http://carthage-pro.fr:25461/test2/test2/36886
-#EXTINF:-1,|FR| TOONAMI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOONAMI HD
 http://carthage-pro.fr:25461/test2/test2/37109
-#EXTINF:-1,|FR| TOP Drame 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 1
 http://carthage-pro.fr:25461/test2/test2/57151
-#EXTINF:-1,|FR| TOP Drame 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 10
 http://carthage-pro.fr:25461/test2/test2/57159
-#EXTINF:-1,|FR| TOP Drame 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 2
 http://carthage-pro.fr:25461/test2/test2/57152
-#EXTINF:-1,|FR| TOP Drame 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 3
 http://carthage-pro.fr:25461/test2/test2/57153
-#EXTINF:-1,|FR| TOP Drame 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 4
 http://carthage-pro.fr:25461/test2/test2/57154
-#EXTINF:-1,|FR| TOP Drame 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 5
 http://carthage-pro.fr:25461/test2/test2/57155
-#EXTINF:-1,|FR| TOP Drame 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 7
 http://carthage-pro.fr:25461/test2/test2/57156
-#EXTINF:-1,|FR| TOP Drame 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 8
 http://carthage-pro.fr:25461/test2/test2/57157
-#EXTINF:-1,|FR| TOP Drame 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Drame 9
 http://carthage-pro.fr:25461/test2/test2/57158
-#EXTINF:-1,|FR| TOP KIDS 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP KIDS 1
 http://carthage-pro.fr:25461/test2/test2/57160
-#EXTINF:-1,|FR| TOP Kids 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Kids 2
 http://carthage-pro.fr:25461/test2/test2/57161
-#EXTINF:-1,|FR| TOP Kids 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOP Kids 3
 http://carthage-pro.fr:25461/test2/test2/57162
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TOUTE L'HISTOIRE HD
 http://carthage-pro.fr:25461/test2/test2/37015
-#EXTINF:-1,|FR| TRACE AFRICA 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE AFRICA 
 http://carthage-pro.fr:25461/test2/test2/45856
-#EXTINF:-1,|FR| TRACE AFRIKORA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE AFRIKORA
 http://carthage-pro.fr:25461/test2/test2/45857
-#EXTINF:-1,|FR| TRACE AYITI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE AYITI
 http://carthage-pro.fr:25461/test2/test2/45854
-#EXTINF:-1,|FR| TRACE CHRISMAS
-http://carthage-pro.fr:25461/test2/test2/45849
-#EXTINF:-1,|FR| TRACE GOSPEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE GOSPEL
 http://carthage-pro.fr:25461/test2/test2/45850
-#EXTINF:-1,|FR| TRACE KITOKO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE KITOKO
 http://carthage-pro.fr:25461/test2/test2/45852
-#EXTINF:-1,|FR| TRACE LATINA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE LATINA
 http://carthage-pro.fr:25461/test2/test2/45853
-#EXTINF:-1,|FR| TRACE MIZKI .
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE MIZKI .
 http://carthage-pro.fr:25461/test2/test2/45855
-#EXTINF:-1,|FR| TRACE NAIJA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE NAIJA
 http://carthage-pro.fr:25461/test2/test2/45851
-#EXTINF:-1,|FR| TRACE URBAN 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE URBAN 
 http://carthage-pro.fr:25461/test2/test2/45848
-#EXTINF:-1,|FR| TRACE URBAN DOM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE URBAN DOM
 http://carthage-pro.fr:25461/test2/test2/45847
-#EXTINF:-1,|FR| TRACE Urban HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE Urban HD
 http://carthage-pro.fr:25461/test2/test2/36939
-#EXTINF:-1,|FR| TRACE VANILLA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TRACE VANILLA
 http://carthage-pro.fr:25461/test2/test2/45858
-#EXTINF:-1,|FR| TREK HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TREK HD
 http://carthage-pro.fr:25461/test2/test2/37012
-#EXTINF:-1,|FR| TV BREIZH HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TV BREIZH HD
 http://carthage-pro.fr:25461/test2/test2/36925
-#EXTINF:-1,|FR| TV5 MONDE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TV5 MONDE FHD
 http://carthage-pro.fr:25461/test2/test2/36965
-#EXTINF:-1,|FR| USHUAIA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",USHUAIA TV HD
 http://carthage-pro.fr:25461/test2/test2/37027
-#EXTINF:-1,|FR| W9 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",W9 FHD
 http://carthage-pro.fr:25461/test2/test2/37001
-#EXTINF:-1,|FR| WEO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",WEO HD
 http://carthage-pro.fr:25461/test2/test2/36919
-#EXTINF:-1,|BE| AB3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",AB3 HD
 http://carthage-pro.fr:25461/test2/test2/2516
-#EXTINF:-1,|BE| ABXPLORE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ABXPLORE HD
 http://carthage-pro.fr:25461/test2/test2/2518
-#EXTINF:-1,|BE| ARTE BELGIQUE HD
-http://carthage-pro.fr:25461/test2/test2/2514
-#EXTINF:-1,|BE| BE 1 FHD
-http://carthage-pro.fr:25461/test2/test2/2524
-#EXTINF:-1,|BE| C8 HD
-http://carthage-pro.fr:25461/test2/test2/2522
-#EXTINF:-1,|BE| CLUB RTL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",CLUB RTL HD
 http://carthage-pro.fr:25461/test2/test2/2510
-#EXTINF:-1,|BE| ELEVEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE", ELEVEN 1 HD
 http://carthage-pro.fr:25461/test2/test2/2537
-#EXTINF:-1,|BE| ELEVEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ELEVEN 2 HD
 http://carthage-pro.fr:25461/test2/test2/2539
-#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ELEVEN PRO LEAGUE 1 HD
 http://carthage-pro.fr:25461/test2/test2/2543
-#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ELEVEN PRO LEAGUE 2 HD
 http://carthage-pro.fr:25461/test2/test2/2545
-#EXTINF:-1,|BE| ELEVEN PRO LEAGUE 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ELEVEN PRO LEAGUE 3 HD
 http://carthage-pro.fr:25461/test2/test2/2547
-#EXTINF:-1,|BE| LA TROIS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",LA TROIS HD
 http://carthage-pro.fr:25461/test2/test2/2506
-#EXTINF:-1,|BE| LA UNE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",LA UNE HD
 http://carthage-pro.fr:25461/test2/test2/2502
-#EXTINF:-1,|BE| PICKX+ HD
-http://carthage-pro.fr:25461/test2/test2/2529
-#EXTINF:-1,|BE| PICKX+ SPORTS 1 HD
-http://carthage-pro.fr:25461/test2/test2/2548
-#EXTINF:-1,|BE| PICKX+ SPORTS 2 HD
-http://carthage-pro.fr:25461/test2/test2/2549
-#EXTINF:-1,|BE| PICKX+ SPORTS 3 HD
-http://carthage-pro.fr:25461/test2/test2/2550
-#EXTINF:-1,|BE| PICKX+ SPORTS 4 HD
-http://carthage-pro.fr:25461/test2/test2/2551
-#EXTINF:-1,|BE| PLUG RTL HD
-http://carthage-pro.fr:25461/test2/test2/2512
-#EXTINF:-1,|BE| RTC TELE LIEGE HD
-http://carthage-pro.fr:25461/test2/test2/2559
-#EXTINF:-1,|BE| RTL-TVI HD
-http://carthage-pro.fr:25461/test2/test2/2508
-#EXTINF:-1,|BE| TELE SAMBRE HD
-http://carthage-pro.fr:25461/test2/test2/2561
-#EXTINF:-1,|BE| TIPIK HD
-http://carthage-pro.fr:25461/test2/test2/2504
-#EXTINF:-1,|BE| TV COM HD
-http://carthage-pro.fr:25461/test2/test2/2563
-#EXTINF:-1,|BE| TV5 MONDE FBS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TV5 MONDE FBS HD
 http://carthage-pro.fr:25461/test2/test2/2523
-#EXTINF:-1,|BE| VEDIA HD
-http://carthage-pro.fr:25461/test2/test2/2567
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 HD
-http://carthage-pro.fr:25461/test2/test2/2531
-#EXTINF:-1,|BE| VOO SPORT WORLD 2 HD
-http://carthage-pro.fr:25461/test2/test2/2533
-#EXTINF:-1,|BE| VOO SPORT WORLD 3 HD
-http://carthage-pro.fr:25461/test2/test2/2535
-#EXTINF:-1,beIN SPORTS MAX1
-#EXTGRP: beIN SPORTS MAX (480p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max",
 http://carthage-pro.fr:25461/test2/test2/62688
-#EXTINF:-1,beIN SPORTS MAX2
-#EXTGRP: beIN SPORTS MAX (480p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max",beIN SPORTS MAX2 480
 http://carthage-pro.fr:25461/test2/test2/62689
-#EXTINF:-1,|TN|  Radio National
-#EXTGRP: TUNISIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Radio National
 http://carthage-pro.fr:25461/test2/test2/62695
-#EXTINF:-1,|TN| Radio Jawhara FM
-#EXTGRP: TUNISIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Radio Jawhara FM
 http://carthage-pro.fr:25461/test2/test2/62694
 #EXTINF:-1,|AR| 4 KIDS
 http://carthage-pro.fr:25461/test2/test2/59694
 #EXTINF:-1,|AR| Alaraby TV
 http://carthage-pro.fr:25461/test2/test2/35114
 #EXTINF:-1,|AR|  Al Hiwar TV
-#EXTGRP: TUNISIE
+
 http://carthage-pro.fr:25461/test2/test2/34528
-#EXTINF:-1,|SA| Al-Khalij TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",Al-Khalij TV
 http://carthage-pro.fr:25461/test2/test2/35194
 #EXTINF:-1,|AR| Almasira TV
 http://carthage-pro.fr:25461/test2/test2/34759
@@ -703,2128 +513,1303 @@ http://carthage-pro.fr:25461/test2/test2/34759
 http://carthage-pro.fr:25461/test2/test2/34571
 #EXTINF:-1,|AR| Aliman TV
 http://carthage-pro.fr:25461/test2/test2/35704
-#EXTINF:-1,•●★ |AR| BEINSPORT |AR| ★●•  
-http://carthage-pro.fr:25461/test2/test2/53618
-#EXTINF:-1,beIN News FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN News FHD
 http://carthage-pro.fr:25461/test2/test2/133
-#EXTINF:-1,beIN News HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN News HD
 http://carthage-pro.fr:25461/test2/test2/91
-#EXTINF:-1,beIN Global FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN Global FHD
 http://carthage-pro.fr:25461/test2/test2/93
-#EXTINF:-1,beIN Global HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN Global HD
 http://carthage-pro.fr:25461/test2/test2/90
-#EXTINF:-1,beIN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 FHD
 http://carthage-pro.fr:25461/test2/test2/95
-#EXTINF:-1,beIN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 HD
 http://carthage-pro.fr:25461/test2/test2/94
-#EXTINF:-1,beIN HD 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN HD 1
 http://carthage-pro.fr:25461/test2/test2/54525
-#EXTINF:-1,beIN 1 Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 Premium FHD
 http://carthage-pro.fr:25461/test2/test2/127
-#EXTINF:-1,beIN 1 Premium HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 Premium HD
 http://carthage-pro.fr:25461/test2/test2/126
-#EXTINF:-1,beIN 1 Premium SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 Premium SD
 http://carthage-pro.fr:25461/test2/test2/57148
-#EXTINF:-1,beIN 1 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 SD
 http://carthage-pro.fr:25461/test2/test2/54523
-#EXTINF:-1,beIN 1HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1HD
 http://carthage-pro.fr:25461/test2/test2/718
-#EXTINF:-1,|AR| beIN 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 HEVC
 http://carthage-pro.fr:25461/test2/test2/54519
-#EXTINF:-1,|AR| beIN 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 HEVC
 http://carthage-pro.fr:25461/test2/test2/54520
-#EXTINF:-1,beIN HD 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN HD 2
 http://carthage-pro.fr:25461/test2/test2/54526
-#EXTINF:-1,beIN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 FHD
 http://carthage-pro.fr:25461/test2/test2/99
-#EXTINF:-1,beIN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 HD
 http://carthage-pro.fr:25461/test2/test2/98
-#EXTINF:-1,beIN 2 Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 Premium FHD
 http://carthage-pro.fr:25461/test2/test2/131
-#EXTINF:-1,beIN 2 Premium HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 Premium HD
 http://carthage-pro.fr:25461/test2/test2/130
-#EXTINF:-1,beIN 2 Premium SD  
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 Premium SD  
 http://carthage-pro.fr:25461/test2/test2/57149
-#EXTINF:-1,beIN 2 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 SD
 http://carthage-pro.fr:25461/test2/test2/54524
-#EXTINF:-1,beIN 2HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2HD
 http://carthage-pro.fr:25461/test2/test2/719
-#EXTINF:-1,beIN 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 FHD
 http://carthage-pro.fr:25461/test2/test2/103
-#EXTINF:-1,beIN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 HD
 http://carthage-pro.fr:25461/test2/test2/102
-#EXTINF:-1,beIN 3 Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 Premium FHD
 http://carthage-pro.fr:25461/test2/test2/135
-#EXTINF:-1,beIN 3 Premium HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 Premium HD
 http://carthage-pro.fr:25461/test2/test2/134
-#EXTINF:-1,beIN 3 Premium SD 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 Premium SD 
 http://carthage-pro.fr:25461/test2/test2/57150
-#EXTINF:-1,beIN 3 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 SD
 http://carthage-pro.fr:25461/test2/test2/59567
-#EXTINF:-1,beIN 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 4 FHD
 http://carthage-pro.fr:25461/test2/test2/107
-#EXTINF:-1,beIN 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 4 HD
 http://carthage-pro.fr:25461/test2/test2/106
-#EXTINF:-1,beIN 4 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 4 SD
 http://carthage-pro.fr:25461/test2/test2/59568
-#EXTINF:-1,beIN 5 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 5 FHD
 http://carthage-pro.fr:25461/test2/test2/111
-#EXTINF:-1,beIN 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 5 HD
 http://carthage-pro.fr:25461/test2/test2/110
-#EXTINF:-1,beIN 5 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 5 SD
 http://carthage-pro.fr:25461/test2/test2/59569
-#EXTINF:-1,beIN 6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 6 FHD
 http://carthage-pro.fr:25461/test2/test2/115
-#EXTINF:-1,beIN 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 6 HD
 http://carthage-pro.fr:25461/test2/test2/114
-#EXTINF:-1,beIN 6 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 6 SD
 http://carthage-pro.fr:25461/test2/test2/59570
-#EXTINF:-1,beIN 7 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 7 FHD
 http://carthage-pro.fr:25461/test2/test2/119
-#EXTINF:-1,beIN 7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 7 HD
 http://carthage-pro.fr:25461/test2/test2/118
-#EXTINF:-1,beIN 7 SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 7 SD
 http://carthage-pro.fr:25461/test2/test2/59571
-#EXTINF:-1,beIN 1 FHD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1 FHD EN
 http://carthage-pro.fr:25461/test2/test2/108
-#EXTINF:-1,beIN 1HD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 1HD EN
 http://carthage-pro.fr:25461/test2/test2/121
-#EXTINF:-1,beIN 2 FHD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 FHD EN
 http://carthage-pro.fr:25461/test2/test2/109
-#EXTINF:-1,beIN 2 HD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 2 HD EN
 http://carthage-pro.fr:25461/test2/test2/122
-#EXTINF:-1,beIN 3 FHD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 FHD EN
 http://carthage-pro.fr:25461/test2/test2/112
-#EXTINF:-1,beIN 3 HD EN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN 3 HD EN
 http://carthage-pro.fr:25461/test2/test2/137
-#EXTINF:-1,beIN XTRA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN XTRA 1 FHD
 http://carthage-pro.fr:25461/test2/test2/117
-#EXTINF:-1,beIN XTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN XTRA 1 HD
 http://carthage-pro.fr:25461/test2/test2/123
-#EXTINF:-1,beIN XTRA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN XTRA 2 FHD
 http://carthage-pro.fr:25461/test2/test2/97
-#EXTINF:-1,beIN XTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN XTRA 2 HD
 http://carthage-pro.fr:25461/test2/test2/124
-#EXTINF:-1,beINSPORTS PREMIUM1 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS PREMIUM1 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61714
-#EXTINF:-1,beINSPORTS PREMIUM2 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS PREMIUM2 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61715
-#EXTINF:-1,beINSPORTS PREMIUM3 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS PREMIUM3 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61716
-#EXTINF:-1,beINSPORTS2 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS2 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61717
-#EXTINF:-1,beINSPORTS3 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS3 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61718
-#EXTINF:-1,beINSPORTS4 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS4 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61719
-#EXTINF:-1,beINSPORTS5 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS5 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61720
-#EXTINF:-1,beINSPORTS6 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS6 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61721
-#EXTINF:-1,beINSPORTS7 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS7 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61722
-#EXTINF:-1,beINSPORTS1 ENG LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS1 ENG LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61723
-#EXTINF:-1,beINSPORTS2 ENG LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS2 ENG LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61724
-#EXTINF:-1,beINSPORTS3 EN LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS3 EN LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61725
-#EXTINF:-1,beINSPORTS1 FR LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS1 FR LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61726
-#EXTINF:-1,beINSPORTS NBA LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSPORTS NBA LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61727
-#EXTINF:-1,beINSport XTRA 1 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSport XTRA 1 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61728
-#EXTINF:-1,beINSport XTRA 2 LogoBlue
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beINSport XTRA 2 LogoBlue
 http://carthage-pro.fr:25461/test2/test2/61729
-#EXTINF:-1,Logo SS | beIN Sports Premium 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports Premium 1
 http://carthage-pro.fr:25461/test2/test2/61730
-#EXTINF:-1,Logo SS | beIN Sports Premium 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports Premium 2
 http://carthage-pro.fr:25461/test2/test2/61731
-#EXTINF:-1,Logo SS | beIN Sports Premium 3 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports Premium 3 
 http://carthage-pro.fr:25461/test2/test2/61732
-#EXTINF:-1,Logo SS | beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 1
 http://carthage-pro.fr:25461/test2/test2/61733
-#EXTINF:-1,Logo SS | beIN Sports 2 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 2 
 http://carthage-pro.fr:25461/test2/test2/61734
-#EXTINF:-1,Logo SS | beIN Sports 3 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 3 
 http://carthage-pro.fr:25461/test2/test2/61735
-#EXTINF:-1,Logo SS | beIN Sports 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 4
 http://carthage-pro.fr:25461/test2/test2/61736
-#EXTINF:-1,Logo SS | beIN Sports 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 5
 http://carthage-pro.fr:25461/test2/test2/61737
-#EXTINF:-1,Logo SS | beIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 6
 http://carthage-pro.fr:25461/test2/test2/61738
-#EXTINF:-1,Logo SS | beIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",Logo SS | beIN Sports 7
 http://carthage-pro.fr:25461/test2/test2/61739
-#EXTINF:-1,•●★ |AR| VIP CARTHAGE PRO |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/54059
-#EXTINF:-1,•●★ |AR| CARTHAGE CINEMA  |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/55546
-#EXTINF:-1,AR: SHOOF MAX 1 HD AR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX 1 HD AR
 http://carthage-pro.fr:25461/test2/test2/61597
-#EXTINF:-1,AR: SHOOF MAX 2 HD AR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX 2 HD AR
 http://carthage-pro.fr:25461/test2/test2/61598
-#EXTINF:-1,AR: SHOOF MAX 3 HD AR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX 3 HD AR
 http://carthage-pro.fr:25461/test2/test2/61599
-#EXTINF:-1,AR: SHOOF MAX CINEMA 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX CINEMA 1 HD
 http://carthage-pro.fr:25461/test2/test2/61600
-#EXTINF:-1,AR: SHOOF MAX CINEMA 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX CINEMA 2 HD
 http://carthage-pro.fr:25461/test2/test2/61601
-#EXTINF:-1,AR: SHOOF MAX 4 HD AR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX 4 HD AR
 http://carthage-pro.fr:25461/test2/test2/61602
-#EXTINF:-1,AR: SHOOF CLASSIC 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF CLASSIC 1 HD
 http://carthage-pro.fr:25461/test2/test2/61603
-#EXTINF:-1,AR: SHOOF CLASSIC 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF CLASSIC 2 HD
 http://carthage-pro.fr:25461/test2/test2/61604
-#EXTINF:-1,AR: SHOOF CLASSIC 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF CLASSIC 3 HD
 http://carthage-pro.fr:25461/test2/test2/61605
-#EXTINF:-1,AR: SHOOF MAX MOSALSALAT 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX MOSALSALAT 1 HD
 http://carthage-pro.fr:25461/test2/test2/61606
-#EXTINF:-1,AR: SHOOF MAX MOSALSALAT 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX MOSALSALAT 2 HD
 http://carthage-pro.fr:25461/test2/test2/61607
-#EXTINF:-1,AR: SHOOF MAX CLASSIC 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX CLASSIC 1 HD
 http://carthage-pro.fr:25461/test2/test2/61608
-#EXTINF:-1,AR: SHOOF MAX CLASSIC 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX CLASSIC 2 HD
 http://carthage-pro.fr:25461/test2/test2/61609
-#EXTINF:-1,AR: SHOOF MAX CLASSIC 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOOF",SHOOF MAX CLASSIC 3 HD
 http://carthage-pro.fr:25461/test2/test2/61610
-#EXTINF:-1,AR: SHAHID ARABIA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ARABIA 1
 http://carthage-pro.fr:25461/test2/test2/61611
-#EXTINF:-1,AR: SHAHID ACTION 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ACTION 1
 http://carthage-pro.fr:25461/test2/test2/61612
-#EXTINF:-1,AR: SHAHID ACTION 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ACTION 2
 http://carthage-pro.fr:25461/test2/test2/61613
-#EXTINF:-1,AR: SHAHID COMEDY 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID COMEDY 1
 http://carthage-pro.fr:25461/test2/test2/61614
-#EXTINF:-1,AR: SHAHID COMEDY 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID COMEDY 2
 http://carthage-pro.fr:25461/test2/test2/61615
-#EXTINF:-1,AR: SHAHID MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID MOVIES
 http://carthage-pro.fr:25461/test2/test2/61616
-#EXTINF:-1,AR: SHAHID ADVENTURE 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ADVENTURE 2
 http://carthage-pro.fr:25461/test2/test2/61617
-#EXTINF:-1,AR: SHAHID| BOLLYWOOD 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| BOLLYWOOD 1
 http://carthage-pro.fr:25461/test2/test2/61618
-#EXTINF:-1,AR: SHAHID| BOLLYWOOD 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| BOLLYWOOD 2
 http://carthage-pro.fr:25461/test2/test2/61619
-#EXTINF:-1,AR: SHAHID| ACTION
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| ACTION
 http://carthage-pro.fr:25461/test2/test2/61620
-#EXTINF:-1,AR: SHAHID| CRIME 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| CRIME 2
 http://carthage-pro.fr:25461/test2/test2/61621
-#EXTINF:-1,AR: SHAHID| SCI-FI 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| SCI-FI 1
 http://carthage-pro.fr:25461/test2/test2/61622
-#EXTINF:-1,AR: SHAHID| SCI-FI 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| SCI-FI 2
 http://carthage-pro.fr:25461/test2/test2/61623
-#EXTINF:-1,AR:SHAHID| HORROR 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| HORROR 1
 http://carthage-pro.fr:25461/test2/test2/61624
-#EXTINF:-1,AR: SHAHID| HORROR 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| HORROR 2
 http://carthage-pro.fr:25461/test2/test2/61625
-#EXTINF:-1,AR: SHAHID| CARTTON 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| CARTTON 1
 http://carthage-pro.fr:25461/test2/test2/61626
-#EXTINF:-1,AR: SHAHID| ANIMATION 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| ANIMATION 2
 http://carthage-pro.fr:25461/test2/test2/61627
-#EXTINF:-1,AR: SHAHID| CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| CINEMA
 http://carthage-pro.fr:25461/test2/test2/61628
-#EXTINF:-1,AR: SHAHID| ZAMAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID| ZAMAN
 http://carthage-pro.fr:25461/test2/test2/61629
-#EXTINF:-1,AR: SHAHID DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DOCUMENTARY
 http://carthage-pro.fr:25461/test2/test2/61630
-#EXTINF:-1,AR: SHAHID DOCUMENTARY 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DOCUMENTARY 2
 http://carthage-pro.fr:25461/test2/test2/61631
-#EXTINF:-1,SHOUROOK AFLAM 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK AFLAM 
 http://carthage-pro.fr:25461/test2/test2/61632
-#EXTINF:-1,SHOUROOK KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK KIDS
 http://carthage-pro.fr:25461/test2/test2/61633
-#EXTINF:-1,SHOUROOK KORAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK KORAN
 http://carthage-pro.fr:25461/test2/test2/61634
-#EXTINF:-1,SHOUROOK  CRIME 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK  CRIME 
 http://carthage-pro.fr:25461/test2/test2/61635
-#EXTINF:-1,SHOUROOK HORREUR  
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK HORREUR  
 http://carthage-pro.fr:25461/test2/test2/61636
-#EXTINF:-1,SHOUROOK COMEDY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK COMEDY
 http://carthage-pro.fr:25461/test2/test2/61637
-#EXTINF:-1,SHOUROOK ACTION
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK ACTION
 http://carthage-pro.fr:25461/test2/test2/61638
-#EXTINF:-1,SHOUROOK DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHOUROOK",SHOUROOK DOCUMENTARY
 http://carthage-pro.fr:25461/test2/test2/61639
-#EXTINF:-1,|AR| IFlix Action HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Action HD
 http://carthage-pro.fr:25461/test2/test2/54910
-#EXTINF:-1,|AR| IFlix Aflam HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Aflam HD
 http://carthage-pro.fr:25461/test2/test2/54911
-#EXTINF:-1,|AR| IFlix Animation HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Animation HD
 http://carthage-pro.fr:25461/test2/test2/54912
-#EXTINF:-1,|AR| IFlix Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Bollywood HD
 http://carthage-pro.fr:25461/test2/test2/54913
-#EXTINF:-1,|AR| IFlix Cinema HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Cinema HD
 http://carthage-pro.fr:25461/test2/test2/54914
-#EXTINF:-1,|AR| IFlix Classic HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Classic HD
 http://carthage-pro.fr:25461/test2/test2/54915
-#EXTINF:-1,|AR| IFlix Masrah HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",Masrah HD
 http://carthage-pro.fr:25461/test2/test2/54917
-#EXTINF:-1,|AR| IFlix Horror HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Horror HD
 http://carthage-pro.fr:25461/test2/test2/54916
-#EXTINF:-1,|AR| IFlix Turk HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IFlix",IFlix Turk HD
 http://carthage-pro.fr:25461/test2/test2/54918
-#EXTINF:-1,AR: RADIO TARAB JOCKER
-http://carthage-pro.fr:25461/test2/test2/61640
-#EXTINF:-1,AR: RADIO UMM KULTHUM
-http://carthage-pro.fr:25461/test2/test2/61641
-#EXTINF:-1,AR: RADIO ABDEL HALIM HAFEZ
-http://carthage-pro.fr:25461/test2/test2/61642
-#EXTINF:-1,AR: RADIO GEORGE WASSUF
-http://carthage-pro.fr:25461/test2/test2/61643
-#EXTINF:-1,AR: RADIO GEORGE WASOUF
-http://carthage-pro.fr:25461/test2/test2/61644
-#EXTINF:-1,AR: RADIO AMR DIAB
-http://carthage-pro.fr:25461/test2/test2/61645
-#EXTINF:-1,AR: RADIO ZAMAN
-http://carthage-pro.fr:25461/test2/test2/61646
-#EXTINF:-1,AR: RADIO CLASSIC
-http://carthage-pro.fr:25461/test2/test2/61647
-#EXTINF:-1,AR: RADIO FAIROUZ
-http://carthage-pro.fr:25461/test2/test2/61648
-#EXTINF:-1,Shahid Aflam
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Shahid Aflam
 http://carthage-pro.fr:25461/test2/test2/59946
-#EXTINF:-1,Shahid Aflam 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Shahid Aflam 2
 http://carthage-pro.fr:25461/test2/test2/59947
-#EXTINF:-1,Shahid Comedy 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",,Shahid Comedy 1
 http://carthage-pro.fr:25461/test2/test2/59948
-#EXTINF:-1,•●★ TARAB طرب ★●•
-http://carthage-pro.fr:25461/test2/test2/54909
-#EXTINF:-1,SHAHID ACTION 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ACTION 1
 http://carthage-pro.fr:25461/test2/test2/36689
-#EXTINF:-1,SHAHID ACTION 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ACTION 2
 http://carthage-pro.fr:25461/test2/test2/36690
-#EXTINF:-1,SHAHID HORROR 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID HORROR 1
 http://carthage-pro.fr:25461/test2/test2/36691
-#EXTINF:-1,SHAHID HORROR 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID HORROR 2
 http://carthage-pro.fr:25461/test2/test2/36692
-#EXTINF:-1,SHAHID ACTION 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ACTION 3
 http://carthage-pro.fr:25461/test2/test2/36693
-#EXTINF:-1,SHAHID AFLAM 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 1
 http://carthage-pro.fr:25461/test2/test2/36694
-#EXTINF:-1,SHAHID ANIMATION 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ANIMATION 3
 http://carthage-pro.fr:25461/test2/test2/36695
-#EXTINF:-1,SHAHID SCI-FI 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID SCI-FI 2
 http://carthage-pro.fr:25461/test2/test2/36696
-#EXTINF:-1,SHAHID CRIME 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID CRIME 1
 http://carthage-pro.fr:25461/test2/test2/36697
-#EXTINF:-1,SHAHID ANIMATION 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ANIMATION 2
 http://carthage-pro.fr:25461/test2/test2/36698
-#EXTINF:-1,SHAHID ADVENTURE 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ADVENTURE 2
 http://carthage-pro.fr:25461/test2/test2/36699
-#EXTINF:-1,SHAHID ADVENTURE 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ADVENTURE 3
 http://carthage-pro.fr:25461/test2/test2/36700
-#EXTINF:-1,SHAHID COMEDY 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID COMEDY 1
 http://carthage-pro.fr:25461/test2/test2/36701
-#EXTINF:-1,SHAHID CRIME 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID CRIME 2
 http://carthage-pro.fr:25461/test2/test2/36702
-#EXTINF:-1,SHAHID AFLAM 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 4
 http://carthage-pro.fr:25461/test2/test2/36703
-#EXTINF:-1,SHAHID AFLAM 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 5
 http://carthage-pro.fr:25461/test2/test2/36704
-#EXTINF:-1,SHAHID BOLLYWOOD 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID BOLLYWOOD 2
 http://carthage-pro.fr:25461/test2/test2/36705
-#EXTINF:-1,SHAHID BOLLYWOOD 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID BOLLYWOOD 3
 http://carthage-pro.fr:25461/test2/test2/36706
-#EXTINF:-1,SHAHID TURKI 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID TURKI 2
 http://carthage-pro.fr:25461/test2/test2/36707
-#EXTINF:-1,SHAHID ADVENTURE 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ADVENTURE 1
 http://carthage-pro.fr:25461/test2/test2/36708
-#EXTINF:-1,SHAHID ANIMATION 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ANIMATION 1
 http://carthage-pro.fr:25461/test2/test2/36709
-#EXTINF:-1,SHAHID AFLAM 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 2
 http://carthage-pro.fr:25461/test2/test2/36710
-#EXTINF:-1,SHAHID AFLAM 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 3
 http://carthage-pro.fr:25461/test2/test2/36711
-#EXTINF:-1,SHAHID ADVENTURE 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID ADVENTURE 4
 http://carthage-pro.fr:25461/test2/test2/36712
-#EXTINF:-1,SHAHID BOLLYWOOD 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID BOLLYWOOD 1
 http://carthage-pro.fr:25461/test2/test2/36713
-#EXTINF:-1,SHAHID AFLAM 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID AFLAM 6
 http://carthage-pro.fr:25461/test2/test2/36714
-#EXTINF:-1,SHAHID TURKI 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID TURKI 1
 http://carthage-pro.fr:25461/test2/test2/36715
-#EXTINF:-1,SHAHID COMEDY 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID COMEDY 2
 http://carthage-pro.fr:25461/test2/test2/54060
-#EXTINF:-1,SHAHID SCI-FI 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID SCI-FI 1
 http://carthage-pro.fr:25461/test2/test2/54061
-#EXTINF:-1,SHAHID HORROR 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID HORROR 3
 http://carthage-pro.fr:25461/test2/test2/54062
-#EXTINF:-1,SHAHID MASRAH MASR 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",SHAHID MASRAH MASR 
 http://carthage-pro.fr:25461/test2/test2/54063
-#EXTINF:-1,•●★ |AR| VIP SHAHID  |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/55545
-#EXTINF:-1,|AR| Adel Imam Masrah*
-http://carthage-pro.fr:25461/test2/test2/58292
-#EXTINF:-1,|AR| Adel Imam Aflam*
-http://carthage-pro.fr:25461/test2/test2/58293
-#EXTINF:-1,|AR| Mahmoud Abdelaziz*
-http://carthage-pro.fr:25461/test2/test2/58294
-#EXTINF:-1,|AR| B Cinema*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",B Cinema*
 http://carthage-pro.fr:25461/test2/test2/58295
-#EXTINF:-1,|AR| Action Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Action Movies*
 http://carthage-pro.fr:25461/test2/test2/58296
-#EXTINF:-1,|AR| Box Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Box Movies*
 http://carthage-pro.fr:25461/test2/test2/58297
-#EXTINF:-1,|AR| Cinema One*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Cinema One*
 http://carthage-pro.fr:25461/test2/test2/58298
-#EXTINF:-1,|AR| Comedy Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Comedy Movies*
 http://carthage-pro.fr:25461/test2/test2/58299
-#EXTINF:-1,|AR| Disney Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Disney Movies*
 http://carthage-pro.fr:25461/test2/test2/58300
-#EXTINF:-1,|AR| Family Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Family Movies*
 http://carthage-pro.fr:25461/test2/test2/58301
-#EXTINF:-1,|AR| FuckStar Movies*
-http://carthage-pro.fr:25461/test2/test2/58302
-#EXTINF:-1,|AR| KidsCo Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",KidsCo Movies*
 http://carthage-pro.fr:25461/test2/test2/58303
-#EXTINF:-1,|AR| Masrah Masr*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Masrah Masr*
 http://carthage-pro.fr:25461/test2/test2/58304
-#EXTINF:-1,|AR| Master Piece Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Master Piece Movies*
 http://carthage-pro.fr:25461/test2/test2/58305
-#EXTINF:-1,|AR| Premiere Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Premiere Movies*
 http://carthage-pro.fr:25461/test2/test2/58306
-#EXTINF:-1,|AR| Romance Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Romance Movies*
 http://carthage-pro.fr:25461/test2/test2/58307
-#EXTINF:-1,|AR| The Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",The Movies*
 http://carthage-pro.fr:25461/test2/test2/58308
-#EXTINF:-1,|AR| The Movies 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",The Movies 2*
 http://carthage-pro.fr:25461/test2/test2/58309
-#EXTINF:-1,|AR| Thriller Movies*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Shahid",Thriller Movies*
 http://carthage-pro.fr:25461/test2/test2/58310
-#EXTINF:-1,|AR| Tom and Jerry*
-http://carthage-pro.fr:25461/test2/test2/58311
-#EXTINF:-1,|AR| Tom and Jerry Classic*
-http://carthage-pro.fr:25461/test2/test2/58312
-#EXTINF:-1,|AR| Tom and Jerry Classic 2*
-http://carthage-pro.fr:25461/test2/test2/58313
-#EXTINF:-1,|AR| Tom et Jerry Tales*
-http://carthage-pro.fr:25461/test2/test2/58314
-#EXTINF:-1,|AR| W Movies*
-http://carthage-pro.fr:25461/test2/test2/58315
-#EXTINF:-1,|AR| Netflix Aflam 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Aflam 1*
 http://carthage-pro.fr:25461/test2/test2/58316
-#EXTINF:-1,|AR| Netflix Aflam 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Aflam 2*
 http://carthage-pro.fr:25461/test2/test2/58317
-#EXTINF:-1,|AR| Netflix Aflam 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Aflam 3*
 http://carthage-pro.fr:25461/test2/test2/58318
-#EXTINF:-1,|AR| Netflix Cinema 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Cinema 1*
 http://carthage-pro.fr:25461/test2/test2/58319
-#EXTINF:-1,|AR| Netflix Cinema 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Cinema 2*
 http://carthage-pro.fr:25461/test2/test2/58320
-#EXTINF:-1,|AR| Netflix Cinema 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Cinema 3*
 http://carthage-pro.fr:25461/test2/test2/58321
-#EXTINF:-1,|AR| Netflix Movies 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Movies 1*
 http://carthage-pro.fr:25461/test2/test2/58322
-#EXTINF:-1,|AR| Netflix Movies 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Movies 2*
 http://carthage-pro.fr:25461/test2/test2/58323
-#EXTINF:-1,|AR| Netflix Movies 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Movies 3*
 http://carthage-pro.fr:25461/test2/test2/58324
-#EXTINF:-1,|AR| Netflix Kids1 A*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids1 A*
 http://carthage-pro.fr:25461/test2/test2/58325
-#EXTINF:-1,|AR| Netflix Kids1 B*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids1 B*
 http://carthage-pro.fr:25461/test2/test2/58326
-#EXTINF:-1,|AR| Netflix Kids1 C*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids1 C*
 http://carthage-pro.fr:25461/test2/test2/58327
-#EXTINF:-1,|AR| Netflix Kids2 A*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids2 A*
 http://carthage-pro.fr:25461/test2/test2/58328
-#EXTINF:-1,|AR| Netflix Kids2 B*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids2 B*
 http://carthage-pro.fr:25461/test2/test2/58329
-#EXTINF:-1,|AR| Netflix Kids2 C*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",Netflix Kids2 C*
 http://carthage-pro.fr:25461/test2/test2/58330
-#EXTINF:-1,|AR| Netflix Action ENG*
-http://carthage-pro.fr:25461/test2/test2/58331
-#EXTINF:-1,|AR| Netflix Annimation ENG*
-http://carthage-pro.fr:25461/test2/test2/58332
-#EXTINF:-1,|AR| Netflix BOXOFFICE ENG*
-http://carthage-pro.fr:25461/test2/test2/58333
-#EXTINF:-1,|AR| Netflix Comedy ENG*
-http://carthage-pro.fr:25461/test2/test2/58334
-#EXTINF:-1,|AR| Netflix Drama ENG*
-http://carthage-pro.fr:25461/test2/test2/58335
-#EXTINF:-1,|AR| Netflix Horror ENG*
-http://carthage-pro.fr:25461/test2/test2/58336
-#EXTINF:-1,|AR| Netflix Kids ENG*
-http://carthage-pro.fr:25461/test2/test2/58337
-#EXTINF:-1,|AR| Netflix ROMANCE ENG*
-http://carthage-pro.fr:25461/test2/test2/58338
-#EXTINF:-1,|AR| Netflix SCI-FI ENG*
-http://carthage-pro.fr:25461/test2/test2/58339
-#EXTINF:-1,|AR| Netflix THRILLER ENG*
-http://carthage-pro.fr:25461/test2/test2/58340
-#EXTINF:-1,|AR| Netflix WAR ENG*
-http://carthage-pro.fr:25461/test2/test2/58341
-#EXTINF:-1,|AR| Netflix WESTERN ENG*
-http://carthage-pro.fr:25461/test2/test2/58342
-#EXTINF:-1,|AR| NETFLIX Action*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Action*
 http://carthage-pro.fr:25461/test2/test2/58343
-#EXTINF:-1,|AR| NETFLIX BOLLYWOOD*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX BOLLYWOOD*
 http://carthage-pro.fr:25461/test2/test2/58344
-#EXTINF:-1,|AR| NETFLIX CLASSICS*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX CLASSICS*
 http://carthage-pro.fr:25461/test2/test2/58345
-#EXTINF:-1,|AR| NETFLIX Comedy*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Comedy*
 http://carthage-pro.fr:25461/test2/test2/58346
-#EXTINF:-1,|AR| NETFLIX Discovery*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Discovery*
 http://carthage-pro.fr:25461/test2/test2/58347
-#EXTINF:-1,|AR| NETFLIX DRAMA*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX DRAMA*
 http://carthage-pro.fr:25461/test2/test2/58348
-#EXTINF:-1,|AR| NETFLIX Horror*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Horror*
 http://carthage-pro.fr:25461/test2/test2/58349
-#EXTINF:-1,|AR| NETFLIX Horror ENG*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Horror ENG*
 http://carthage-pro.fr:25461/test2/test2/58350
-#EXTINF:-1,|AR| NETFLIX KIDS1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX KIDS1*
 http://carthage-pro.fr:25461/test2/test2/58351
-#EXTINF:-1,|AR| NETFLIX Aflam ᴴᴰ*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Netflix",NETFLIX Aflam ᴴᴰ*
 http://carthage-pro.fr:25461/test2/test2/58352
-#EXTINF:-1,|AR| NETFLIX  CARTOON ᴴᴰ*
-http://carthage-pro.fr:25461/test2/test2/58353
-#EXTINF:-1,|AR| NETFLIX SCi-Fi*
-http://carthage-pro.fr:25461/test2/test2/58354
-#EXTINF:-1,|AR| NETFLIX Thriller EN*
-http://carthage-pro.fr:25461/test2/test2/58355
-#EXTINF:-1,|AR| SHAHID Movies 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 1*
 http://carthage-pro.fr:25461/test2/test2/58356
-#EXTINF:-1,|AR| SHAHID Movies 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 2*
 http://carthage-pro.fr:25461/test2/test2/58357
-#EXTINF:-1,|AR| SHAHID Movies 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 3*
 http://carthage-pro.fr:25461/test2/test2/58358
-#EXTINF:-1,|AR| SHAHID Movies 4*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 4*
 http://carthage-pro.fr:25461/test2/test2/58359
-#EXTINF:-1,|AR| SHAHID Movies 5*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 5*
 http://carthage-pro.fr:25461/test2/test2/58360
-#EXTINF:-1,|AR| SHAHID Movies 6*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID Movies 6*
 http://carthage-pro.fr:25461/test2/test2/58361
-#EXTINF:-1,|AR| SHAHID ACTION 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ACTION 1*
 http://carthage-pro.fr:25461/test2/test2/58362
-#EXTINF:-1,|AR| SHAHID ACTION 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ACTION 2*
 http://carthage-pro.fr:25461/test2/test2/58363
-#EXTINF:-1,|AR| SHAHID ACTION 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ACTION 3*
 http://carthage-pro.fr:25461/test2/test2/58364
-#EXTINF:-1,|AR| SHAHID ADVENTURE 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ADVENTURE 1*
 http://carthage-pro.fr:25461/test2/test2/58365
-#EXTINF:-1,|AR| SHAHID ADVENTURE 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ADVENTURE 2*
 http://carthage-pro.fr:25461/test2/test2/58366
-#EXTINF:-1,|AR| SHAHID AFLAM*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID AFLAM*
 http://carthage-pro.fr:25461/test2/test2/58367
-#EXTINF:-1,|AR| SHAHID AFLAM 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID AFLAM 1*
 http://carthage-pro.fr:25461/test2/test2/58368
-#EXTINF:-1,|AR| SHAHID AFLAM 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID AFLAM 2*
 http://carthage-pro.fr:25461/test2/test2/58369
-#EXTINF:-1,|AR| SHAHID CINEMA  AR1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID CINEMA  AR1*
 http://carthage-pro.fr:25461/test2/test2/58370
-#EXTINF:-1,|AR| SHAHID BOLLYWOOD 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID BOLLYWOOD 1*
 http://carthage-pro.fr:25461/test2/test2/58371
-#EXTINF:-1,|AR| SHAHID BOLLYWOOD 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID BOLLYWOOD 2*
 http://carthage-pro.fr:25461/test2/test2/58372
-#EXTINF:-1,|AR| SHAHID CINEMA*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID CINEMA*
 http://carthage-pro.fr:25461/test2/test2/58373
-#EXTINF:-1,|AR| SHAHID COMEDY 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID COMEDY 1*
 http://carthage-pro.fr:25461/test2/test2/58374
-#EXTINF:-1,|AR| SHAHID COMEDY 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID COMEDY 2*
 http://carthage-pro.fr:25461/test2/test2/58375
-#EXTINF:-1,|AR| SHAHID CRIME 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID CRIME 1*
 http://carthage-pro.fr:25461/test2/test2/58376
-#EXTINF:-1,|AR| SHAHID CRIME 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID CRIME 2*
 http://carthage-pro.fr:25461/test2/test2/58377
-#EXTINF:-1,|AR| SHAHID DOCUMENTARY 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DOCUMENTARY 1*
 http://carthage-pro.fr:25461/test2/test2/58378
-#EXTINF:-1,|AR| SHAHID DOCUMENTARY 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DOCUMENTARY 2*
 http://carthage-pro.fr:25461/test2/test2/58379
-#EXTINF:-1,|AR| SHAHID DRAMA 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DRAMA 1*
 http://carthage-pro.fr:25461/test2/test2/58380
-#EXTINF:-1,|AR| SHAHID DRAMA 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID DRAMA 2*
 http://carthage-pro.fr:25461/test2/test2/58381
-#EXTINF:-1,|AR| SHAHID FAMILY 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID FAMILY 1*
 http://carthage-pro.fr:25461/test2/test2/58382
-#EXTINF:-1,|AR| SHAHID FAMILY 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID FAMILY 2*
 http://carthage-pro.fr:25461/test2/test2/58383
-#EXTINF:-1,|AR| SHAHID HORROR 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID HORROR 1*
 http://carthage-pro.fr:25461/test2/test2/58384
-#EXTINF:-1,|AR| SHAHID HORROR 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID HORROR 2*
 http://carthage-pro.fr:25461/test2/test2/58385
-#EXTINF:-1,|AR| SHAHID HORROR 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID HORROR 3*
 http://carthage-pro.fr:25461/test2/test2/58386
-#EXTINF:-1,|AR| SHAHID SCI-FI 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID SCI-FI 1*
 http://carthage-pro.fr:25461/test2/test2/58387
-#EXTINF:-1,|AR| SHAHID SCI-FI 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID SCI-FI 2*
 http://carthage-pro.fr:25461/test2/test2/58388
-#EXTINF:-1,|AR| SHAHID SCI-FI 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID SCI-FI 3*
 http://carthage-pro.fr:25461/test2/test2/58389
-#EXTINF:-1,|AR| SHAHID THRILLER 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID THRILLER 1*
 http://carthage-pro.fr:25461/test2/test2/58390
-#EXTINF:-1,|AR| SHAHID THRILLER 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID THRILLER 2*
 http://carthage-pro.fr:25461/test2/test2/58391
-#EXTINF:-1,|AR| SHAHID ZAMAN*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID ZAMAN*
 http://carthage-pro.fr:25461/test2/test2/58392
-#EXTINF:-1,|AR| SHAHID KIDS 1*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID KIDS 1*
 http://carthage-pro.fr:25461/test2/test2/58393
-#EXTINF:-1,|AR| SHAHID KIDS 2*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID KIDS 2*
 http://carthage-pro.fr:25461/test2/test2/58394
-#EXTINF:-1,|AR| SHAHID KIDS 3*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID KIDS 3*
 http://carthage-pro.fr:25461/test2/test2/58395
-#EXTINF:-1,|AR| SHAHID KIDS 4*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID KIDS 4*
 http://carthage-pro.fr:25461/test2/test2/58396
-#EXTINF:-1,|AR| SHAHID CARTOON*
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",SHAHID CARTOON*
 http://carthage-pro.fr:25461/test2/test2/58397
-#EXTINF:-1,|AR| ISMAIL YASEAN*
-http://carthage-pro.fr:25461/test2/test2/58398
-#EXTINF:-1,|AR| AHMEDZAKI*
-http://carthage-pro.fr:25461/test2/test2/58399
-#EXTINF:-1,Al-Ostoura-Channel
-http://carthage-pro.fr:25461/test2/test2/61693
-#EXTINF:-1,Al-Zaeem-Channel
-http://carthage-pro.fr:25461/test2/test2/61695
-#EXTINF:-1,Al-Sham-Channel
-http://carthage-pro.fr:25461/test2/test2/61706
-#EXTINF:-1,Al-Nojoum-Channel
-http://carthage-pro.fr:25461/test2/test2/61707
-#EXTINF:-1,Al-Masrah-Channel
-http://carthage-pro.fr:25461/test2/test2/61711
-#EXTINF:-1,Bollywood-Channel
-http://carthage-pro.fr:25461/test2/test2/61696
-#EXTINF:-1,Comedy-Channel
-http://carthage-pro.fr:25461/test2/test2/61698
-#EXTINF:-1,Fannan-Al-Arab-Channel
-http://carthage-pro.fr:25461/test2/test2/61712
-#EXTINF:-1,Hassino-Channel
-http://carthage-pro.fr:25461/test2/test2/61708
-#EXTINF:-1,Khaleeji-Channel
-http://carthage-pro.fr:25461/test2/test2/61709
-#EXTINF:-1,Korean-Channel
-http://carthage-pro.fr:25461/test2/test2/61703
-#EXTINF:-1,Masr-Channel
-http://carthage-pro.fr:25461/test2/test2/61694
-#EXTINF:-1,Mawaheb-Channel
-http://carthage-pro.fr:25461/test2/test2/61700
-#EXTINF:-1,Maqaleb-Channel
-http://carthage-pro.fr:25461/test2/test2/61701
-#EXTINF:-1,Levant-Channel
-http://carthage-pro.fr:25461/test2/test2/61699
-#EXTINF:-1,Style-Channel
-http://carthage-pro.fr:25461/test2/test2/61705
-#EXTINF:-1,Tarab-Channel
-http://carthage-pro.fr:25461/test2/test2/61713
-#EXTINF:-1,Tareekhi-Channel
-http://carthage-pro.fr:25461/test2/test2/61704
-#EXTINF:-1,Turki-Channel
-http://carthage-pro.fr:25461/test2/test2/61697
-#EXTINF:-1,Top-Chef-Channel
-http://carthage-pro.fr:25461/test2/test2/61702
-#EXTINF:-1,Tash-Channel
-http://carthage-pro.fr:25461/test2/test2/61710
-#EXTINF:-1,•●★★--bee-TV--★★●•
-http://carthage-pro.fr:25461/test2/test2/61743
-#EXTINF:-1,Bee.Movies.HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bee",Bee.Movies.HD
 http://carthage-pro.fr:25461/test2/test2/61744
-#EXTINF:-1,Bee.Theater.HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bee",Bee.Theater.HD
 http://carthage-pro.fr:25461/test2/test2/61745
-#EXTINF:-1,Bee Drama.HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bee",Bee Drama.HD
 http://carthage-pro.fr:25461/test2/test2/61746
-#EXTINF:-1,Bee Shots.HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bee",Bee Shots.HD
 http://carthage-pro.fr:25461/test2/test2/61747
-#EXTINF:-1,Bee Max.HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bee",Bee Max.HD
 http://carthage-pro.fr:25461/test2/test2/61748
-#EXTINF:-1,•●★★--Weyyak--★★●•
-http://carthage-pro.fr:25461/test2/test2/61749
-#EXTINF:-1,weyyak.Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="weyyak",weyyak.Drama
 http://carthage-pro.fr:25461/test2/test2/61750
-#EXTINF:-1,weyyak.nawaem
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="weyyak",weyyak.nawaem
 http://carthage-pro.fr:25461/test2/test2/61751
-#EXTINF:-1,weyyak.Action
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="weyyak",weyyak.Action
 http://carthage-pro.fr:25461/test2/test2/61752
-#EXTINF:-1,weyyak.Mix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="weyyak",weyyak.Mix
 http://carthage-pro.fr:25461/test2/test2/61753
-#EXTINF:-1,•●★ |AR| NETFLIX |AR| ★●
-http://carthage-pro.fr:25461/test2/test2/54058
-#EXTINF:-1,HFM | Netflix Action اكشن
-http://carthage-pro.fr:25461/test2/test2/43024
-#EXTINF:-1,HFM | Netflix SciFi خيال علمي
-http://carthage-pro.fr:25461/test2/test2/43025
-#EXTINF:-1,HFM | Netflix Thriller إثارة
-http://carthage-pro.fr:25461/test2/test2/43026
-#EXTINF:-1,HFM_أفلام مدبلجة Live
-http://carthage-pro.fr:25461/test2/test2/43031
-#EXTINF:-1,HFM_أفلام مصرية Live
-http://carthage-pro.fr:25461/test2/test2/43032
-#EXTINF:-1,HFM_أفلام و صور متحركة Live
-http://carthage-pro.fr:25461/test2/test2/43033
-#EXTINF:-1,HFM_أفلام وثائقية Live
-http://carthage-pro.fr:25461/test2/test2/43034
-#EXTINF:-1,NETFLIX | ACTION اكشن HD
-http://carthage-pro.fr:25461/test2/test2/43027
-#EXTINF:-1,NETFLIX | COMEDY كوميديا HD
-http://carthage-pro.fr:25461/test2/test2/43029
-#EXTINF:-1,NETFLIX | HORROR رعب HD
-http://carthage-pro.fr:25461/test2/test2/43028
-#EXTINF:-1,NETFLIX | SCI-FI خيال علمي HD
-http://carthage-pro.fr:25461/test2/test2/43030
-#EXTINF:-1,•●★ |FR| NETFLIX |FR| ★●
-http://carthage-pro.fr:25461/test2/test2/47553
-#EXTINF:-1,|FR| NETFLIX 1 ACTION HD 
-http://carthage-pro.fr:25461/test2/test2/47546
-#EXTINF:-1,|FR| NETFLIX 2 COMEDIE HD
-http://carthage-pro.fr:25461/test2/test2/47547
-#EXTINF:-1,|FR| NETFLIX 3 CRIME-DRAME HD
-http://carthage-pro.fr:25461/test2/test2/47548
-#EXTINF:-1,|FR| NETFLIX 4 ROMANCE HD 
-http://carthage-pro.fr:25461/test2/test2/47549
-#EXTINF:-1,|FR| NETFLIX 5 HORREUR HD
-http://carthage-pro.fr:25461/test2/test2/47550
-#EXTINF:-1,|FR| NETFLIX 6 HD 
-http://carthage-pro.fr:25461/test2/test2/47551
-#EXTINF:-1,|FR| NETFLIX 7 HD 
-http://carthage-pro.fr:25461/test2/test2/47552
-#EXTINF:-1,|FR| NETFLIX Play TV KIDS 1
-http://carthage-pro.fr:25461/test2/test2/47554
-#EXTINF:-1,|FR| NETFLIX Play TV KIDS 2
-http://carthage-pro.fr:25461/test2/test2/47555
-#EXTINF:-1,|FR| NETFLIX Play TV KIDS 3
-http://carthage-pro.fr:25461/test2/test2/47556
-#EXTINF:-1,|FR| NETFLIX Play TV KIDS 4
-http://carthage-pro.fr:25461/test2/test2/47557
-#EXTINF:-1,|CH| TVM3 HD
-http://carthage-pro.fr:25461/test2/test2/36938
-#EXTINF:-1,•●★ |CH| SUISSE |CH| ★●•
-http://carthage-pro.fr:25461/test2/test2/38381
-#EXTINF:-1,|CH| RTS UN HD
-http://carthage-pro.fr:25461/test2/test2/38382
-#EXTINF:-1,|CH| RTS DEUX HD
-http://carthage-pro.fr:25461/test2/test2/38383
-#EXTINF:-1,|CH| Kanal 9
-http://carthage-pro.fr:25461/test2/test2/38384
-#EXTINF:-1,|CH| SWISS 1 HD
-http://carthage-pro.fr:25461/test2/test2/38385
-#EXTINF:-1,|CH| MySports 8 HD
-http://carthage-pro.fr:25461/test2/test2/38386
-#EXTINF:-1,|CH| MySports 7 HD
-http://carthage-pro.fr:25461/test2/test2/38387
-#EXTINF:-1,|CH| MySports 6 HD
-http://carthage-pro.fr:25461/test2/test2/38388
-#EXTINF:-1,|CH| MySports 5 HD
-http://carthage-pro.fr:25461/test2/test2/38389
-#EXTINF:-1,|CH| MySports 4 HD
-http://carthage-pro.fr:25461/test2/test2/38390
-#EXTINF:-1,|CH| MySports 3 HD
-http://carthage-pro.fr:25461/test2/test2/38391
-#EXTINF:-1,|CH| MySports 2 HD
-http://carthage-pro.fr:25461/test2/test2/38392
-#EXTINF:-1,|CH| MySports 1 HD
-http://carthage-pro.fr:25461/test2/test2/38393
-#EXTINF:-1,|CH| SWISS CHALENGE HD
-http://carthage-pro.fr:25461/test2/test2/38394
-#EXTINF:-1,|CH| TVO HD
-http://carthage-pro.fr:25461/test2/test2/38395
-#EXTINF:-1,|CH| TELEBASEL
-http://carthage-pro.fr:25461/test2/test2/38396
-#EXTINF:-1,|CH| TELE M1 HD
-http://carthage-pro.fr:25461/test2/test2/38397
-#EXTINF:-1,|CH| BLUE ACTION HD
-http://carthage-pro.fr:25461/test2/test2/38398
-#EXTINF:-1,|CH| BLUE SPORT 2 HD
-http://carthage-pro.fr:25461/test2/test2/38399
-#EXTINF:-1,|CH| BLUE SPORT 1 HD
-http://carthage-pro.fr:25461/test2/test2/38400
-#EXTINF:-1,|CH| BLUE PRIME HD
-http://carthage-pro.fr:25461/test2/test2/38401
-#EXTINF:-1,|CH| SRF 2 HD
-http://carthage-pro.fr:25461/test2/test2/38402
-#EXTINF:-1,|CH| SRF INFO HD
-http://carthage-pro.fr:25461/test2/test2/38403
-#EXTINF:-1,|CH| SRF 1 HD
-http://carthage-pro.fr:25461/test2/test2/38404
-#EXTINF:-1,|CH| SRF SPORT HD
-http://carthage-pro.fr:25461/test2/test2/55829
-#EXTINF:-1,|CH| TELEBIELINGUE HD
-http://carthage-pro.fr:25461/test2/test2/55830
-#EXTINF:-1,|CH| TELETICINO HD
-http://carthage-pro.fr:25461/test2/test2/55831
-#EXTINF:-1,|TN| Wataniya 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Wataniya 1
 http://carthage-pro.fr:25461/test2/test2/1
-#EXTINF:-1,|TN| Wataniya 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Wataniya 2
 http://carthage-pro.fr:25461/test2/test2/2
-#EXTINF:-1,|TN| Elhiwar Ettounsi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Elhiwar Ettounsi
 http://carthage-pro.fr:25461/test2/test2/3
-#EXTINF:-1,|TN| ATTESSIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",ATTESSIA
 http://carthage-pro.fr:25461/test2/test2/4
-#EXTINF:-1,|TN| HANNIBAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",HANNIBAL
 http://carthage-pro.fr:25461/test2/test2/5
-#EXTINF:-1,|TN| CARTHAGE+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",CARTHAGE+
 http://carthage-pro.fr:25461/test2/test2/6
-#EXTINF:-1,|TN| AL MUSTAKILA
-http://carthage-pro.fr:25461/test2/test2/7
-#EXTINF:-1,|TN| ALJANOUBIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",ALJANOUBIA
 http://carthage-pro.fr:25461/test2/test2/8
-#EXTINF:-1,|TN| TUNISNA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",TUNISNA
 http://carthage-pro.fr:25461/test2/test2/9
-#EXTINF:-1,|TN| Nessma Ejdida
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Nessma Ejdida
 http://carthage-pro.fr:25461/test2/test2/10
-#EXTINF:-1,|TN| Sahel TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Sahel TV
 http://carthage-pro.fr:25461/test2/test2/11
-#EXTINF:-1,|TN| TELVZA-TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",TELVZA-TV
 http://carthage-pro.fr:25461/test2/test2/12
-#EXTINF:-1,|TN| Tunisie Immobilier TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Tunisie Immobilier TV
 http://carthage-pro.fr:25461/test2/test2/13
-#EXTINF:-1,|TN| AL INSEN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",AL INSEN TV
 http://carthage-pro.fr:25461/test2/test2/14
-#EXTINF:-1,|TN| Wataniya Ettarbawiya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Wataniya Ettarbawiya
 http://carthage-pro.fr:25461/test2/test2/15
-#EXTINF:-1,|TN| Mosaique_FM_Live
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Mosaique_FM_Live
 http://carthage-pro.fr:25461/test2/test2/16
-#EXTINF:-1,|TN| Jawhara_FM_Live
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Jawhara_FM_Live
 http://carthage-pro.fr:25461/test2/test2/17
-#EXTINF:-1,|TN| Smash Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Smash Arabic
 http://carthage-pro.fr:25461/test2/test2/162
-#EXTINF:-1,•●★ |TN| TUNISIE |TN| ★●•
-http://carthage-pro.fr:25461/test2/test2/35707
-#EXTINF:-1,|TN| HFM_شوفلي حل Live
-http://carthage-pro.fr:25461/test2/test2/47568
-#EXTINF:-1,|TN| HFM_نسبتي لعزيزة Live
-http://carthage-pro.fr:25461/test2/test2/47569
-#EXTINF:-1,|TN| HFM_مسلسلات تونسية Live
-http://carthage-pro.fr:25461/test2/test2/47570
-#EXTINF:-1,|TN| HFM_Rap Tunisien
-http://carthage-pro.fr:25461/test2/test2/47571
-#EXTINF:-1,|TN| BAYA TV
-http://carthage-pro.fr:25461/test2/test2/49219
-#EXTINF:-1,|TN| Tunisie Televsion 1
-http://carthage-pro.fr:25461/test2/test2/49252
-#EXTINF:-1,|TN| ZAYTOONA
-http://carthage-pro.fr:25461/test2/test2/50251
-#EXTINF:-1,•●★ | WELCOME | ★●•
-http://carthage-pro.fr:25461/test2/test2/54054
-#EXTINF:-1,TNT Tunisia NAT 1
-http://carthage-pro.fr:25461/test2/test2/58569
-#EXTINF:-1,TNT Elhiwar Ettounsi
-http://carthage-pro.fr:25461/test2/test2/58571
-#EXTINF:-1,TNT HANNIBAL TV
-http://carthage-pro.fr:25461/test2/test2/58572
-#EXTINF:-1,TNT Carthage+
-http://carthage-pro.fr:25461/test2/test2/58573
-#EXTINF:-1,TNT Tunisia Tarbawiya
-http://carthage-pro.fr:25461/test2/test2/58574
-#EXTINF:-1,TNT Telvza TV
-http://carthage-pro.fr:25461/test2/test2/58575
-#EXTINF:-1,TNT Tunisna
-http://carthage-pro.fr:25461/test2/test2/58576
-#EXTINF:-1,TNT AL INSEN
-http://carthage-pro.fr:25461/test2/test2/58577
-#EXTINF:-1,TNT AL JANOUBIA
-http://carthage-pro.fr:25461/test2/test2/58578
-#EXTINF:-1,TNT Attessia TV
-http://carthage-pro.fr:25461/test2/test2/58579
-#EXTINF:-1,|TN.Radio| Knooz FM
-http://carthage-pro.fr:25461/test2/test2/59965
-#EXTINF:-1,|TN.Radio| IFM
-http://carthage-pro.fr:25461/test2/test2/59967
-#EXTINF:-1,|TN.Radio| Diwan FM Sfax
-http://carthage-pro.fr:25461/test2/test2/59968
-#EXTINF:-1,|TN.Radio| Sabra FM
-http://carthage-pro.fr:25461/test2/test2/59969
-#EXTINF:-1,|TN.Radio| Zitouna FM
-http://carthage-pro.fr:25461/test2/test2/59970
-#EXTINF:-1, |TN| Jawhara TV 
-http://carthage-pro.fr:25461/test2/test2/58642
-#EXTINF:-1,TNT Tunisie Televsion 1
-http://carthage-pro.fr:25461/test2/test2/58643
-#EXTINF:-1,TNT Nessma Ejdid
-http://carthage-pro.fr:25461/test2/test2/58644
-#EXTINF:-1,|DZ| Awraas Tv
-http://carthage-pro.fr:25461/test2/test2/25
-#EXTINF:-1,|DZ| ALGERIA 2  thania
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 2  thania
 http://carthage-pro.fr:25461/test2/test2/26
-#EXTINF:-1,|DZ| ALGERIA 7 Almareefa
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 7 Almareefa
 http://carthage-pro.fr:25461/test2/test2/27
-#EXTINF:-1,|DZ| ALGERIA 8 AlThakera
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 8 AlThakera
 http://carthage-pro.fr:25461/test2/test2/28
-#EXTINF:-1,|DZ| BERBERE TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BERBERE TV
 http://carthage-pro.fr:25461/test2/test2/29
 #EXTINF:-1,|DZ| ALGERIA 1 Aloula
-#EXTGRP: ALGERIE
 http://carthage-pro.fr:25461/test2/test2/30
-#EXTINF:-1,|DZ| BAHIA TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BAHIA TV
 http://carthage-pro.fr:25461/test2/test2/31
-#EXTINF:-1,|DZ| TAMAZIGHT ALGER
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",TAMAZIGHT ALGER
 http://carthage-pro.fr:25461/test2/test2/33
-#EXTINF:-1,|DZ| BEUR TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BEUR TV
 http://carthage-pro.fr:25461/test2/test2/34
-#EXTINF:-1,|DZ| SAMIRA TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",SAMIRA TV
 http://carthage-pro.fr:25461/test2/test2/35
-#EXTINF:-1,|DZ| CHOUROUK BENNA
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK BENNA
 http://carthage-pro.fr:25461/test2/test2/36
-#EXTINF:-1,|DZ| CHOUROUK NEWS
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK NEWS
 http://carthage-pro.fr:25461/test2/test2/37
-#EXTINF:-1,|DZ| CHOUROUK TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK TV
 http://carthage-pro.fr:25461/test2/test2/38
-#EXTINF:-1,|DZ| CHAMS TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHAMS TV
 http://carthage-pro.fr:25461/test2/test2/39
-#EXTINF:-1,|DZ| PROGRAMME NATIONAL
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",PROGRAMME NATIONAL
 http://carthage-pro.fr:25461/test2/test2/40
-#EXTINF:-1,|DZ| HADDEF ALGERIE
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",HADDEF ALGERIE
 http://carthage-pro.fr:25461/test2/test2/41
-#EXTINF:-1,|DZ| EL BILAD  TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL BILAD  TV
 http://carthage-pro.fr:25461/test2/test2/42
-#EXTINF:-1,|DZ| DZAIER NEWS
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER NEWS
 http://carthage-pro.fr:25461/test2/test2/43
-#EXTINF:-1,|DZ| DZAIER TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER TV
 http://carthage-pro.fr:25461/test2/test2/44
-#EXTINF:-1,|DZ| ALGERIA 3 Akhbaria
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 3 Akhbaria
 http://carthage-pro.fr:25461/test2/test2/45
-#EXTINF:-1,|DZ| CANAL ALGERIE
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CANAL ALGERIE
 http://carthage-pro.fr:25461/test2/test2/46
-#EXTINF:-1,|DZ| ALGERIA 5 Koran
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 5 Koran
 http://carthage-pro.fr:25461/test2/test2/47
-#EXTINF:-1,|DZ| ALGERIA 4 Amazigia
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 4 Amazigia
 http://carthage-pro.fr:25461/test2/test2/48
-#EXTINF:-1,|DZ| EL FADJR
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL FADJR
 http://carthage-pro.fr:25461/test2/test2/49
-#EXTINF:-1,|DZ| ALGERIA AL ANIS
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA AL ANIS
 http://carthage-pro.fr:25461/test2/test2/51
-#EXTINF:-1,|DZ| ANNAHAR TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ANNAHAR TV
 http://carthage-pro.fr:25461/test2/test2/52
-#EXTINF:-1,|DZ| ZAHRA TV
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ZAHRA TV
 http://carthage-pro.fr:25461/test2/test2/55895
-#EXTINF:-1,|DZ| ONE AL JAZAIRYA
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ONE AL JAZAIRYA
 http://carthage-pro.fr:25461/test2/test2/53
-#EXTINF:-1,|DZ| DZAIER 3
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER 3
 http://carthage-pro.fr:25461/test2/test2/54
-#EXTINF:-1,|DZ| M+ DZ
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",M+ DZ
 http://carthage-pro.fr:25461/test2/test2/55
-#EXTINF:-1,|DZ| EL WATANIA ALGERIE
-#EXTGRP: ALGERIE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL WATANIA ALGERIE
 http://carthage-pro.fr:25461/test2/test2/56
-#EXTINF:-1,•●★ |DZ| ALGERIE |DZ| ★●•
-http://carthage-pro.fr:25461/test2/test2/36480
-#EXTINF:-1,|DZ| ALGERIA 6 Jazaeriya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 6 Jazaeriya
 http://carthage-pro.fr:25461/test2/test2/49278
-http://carthage-pro.fr:25461/test2/test2/49278
-#EXTINF:-1,|MA| MAROC 8 TAMAZIGHT HD
-http://carthage-pro.fr:25461/test2/test2/57
-#EXTINF:-1,|MA| MAROC 6 ASSADISSA HD
-http://carthage-pro.fr:25461/test2/test2/58
-#EXTINF:-1,|MA| MAROC 3 ARRYADIA HD
-http://carthage-pro.fr:25461/test2/test2/60
-#EXTINF:-1,|MA| MAROC 4 ALTHAQAFIYA HD
-http://carthage-pro.fr:25461/test2/test2/61
-#EXTINF:-1,|MA| MAROC 5 Al MAGHRIBIA HD
-http://carthage-pro.fr:25461/test2/test2/63
-#EXTINF:-1,|MA| TELE MAROC HD
-http://carthage-pro.fr:25461/test2/test2/64
-#EXTINF:-1,|MA| MEDI 1 TV ARABIC HD
-http://carthage-pro.fr:25461/test2/test2/65
-#EXTINF:-1,|MA| Al Ons TV
-http://carthage-pro.fr:25461/test2/test2/66
-#EXTINF:-1,|MA| MAROC 1 AL AOULA LAYOUNE HD
-http://carthage-pro.fr:25461/test2/test2/67
-#EXTINF:-1,|MA| MAROC 7 AFLAM HD
-http://carthage-pro.fr:25461/test2/test2/68
-#EXTINF:-1,|MA| MAROC 1 AL AOULA MAROC HD
-http://carthage-pro.fr:25461/test2/test2/70
-#EXTINF:-1,|MA| CHADA TV
-http://carthage-pro.fr:25461/test2/test2/72
-#EXTINF:-1,|MA| 2M MAROC HD
-http://carthage-pro.fr:25461/test2/test2/76
-#EXTINF:-1,|MA| MEDI 1 TV MAGHREB HD
-http://carthage-pro.fr:25461/test2/test2/77
-#EXTINF:-1,|MA| MEDI 1 TV AFRIQUE HD
-http://carthage-pro.fr:25461/test2/test2/85
-#EXTINF:-1,•●★ |MA| MAROC |MA| ★●•  
-http://carthage-pro.fr:25461/test2/test2/34761
-#EXTINF:-1,|LY| LIBYA ALRASMEYA
-http://carthage-pro.fr:25461/test2/test2/18
-#EXTINF:-1,|LY| Libya 218
-http://carthage-pro.fr:25461/test2/test2/19
-#EXTINF:-1,|LY| LIBYAS CHANNEL
-http://carthage-pro.fr:25461/test2/test2/20
-#EXTINF:-1,|LY| LIBYA ALHADATH
-http://carthage-pro.fr:25461/test2/test2/21
-#EXTINF:-1,|LY| LIBYA ALAHRAR TV
-http://carthage-pro.fr:25461/test2/test2/22
-#EXTINF:-1,|LY| SALAM TV
-http://carthage-pro.fr:25461/test2/test2/23
-#EXTINF:-1,|LY| Al Tanasuh TV
-http://carthage-pro.fr:25461/test2/test2/24
-#EXTINF:-1,•●★ |LY| LYBIA |LY ★●•  
-http://carthage-pro.fr:25461/test2/test2/34791
-#EXTINF:-1,|LY| AL MASAR
-http://carthage-pro.fr:25461/test2/test2/36397
-#EXTINF:-1,|LY| Libya 218 News
-http://carthage-pro.fr:25461/test2/test2/49165
-#EXTINF:-1,|LY| ALJamahiria
-http://carthage-pro.fr:25461/test2/test2/50930
-#EXTINF:-1,|LY| LIBYAN NATIONAL
-http://carthage-pro.fr:25461/test2/test2/50935
-#EXTINF:-1,|LY| WTV
-http://carthage-pro.fr:25461/test2/test2/50936
-#EXTINF:-1,•●★ |AR| BEIN ENTERTAINMENT |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/37964
-#EXTINF:-1,beIN BOX OFFiCE 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BOX OFFiCE 1 HD
 http://carthage-pro.fr:25461/test2/test2/37965
-#EXTINF:-1,beIN BOX OFFiCE 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BOX OFFiCE 2 HD
 http://carthage-pro.fr:25461/test2/test2/37966
-#EXTINF:-1,beIN BOX OFFiCE 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BOX OFFiCE 3 HD
 http://carthage-pro.fr:25461/test2/test2/37967
-#EXTINF:-1,beIN iZ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN iZ HD
 http://carthage-pro.fr:25461/test2/test2/37968
-#EXTINF:-1,beIN DREAM WORKS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN DREAM WORKS
 http://carthage-pro.fr:25461/test2/test2/37969
-#EXTINF:-1,beIN HGTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN HGTV HD
 http://carthage-pro.fr:25461/test2/test2/37970
-#EXTINF:-1,beIN STAR MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN STAR MOVIES HD
 http://carthage-pro.fr:25461/test2/test2/37973
-#EXTINF:-1,beIN FILM Box
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FILM Box
 http://carthage-pro.fr:25461/test2/test2/37974
-#EXTINF:-1,beIN FX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FX HD
 http://carthage-pro.fr:25461/test2/test2/37975
-#EXTINF:-1,beIN FOX Movies Action
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FOX Movies Action
 http://carthage-pro.fr:25461/test2/test2/37977
-#EXTINF:-1,beIN Fox Family MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Fox Family MOVIES
 http://carthage-pro.fr:25461/test2/test2/37978
-#EXTINF:-1,beIN AMC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN AMC
 http://carthage-pro.fr:25461/test2/test2/37979
-#EXTINF:-1,beIN MOVIES TURK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN MOVIES TURK
 http://carthage-pro.fr:25461/test2/test2/37981
-#EXTINF:-1,beIN GOURMET HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN GOURMET HD
 http://carthage-pro.fr:25461/test2/test2/37982
-#EXTINF:-1,beIN FATAFEAT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FATAFEAT HD
 http://carthage-pro.fr:25461/test2/test2/37983
-#EXTINF:-1,beIN Series 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Series 1 HD
 http://carthage-pro.fr:25461/test2/test2/37984
-#EXTINF:-1,beIN DRAMA HD1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN DRAMA HD1
 http://carthage-pro.fr:25461/test2/test2/37985
-#EXTINF:-1,beIN GULLI ARABIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN GULLI ARABIC
 http://carthage-pro.fr:25461/test2/test2/37986
-#EXTINF:-1,beIN Junior
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Junior
 http://carthage-pro.fr:25461/test2/test2/37987
-#EXTINF:-1,beIN Baby TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Baby TV HD
 http://carthage-pro.fr:25461/test2/test2/37988
-#EXTINF:-1,beIN Jeem HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Jeem HD
 http://carthage-pro.fr:25461/test2/test2/37989
-#EXTINF:-1,beIN Baraem HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Baraem HD
 http://carthage-pro.fr:25461/test2/test2/37990
-#EXTINF:-1,beIN Discovery SC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Discovery SC
 http://carthage-pro.fr:25461/test2/test2/37991
-#EXTINF:-1,beIN Discovery HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Discovery HD
 http://carthage-pro.fr:25461/test2/test2/37992
-#EXTINF:-1,beIN ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN ANIMAL PLANET
 http://carthage-pro.fr:25461/test2/test2/37993
-#EXTINF:-1,beIN Nat Geo People
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Nat Geo People
 http://carthage-pro.fr:25461/test2/test2/37994
-#EXTINF:-1,beIN Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Nat Geo Wild
 http://carthage-pro.fr:25461/test2/test2/37995
-#EXTINF:-1,beIN Movies HD4 (FAMILY)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Movies HD4 (FAMILY)
 http://carthage-pro.fr:25461/test2/test2/37996
-#EXTINF:-1,beIN Movies HD3 (DRAMA)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Movies HD3 (DRAMA)
 http://carthage-pro.fr:25461/test2/test2/37997
-#EXTINF:-1,beIN Movies HD2 (ACTION)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Movies HD2 (ACTION)
 http://carthage-pro.fr:25461/test2/test2/37998
-#EXTINF:-1,beIN Movies HD1 (PREMIERE)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Movies HD1 (PREMIERE)
 http://carthage-pro.fr:25461/test2/test2/37999
-#EXTINF:-1,beIN Series 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Series 2 HD
 http://carthage-pro.fr:25461/test2/test2/38000
-#EXTINF:-1,beIN Nat Geographic HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Nat Geographic HD
 http://carthage-pro.fr:25461/test2/test2/38001
-#EXTINF:-1,beIN Discovery ID HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Discovery ID HD
 http://carthage-pro.fr:25461/test2/test2/38002
-#EXTINF:-1,|OSN| WOMAN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",WOMAN HD
 http://carthage-pro.fr:25461/test2/test2/38003
-#EXTINF:-1,beIN Star World
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Star World
 http://carthage-pro.fr:25461/test2/test2/38004
-#EXTINF:-1,beIN FOX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FOX HD
 http://carthage-pro.fr:25461/test2/test2/38005
-#EXTINF:-1,beIN Fox Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Fox Movies
 http://carthage-pro.fr:25461/test2/test2/38006
-#EXTINF:-1,beIN Fine Living
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Fine Living
 http://carthage-pro.fr:25461/test2/test2/38007
-#EXTINF:-1,beIN Jim jam
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Jim jam
 http://carthage-pro.fr:25461/test2/test2/38008
-#EXTINF:-1,beIN Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Cartoon Network
 http://carthage-pro.fr:25461/test2/test2/38009
-#EXTINF:-1,beIN Boomerang
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Boomerang
 http://carthage-pro.fr:25461/test2/test2/38010
-#EXTINF:-1,beIN Travel Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Travel Channel
 http://carthage-pro.fr:25461/test2/test2/38011
-#EXTINF:-1,beIN TCM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN TCM
 http://carthage-pro.fr:25461/test2/test2/38012
-#EXTINF:-1,beIN Outdoor
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Outdoor
 http://carthage-pro.fr:25461/test2/test2/38013
-#EXTINF:-1,beIN Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Food Network
 http://carthage-pro.fr:25461/test2/test2/38014
-#EXTINF:-1,beIN Fox Rewayat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Fox Rewayat
 http://carthage-pro.fr:25461/test2/test2/38015
-#EXTINF:-1,beIN FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FOX LIFE
 http://carthage-pro.fr:25461/test2/test2/38016
-#EXTINF:-1,beIN FOX Crime
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FOX Crime
 http://carthage-pro.fr:25461/test2/test2/38017
-#EXTINF:-1,beIN FILM BOX Arthouse
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN FILM BOX Arthouse
 http://carthage-pro.fr:25461/test2/test2/38018
-#EXTINF:-1,beIN Planet Earth
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Planet Earth
 http://carthage-pro.fr:25461/test2/test2/38019
-#EXTINF:-1,beIN Nat Geo  AD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Nat Geo  AD
 http://carthage-pro.fr:25461/test2/test2/38020
-#EXTINF:-1,beIN Fight Box
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN Fight Box
 http://carthage-pro.fr:25461/test2/test2/38022
-#EXTINF:-1,beIN BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BBC Earth
 http://carthage-pro.fr:25461/test2/test2/38023
-#EXTINF:-1,beIN BBC CBeebies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BBC CBeebies
 http://carthage-pro.fr:25461/test2/test2/38024
-#EXTINF:-1,•●★ |SP| ARABE SPORT |SP| ★●•
-http://carthage-pro.fr:25461/test2/test2/260
-#EXTINF:-1,|AR| Iraq-Al_Iraqya_Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Iraq-Al_Iraqya_Sport
 http://carthage-pro.fr:25461/test2/test2/261
-#EXTINF:-1,|AR| Saudi Sport 24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Saudi Sport 24
 http://carthage-pro.fr:25461/test2/test2/263
-#EXTINF:-1,|AR| Nile Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Nile Sport
 http://carthage-pro.fr:25461/test2/test2/264
-#EXTINF:-1,|AR| Kuwait_Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Kuwait_Sport
 http://carthage-pro.fr:25461/test2/test2/265
-#EXTINF:-1,|AR| Al Kaas 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Al Kaas 5
 http://carthage-pro.fr:25461/test2/test2/266
-#EXTINF:-1,|AR| Al Kaas 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Al Kaas 4
 http://carthage-pro.fr:25461/test2/test2/267
-#EXTINF:-1,|AR| Al Kaas 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Al Kaas 2
 http://carthage-pro.fr:25461/test2/test2/268
-#EXTINF:-1,|AR| Al Kaas 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Al Kaas 1
 http://carthage-pro.fr:25461/test2/test2/269
-#EXTINF:-1,|AR| AD Sport 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",AD Sport 3
 http://carthage-pro.fr:25461/test2/test2/272
-#EXTINF:-1,|AR| AD Sport 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",AD Sport 2
 http://carthage-pro.fr:25461/test2/test2/273
-#EXTINF:-1,|AR| AD Sport 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",AD Sport 1
 http://carthage-pro.fr:25461/test2/test2/274
-#EXTINF:-1,|AR| On Sport
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",On Sport
 http://carthage-pro.fr:25461/test2/test2/275
-#EXTINF:-1,|AR| Egypt-Ahly Tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Egypt-Ahly Tv
 http://carthage-pro.fr:25461/test2/test2/276
-#EXTINF:-1,|AR| Al Kaas 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",Al Kaas 3
 http://carthage-pro.fr:25461/test2/test2/281
-#EXTINF:-1,|AR| SSC 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC 1 HD
 http://carthage-pro.fr:25461/test2/test2/53593
-#EXTINF:-1,|AR| SSC 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC 2 HD
 http://carthage-pro.fr:25461/test2/test2/53594
-#EXTINF:-1,|AR| SSC 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC 3 HD
 http://carthage-pro.fr:25461/test2/test2/53595
-#EXTINF:-1,|AR| SSC 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC 4 HD
 http://carthage-pro.fr:25461/test2/test2/53596
-#EXTINF:-1,|AR| SSC 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC 5 HD
 http://carthage-pro.fr:25461/test2/test2/53597
-#EXTINF:-1,|AR| SSC SPORTS XTRA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC SPORTS XTRA 1
 http://carthage-pro.fr:25461/test2/test2/53598
-#EXTINF:-1,|AR| SSC SPORTS XTRA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SSC",SSC SPORTS XTRA 2
 http://carthage-pro.fr:25461/test2/test2/53599
-#EXTINF:-1,|AR| MBC 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC 1 HD
 http://carthage-pro.fr:25461/test2/test2/138
-#EXTINF:-1,|AR| MBC 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC 2 HD
 http://carthage-pro.fr:25461/test2/test2/139
-#EXTINF:-1,|AR| MBC 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC 3 HD
 http://carthage-pro.fr:25461/test2/test2/140
-#EXTINF:-1,|AR| MBC 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC 4 HD
 http://carthage-pro.fr:25461/test2/test2/141
-#EXTINF:-1,|AR| MBC 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC 5 HD
 http://carthage-pro.fr:25461/test2/test2/142
-#EXTINF:-1,|AR| MBC ACTION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC ACTION HD
 http://carthage-pro.fr:25461/test2/test2/143
-#EXTINF:-1,|AR| MBC BOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC BOLLYWOOD HD
 http://carthage-pro.fr:25461/test2/test2/144
-#EXTINF:-1,|AR| MBC DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC DRAMA HD
 http://carthage-pro.fr:25461/test2/test2/146
-#EXTINF:-1,|AR| MBC IRAQ HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC IRAQ HD
 http://carthage-pro.fr:25461/test2/test2/148
-#EXTINF:-1,|AR| MBC MASR 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC MASR 1 HD
 http://carthage-pro.fr:25461/test2/test2/149
-#EXTINF:-1,|AR| MBC MASR 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC MASR 2 HD
 http://carthage-pro.fr:25461/test2/test2/150
-#EXTINF:-1,|AR| MBC MAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC MAX HD
 http://carthage-pro.fr:25461/test2/test2/151
-#EXTINF:-1,|AR| MBC PLUS VARIETY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC PLUS VARIETY HD
 http://carthage-pro.fr:25461/test2/test2/152
-#EXTINF:-1,|AR| MBC PLUS DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC PLUS DRAMA HD
 http://carthage-pro.fr:25461/test2/test2/394
-#EXTINF:-1,•●★ |AR| MBC GROUP |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/36369
-#EXTINF:-1,|AR| MBC PERSIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MBC",MBC PERSIA HD
 http://carthage-pro.fr:25461/test2/test2/40805
-#EXTINF:-1,|AR| ROTANA MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA MUSIC HD
 http://carthage-pro.fr:25461/test2/test2/361
-#EXTINF:-1,|AR| ROTANA CLIP HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA CLIP HD
 http://carthage-pro.fr:25461/test2/test2/362
-#EXTINF:-1,|AR| ROTANA KHALIJIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA KHALIJIA HD
 http://carthage-pro.fr:25461/test2/test2/363
-#EXTINF:-1,|AR| ROTANA DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA DRAMA HD
 http://carthage-pro.fr:25461/test2/test2/364
-#EXTINF:-1,|AR| ROTANA KIDS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA KIDS HD
 http://carthage-pro.fr:25461/test2/test2/365
-#EXTINF:-1,|AR| ROTANA AFLAM + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA AFLAM + HD
 http://carthage-pro.fr:25461/test2/test2/367
-#EXTINF:-1,|AR| ROTANA CINEMA KSA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA CINEMA KSA HD
 http://carthage-pro.fr:25461/test2/test2/401
-#EXTINF:-1,|AR| ROTANA + HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA + HD
 http://carthage-pro.fr:25461/test2/test2/402
-#EXTINF:-1,|AR| ROTANA CLASSIC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA CLASSIC HD
 http://carthage-pro.fr:25461/test2/test2/404
-#EXTINF:-1,|AR| ROTANA CINEMA EGY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ROTANA",ROTANA CINEMA EGY HD
 http://carthage-pro.fr:25461/test2/test2/405
-#EXTINF:-1,•●★ |AR| ROTANA GROUP |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/53613
-#EXTINF:-1,|OSN| COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",COMEDY HD
 http://carthage-pro.fr:25461/test2/test2/191
-#EXTINF:-1,|OSN| MOVIES PREMIERE 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES PREMIERE 2
 http://carthage-pro.fr:25461/test2/test2/192
-#EXTINF:-1,|OSN| ALFA AL YAWM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ALFA AL YAWM
 http://carthage-pro.fr:25461/test2/test2/193
-#EXTINF:-1,|OSN| STAR MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",STAR MOVIES
 http://carthage-pro.fr:25461/test2/test2/194
-#EXTINF:-1,|OSN| DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",DISCOVERY SCIENCE
 http://carthage-pro.fr:25461/test2/test2/195
-#EXTINF:-1,|OSN| NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",NICKELODEON
 http://carthage-pro.fr:25461/test2/test2/196
-#EXTINF:-1,|OSN| SYFY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",SYFY HD
 http://carthage-pro.fr:25461/test2/test2/197
-#EXTINF:-1,|OSN| NAT GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",NAT GEOGRAPHIC HD
 http://carthage-pro.fr:25461/test2/test2/198
-#EXTINF:-1,|OSN| DISNEY XD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",DISNEY XD HD
 http://carthage-pro.fr:25461/test2/test2/199
-#EXTINF:-1,|OSN| SERIES  FIRST
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",SERIES  FIRST
 http://carthage-pro.fr:25461/test2/test2/200
-#EXTINF:-1,|OSN| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",DISNEY CHANNEL HD
 http://carthage-pro.fr:25461/test2/test2/201
-#EXTINF:-1,|OSN| MOVIES BOX OFFICE 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES BOX OFFICE 1
 http://carthage-pro.fr:25461/test2/test2/202
-#EXTINF:-1,|OSN| TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",TRAVEL CHANNEL
 http://carthage-pro.fr:25461/test2/test2/203
-#EXTINF:-1,|OSN| FILM BOX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FILM BOX
 http://carthage-pro.fr:25461/test2/test2/204
-#EXTINF:-1,|OSN| MOVIES BOX OFFICE 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES BOX OFFICE 2
 http://carthage-pro.fr:25461/test2/test2/205
-#EXTINF:-1,|OSN| AMC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",AMC HD
 http://carthage-pro.fr:25461/test2/test2/206
-#EXTINF:-1,|OSN| LIVING
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",LIVING
 http://carthage-pro.fr:25461/test2/test2/207
-#EXTINF:-1,|OSN| FIGHT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FIGHT HD
 http://carthage-pro.fr:25461/test2/test2/208
-#EXTINF:-1,|OSN| MY CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MY CINEMA
 http://carthage-pro.fr:25461/test2/test2/209
-#EXTINF:-1,|OSN| NAT GEO PEOPLE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",NAT GEO PEOPLE
 http://carthage-pro.fr:25461/test2/test2/210
-#EXTINF:-1,|OSN| ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ANIMAL PLANET
 http://carthage-pro.fr:25461/test2/test2/211
-#EXTINF:-1,|OSN| NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",NAT GEO WILD
 http://carthage-pro.fr:25461/test2/test2/212
-#EXTINF:-1,|OSN| FOX REWAYAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FOX REWAYAT
 http://carthage-pro.fr:25461/test2/test2/213
-#EXTINF:-1,|OSN| FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FOX LIFE
 http://carthage-pro.fr:25461/test2/test2/214
-#EXTINF:-1,|OSN| FOX CRIME
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FOX CRIME
 http://carthage-pro.fr:25461/test2/test2/215
-#EXTINF:-1,|OSN| FOX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FOX HD
 http://carthage-pro.fr:25461/test2/test2/216
-#EXTINF:-1,|OSN| WWE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",WWE HD
 http://carthage-pro.fr:25461/test2/test2/217
-#EXTINF:-1,|OSN| CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",CARTOON NETWORK
 http://carthage-pro.fr:25461/test2/test2/218
-#EXTINF:-1,|OSN| BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",BOOMERANG
 http://carthage-pro.fr:25461/test2/test2/219
-#EXTINF:-1,|OSN| DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",DISNEY JUNIOR HD
 http://carthage-pro.fr:25461/test2/test2/220
-#EXTINF:-1,|OSN| SERIES FIRST HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",SERIES FIRST HD
 http://carthage-pro.fr:25461/test2/test2/221
-#EXTINF:-1,|OSN| MOVIES FIRST HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES FIRST HD
 http://carthage-pro.fr:25461/test2/test2/222
-#EXTINF:-1,|OSN| ALFA MUSALSALAT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ALFA MUSALSALAT HD
 http://carthage-pro.fr:25461/test2/test2/223
-#EXTINF:-1,|OSN| OSN ENIGMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",OSN ENIGMA
 http://carthage-pro.fr:25461/test2/test2/224
-#EXTINF:-1,|OSN| KIDS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",KIDS HD
 http://carthage-pro.fr:25461/test2/test2/225
-#EXTINF:-1,|OSN| MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES HD
 http://carthage-pro.fr:25461/test2/test2/226
-#EXTINF:-1,|OSN| ALFA CINEMA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ALFA CINEMA 1
 http://carthage-pro.fr:25461/test2/test2/227
-#EXTINF:-1,|OSN| STAR WORLD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",STAR WORLD HD
 http://carthage-pro.fr:25461/test2/test2/228
-#EXTINF:-1,|OSN| YAHALA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",YAHALA CINEMA HD
 http://carthage-pro.fr:25461/test2/test2/229
-#EXTINF:-1,|OSN| YAHALA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",YAHALA HD
 http://carthage-pro.fr:25461/test2/test2/230
-#EXTINF:-1,|OSN| KIDS ZONE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",KIDS ZONE TV
 http://carthage-pro.fr:25461/test2/test2/231
-#EXTINF:-1,|OSN| HISTORY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",HISTORY CHANNEL
 http://carthage-pro.fr:25461/test2/test2/232
-#EXTINF:-1,|OSN| FATAFET
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ATAFET
 http://carthage-pro.fr:25461/test2/test2/233
-#EXTINF:-1,|OSN| E! HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",E! HD
 http://carthage-pro.fr:25461/test2/test2/234
-#EXTINF:-1,|OSN| MOVIES PREMIERE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES PREMIERE
 http://carthage-pro.fr:25461/test2/test2/236
-#EXTINF:-1,|OSN| MOVIES BOX OFFICE 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES BOX OFFICE 3
 http://carthage-pro.fr:25461/test2/test2/237
-#EXTINF:-1,|OSN| MOVIES ACTION 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES ACTION 2
 http://carthage-pro.fr:25461/test2/test2/238
-#EXTINF:-1,|OSN| Music Now
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",Music Now
 http://carthage-pro.fr:25461/test2/test2/239
-#EXTINF:-1,|OSN| MOVIES DISNEY 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES DISNEY 
 http://carthage-pro.fr:25461/test2/test2/240
-#EXTINF:-1,|OSN| MOVIES FIRST HD +2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES FIRST HD +2
 http://carthage-pro.fr:25461/test2/test2/241
-#EXTINF:-1,|OSN| MOVIES FESTIVAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES FESTIVAL
 http://carthage-pro.fr:25461/test2/test2/242
-#EXTINF:-1,|OSN| MOVIES THRILLER
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES THRILLER
 http://carthage-pro.fr:25461/test2/test2/243
-#EXTINF:-1,|OSN| MOVIES THRILLER +2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES THRILLER +2
 http://carthage-pro.fr:25461/test2/test2/244
-#EXTINF:-1,|OSN| MOVIES DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN", MOVIES DRAMA
 http://carthage-pro.fr:25461/test2/test2/245
-#EXTINF:-1,|OSN| COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",COMEDY CENTRAL
 http://carthage-pro.fr:25461/test2/test2/246
-#EXTINF:-1,|OSN| MOVIES COMEDY +2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES COMEDY +2
 http://carthage-pro.fr:25461/test2/test2/247
-#EXTINF:-1,|OSN| MOVIES ACTION 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES ACTION 1
 http://carthage-pro.fr:25461/test2/test2/248
-#EXTINF:-1,|OSN| MOVIES +2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",MOVIES +2
 http://carthage-pro.fr:25461/test2/test2/249
-#EXTINF:-1,|OSN| ON DEMAND 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ON DEMAND 1
 http://carthage-pro.fr:25461/test2/test2/250
-#EXTINF:-1,|OSN| ON DEMAND 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ON DEMAND 2
 http://carthage-pro.fr:25461/test2/test2/251
-#EXTINF:-1,|OSN| ON DEMAND 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ON DEMAND 3
 http://carthage-pro.fr:25461/test2/test2/252
-#EXTINF:-1,|OSN| ON DEMAND EXTRA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ON DEMAND EXTRA 1
 http://carthage-pro.fr:25461/test2/test2/253
-#EXTINF:-1,|OSN| ON DEMAND EXTRA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",DEMAND EXTRA 2
 http://carthage-pro.fr:25461/test2/test2/254
-#EXTINF:-1,|OSN| ON DEMAND EXTRA 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ON DEMAND EXTRA 3
 http://carthage-pro.fr:25461/test2/test2/255
-#EXTINF:-1,|OSN| TLC HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",TLC HD
 http://carthage-pro.fr:25461/test2/test2/256
-#EXTINF:-1,|OSN| Pop Up
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",Pop Up
 http://carthage-pro.fr:25461/test2/test2/257
-#EXTINF:-1,|OSN| Mezze
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",Mezze
 http://carthage-pro.fr:25461/test2/test2/258
-#EXTINF:-1,|AR| ART Hekayat 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ART",ART Hekayat 2
 http://carthage-pro.fr:25461/test2/test2/382
-#EXTINF:-1,|AR| ART Hekayat 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ART",ART Hekayat 1
 http://carthage-pro.fr:25461/test2/test2/383
-#EXTINF:-1,|AR| ART Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ART",ART Cinema
 http://carthage-pro.fr:25461/test2/test2/384
-#EXTINF:-1,|AR| ART Aflam 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ART",ART Aflam 2
 http://carthage-pro.fr:25461/test2/test2/385
-#EXTINF:-1,|AR| ART Aflam 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ART",Aflam 1
 http://carthage-pro.fr:25461/test2/test2/386
-#EXTINF:-1,|OSN| ALFA CINEMA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ALFA CINEMA 2
 http://carthage-pro.fr:25461/test2/test2/573
-#EXTINF:-1,|OSN| ALFA AL SAFWA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ALFA AL SAFWA
 http://carthage-pro.fr:25461/test2/test2/574
-#EXTINF:-1,|OSN| FX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",FX HD
 http://carthage-pro.fr:25461/test2/test2/575
-#EXTINF:-1,|OSN| YAHALA OULA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",YAHALA OULA HD
 http://carthage-pro.fr:25461/test2/test2/576
-#EXTINF:-1,|OSN| JIM JAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",JIM JAM
 http://carthage-pro.fr:25461/test2/test2/577
-#EXTINF:-1,•●★ |OSN| OSN |OSN| ★●•
-http://carthage-pro.fr:25461/test2/test2/53609
-#EXTINF:-1,|OSN| ACTIONS HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",ACTIONS HD
 http://carthage-pro.fr:25461/test2/test2/59858
-#EXTINF:-1,|OSN| Fann
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",Fann
 http://carthage-pro.fr:25461/test2/test2/59860
-#EXTINF:-1,|OSN| HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OSN",HISTORY
 http://carthage-pro.fr:25461/test2/test2/59867
-#EXTINF:-1,•●★ |EG| EGYPTE |EG| ★●•
-http://carthage-pro.fr:25461/test2/test2/410
-#EXTINF:-1,|EG| AL HAYAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL HAYAT
 http://carthage-pro.fr:25461/test2/test2/411
-#EXTINF:-1,|LB|  Aghani TV
-http://carthage-pro.fr:25461/test2/test2/412
-#EXTINF:-1,|EG| Al Ahly TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Al Ahly TV
 http://carthage-pro.fr:25461/test2/test2/413
-#EXTINF:-1,|EG| AL BAIT BAITAK CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL BAIT BAITAK CINEMA
 http://carthage-pro.fr:25461/test2/test2/414
-#EXTINF:-1,|EG| Al Basira
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Al Basira
 http://carthage-pro.fr:25461/test2/test2/415
-#EXTINF:-1,|EG| AL HAYAT CRISTIAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL HAYAT CRISTIAN
 http://carthage-pro.fr:25461/test2/test2/416
-#EXTINF:-1,|EG| AL KAHERA WAL NAS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL KAHERA WAL NAS
 http://carthage-pro.fr:25461/test2/test2/417
-#EXTINF:-1,|EG| AL KAHERA WAL NAS  2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL KAHERA WAL NAS  2
 http://carthage-pro.fr:25461/test2/test2/418
-#EXTINF:-1,|EG| AL MASRIYA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL MASRIYA 2
 http://carthage-pro.fr:25461/test2/test2/419
-#EXTINF:-1,|EG| AL MASRIYA 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL MASRIYA 
 http://carthage-pro.fr:25461/test2/test2/420
-#EXTINF:-1,|EG| AL SA3A AFLAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL SA3A AFLAM
 http://carthage-pro.fr:25461/test2/test2/421
-#EXTINF:-1,|EG| AL SA3AA MOSALSALATE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL SA3AA MOSALSALATE
 http://carthage-pro.fr:25461/test2/test2/422
-#EXTINF:-1,|EG| AL SA3AA COMEDY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL SA3AA COMEDY
 http://carthage-pro.fr:25461/test2/test2/423
-#EXTINF:-1,|EG| AL SHASHA MUSLSLAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL SHASHA MUSLSLAT
 http://carthage-pro.fr:25461/test2/test2/424
-#EXTINF:-1,|EG| AL-NAHAR DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL-NAHAR DRAMA
 http://carthage-pro.fr:25461/test2/test2/425
-#EXTINF:-1,|EG| AL-NAHAR ONE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AL-NAHAR ONE
 http://carthage-pro.fr:25461/test2/test2/426
-#EXTINF:-1,|EG| ALASKANDRIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALASKANDRIA
 http://carthage-pro.fr:25461/test2/test2/427
-#EXTINF:-1,|EG| AlHadath Alyoum
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",AlHadath Alyoum
 http://carthage-pro.fr:25461/test2/test2/428
-#EXTINF:-1,|EG| ALHAYAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALHAYAT
 http://carthage-pro.fr:25461/test2/test2/429
-#EXTINF:-1,|EG| ALHAYAT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALHAYAT 2
 http://carthage-pro.fr:25461/test2/test2/430
-#EXTINF:-1,|EG| ALHAYAT  DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALHAYAT  DRAMA
 http://carthage-pro.fr:25461/test2/test2/431
-#EXTINF:-1,|EG| Alhayat Musalsalat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Alhayat Musalsalat
 http://carthage-pro.fr:25461/test2/test2/432
-#EXTINF:-1,|EG| ALKAHERA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALKAHERA
 http://carthage-pro.fr:25461/test2/test2/433
-#EXTINF:-1,|EG| ALMASSAR AL OULA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALMASSAR AL OULA
 http://carthage-pro.fr:25461/test2/test2/434
-#EXTINF:-1,|EG| Alqanat 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Alqanat 9
 http://carthage-pro.fr:25461/test2/test2/435
-#EXTINF:-1,|EG| ALSeha Waljamal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ALSeha Waljamal
 http://carthage-pro.fr:25461/test2/test2/436
-#EXTINF:-1,|EG| Althanya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Althanya
 http://carthage-pro.fr:25461/test2/test2/437
-#EXTINF:-1,|EG| WATAN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",WATAN TV
 http://carthage-pro.fr:25461/test2/test2/438
-#EXTINF:-1,|LB| Arabica TV
-http://carthage-pro.fr:25461/test2/test2/439
-#EXTINF:-1,|EG| Aflam 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Aflam 1
 http://carthage-pro.fr:25461/test2/test2/440
-#EXTINF:-1,|EG| Aflam 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Aflam 2
 http://carthage-pro.fr:25461/test2/test2/441
-#EXTINF:-1,|EG| HEKAYAT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",HEKAYAT 1
 http://carthage-pro.fr:25461/test2/test2/442
-#EXTINF:-1,|EG| ART 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ART 1
 http://carthage-pro.fr:25461/test2/test2/443
-#EXTINF:-1,|EG| Azhari
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Azhari
 http://carthage-pro.fr:25461/test2/test2/445
-#EXTINF:-1,|EG| ON TIME SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ON TIME SPORTS
 http://carthage-pro.fr:25461/test2/test2/446
-#EXTINF:-1,|EG| BELODY AFLAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",BELODY AFLAM
 http://carthage-pro.fr:25461/test2/test2/447
-#EXTINF:-1,|EG| CAIRO CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CAIRO CINEMA
 http://carthage-pro.fr:25461/test2/test2/448
-#EXTINF:-1,|EG| CAIRO DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CAIRO DRAMA
 http://carthage-pro.fr:25461/test2/test2/449
-#EXTINF:-1,|EG| CIMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CIMA
 http://carthage-pro.fr:25461/test2/test2/450
-#EXTINF:-1,|EG| CIMA ALIBABA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CIMA ALIBABA
 http://carthage-pro.fr:25461/test2/test2/451
-#EXTINF:-1,|EG| Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Cinema
 http://carthage-pro.fr:25461/test2/test2/452
-#EXTINF:-1,|EG| CINEMA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CINEMA 2
 http://carthage-pro.fr:25461/test2/test2/453
-#EXTINF:-1,|EG| CINEMA PRO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CINEMA PRO
 http://carthage-pro.fr:25461/test2/test2/454
-#EXTINF:-1,|EG| CINEMA.1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CINEMA.1
 http://carthage-pro.fr:25461/test2/test2/455
-#EXTINF:-1,|EG| DMC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC
 http://carthage-pro.fr:25461/test2/test2/456
-#EXTINF:-1,|EG| DMC DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC DRAMA
 http://carthage-pro.fr:25461/test2/test2/457
-#EXTINF:-1,|EG| DMC Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC Kids
 http://carthage-pro.fr:25461/test2/test2/458
-#EXTINF:-1,|EG| DMC Masraheyat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC Masraheyat
 http://carthage-pro.fr:25461/test2/test2/459
-#EXTINF:-1,|EG| DMC News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC News
 http://carthage-pro.fr:25461/test2/test2/460
-#EXTINF:-1,|EG| DMC Sports
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DMC Sports
 http://carthage-pro.fr:25461/test2/test2/461
-#EXTINF:-1,|EG| DREAM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DREAM TV
 http://carthage-pro.fr:25461/test2/test2/462
-#EXTINF:-1,|EG| Extra News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Extra News
 http://carthage-pro.fr:25461/test2/test2/463
-#EXTINF:-1,|EG| FAMILY DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",FAMILY DRAMA
 http://carthage-pro.fr:25461/test2/test2/464
-#EXTINF:-1,|EG| FUNoon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",FUNoon
 http://carthage-pro.fr:25461/test2/test2/465
-#EXTINF:-1,|LB| Hawacom
-http://carthage-pro.fr:25461/test2/test2/466
-#EXTINF:-1,|EG| HAWAS TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",HAWAS TV
 http://carthage-pro.fr:25461/test2/test2/467
-#EXTINF:-1,|EG| EL MEHWER TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",EL MEHWER TV
 http://carthage-pro.fr:25461/test2/test2/468
-#EXTINF:-1,|EG| Imagine Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Imagine Movies
 http://carthage-pro.fr:25461/test2/test2/469
-#EXTINF:-1,|EG| LCD MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",LCD MOVIES
 http://carthage-pro.fr:25461/test2/test2/470
-#EXTINF:-1,|EG| MASPERO ZAMAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",MASPERO ZAMAN
 http://carthage-pro.fr:25461/test2/test2/471
-#EXTINF:-1,|EG| Masr alhayah
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Masr alhayah
 http://carthage-pro.fr:25461/test2/test2/472
-#EXTINF:-1,|EG| MAZAZIKH TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",MAZAZIKH TV
 http://carthage-pro.fr:25461/test2/test2/473
-#EXTINF:-1,|EG| MAZZIKA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",MAZZIKA
 http://carthage-pro.fr:25461/test2/test2/474
-#EXTINF:-1,|EG| ME SAT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ME SAT
 http://carthage-pro.fr:25461/test2/test2/475
-#EXTINF:-1,|EG| Melody CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Melody CINEMA
 http://carthage-pro.fr:25461/test2/test2/476
-#EXTINF:-1,|EG| MELODY CLASSIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",MELODY CLASSIC
 http://carthage-pro.fr:25461/test2/test2/477
-#EXTINF:-1,|EG| Misr Al Zera3eya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Misr Al Zera3eya
 http://carthage-pro.fr:25461/test2/test2/478
-#EXTINF:-1,|EG| Music Sha3by TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Music Sha3by TV
 http://carthage-pro.fr:25461/test2/test2/479
-#EXTINF:-1,|EG| Nile Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Cinema
 http://carthage-pro.fr:25461/test2/test2/480
-#EXTINF:-1,|EG| Nile Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Comedy
 http://carthage-pro.fr:25461/test2/test2/481
-#EXTINF:-1,|EG| Nile Culture
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Culture
 http://carthage-pro.fr:25461/test2/test2/482
-#EXTINF:-1,|EG| Nile Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Drama
 http://carthage-pro.fr:25461/test2/test2/483
-#EXTINF:-1,|EG| Nile Family
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Family
 http://carthage-pro.fr:25461/test2/test2/484
-#EXTINF:-1,|EG| Nile Life
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile Life
 http://carthage-pro.fr:25461/test2/test2/485
-#EXTINF:-1,|EG| Nile TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nile TV
 http://carthage-pro.fr:25461/test2/test2/488
-#EXTINF:-1,|EG| Nogoum FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Nogoum FM TV
 http://carthage-pro.fr:25461/test2/test2/489
-#EXTINF:-1,|EG| ON  E
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ON  E
 http://carthage-pro.fr:25461/test2/test2/491
-#EXTINF:-1,|EG| DOLLY MOSALSALAT 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",DOLLY MOSALSALAT 
 http://carthage-pro.fr:25461/test2/test2/492
-#EXTINF:-1,|EG| MEKAMELEEN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",MEKAMELEEN TV
 http://carthage-pro.fr:25461/test2/test2/493
-#EXTINF:-1,|EG| ON DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ON DRAMA
 http://carthage-pro.fr:25461/test2/test2/494
-#EXTINF:-1,|EG| Oscar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Oscar TV
 http://carthage-pro.fr:25461/test2/test2/495
-#EXTINF:-1,|EG| PNC DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",PNC DRAMA
 http://carthage-pro.fr:25461/test2/test2/496
-#EXTINF:-1,|EG| PNC DRAMA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",PNC DRAMA 2
 http://carthage-pro.fr:25461/test2/test2/497
-#EXTINF:-1,|EG| PNC FILM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",PNC FILM
 http://carthage-pro.fr:25461/test2/test2/498
-#EXTINF:-1,|EG| PNC FOOD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",PNC FOOD
 http://carthage-pro.fr:25461/test2/test2/499
-#EXTINF:-1,|EG| SADA EL BALAD 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SADA EL BALAD 2
 http://carthage-pro.fr:25461/test2/test2/500
-#EXTINF:-1,|EG| SADA EL BALAD DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SADA EL BALAD DRAMA
 http://carthage-pro.fr:25461/test2/test2/501
-#EXTINF:-1,|EG| SAT 7 ARABIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SAT 7 ARABIC
 http://carthage-pro.fr:25461/test2/test2/502
-#EXTINF:-1,|EG| SCARE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SCARE TV
 http://carthage-pro.fr:25461/test2/test2/503
-#EXTINF:-1,|EG| SHARO5AN HINDI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SHARO5AN HINDI
 http://carthage-pro.fr:25461/test2/test2/504
-#EXTINF:-1,|EG| STAR CINEMA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",STAR CINEMA 1
 http://carthage-pro.fr:25461/test2/test2/505
-#EXTINF:-1,|EG| STAR CINEMA 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",STAR CINEMA 2
 http://carthage-pro.fr:25461/test2/test2/506
-#EXTINF:-1,|EG| TEBA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",TEBA
 http://carthage-pro.fr:25461/test2/test2/507
-#EXTINF:-1,|EG| TeN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",TeN TV
 http://carthage-pro.fr:25461/test2/test2/508
-#EXTINF:-1,|EG| TOKTOK AFLAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",TOKTOK AFLAM
 http://carthage-pro.fr:25461/test2/test2/509
-#EXTINF:-1,|EG| TOKTOK CIMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",TOKTOK CIMA
 http://carthage-pro.fr:25461/test2/test2/510
-#EXTINF:-1,|EG| Mix Bel Araby
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Mix Bel Araby
 http://carthage-pro.fr:25461/test2/test2/511
-#EXTINF:-1,|EG| SADA EL BALAD 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",SADA EL BALAD 1
 http://carthage-pro.fr:25461/test2/test2/512
-#EXTINF:-1,|EG| ZAMALEK TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ZAMALEK TV
 http://carthage-pro.fr:25461/test2/test2/513
-#EXTINF:-1,|EG| ON TIME SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ON TIME SPORTS 2 
 http://carthage-pro.fr:25461/test2/test2/514
-#EXTINF:-1,|EG| ELMOLED
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ELMOLED
 http://carthage-pro.fr:25461/test2/test2/515
-#EXTINF:-1,|EG| Halaba TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",Halaba TV
 http://carthage-pro.fr:25461/test2/test2/516
-#EXTINF:-1,|EG| CBC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CBC
 http://carthage-pro.fr:25461/test2/test2/524
-#EXTINF:-1,|EG| CBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CBC Drama
 http://carthage-pro.fr:25461/test2/test2/525
-#EXTINF:-1,|EG| CBC Sofra
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",CBC Sofra
 http://carthage-pro.fr:25461/test2/test2/526
-#EXTINF:-1,|AE| AD Sports YAS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AD Sports YAS
 http://carthage-pro.fr:25461/test2/test2/277
-#EXTINF:-1,|AE| AD SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AD SPORT 1 HD
 http://carthage-pro.fr:25461/test2/test2/540
-#EXTINF:-1,|AE| AD SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AD SPORT 2 HD
 http://carthage-pro.fr:25461/test2/test2/541
-#EXTINF:-1,|AE| AD SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AD SPORT 3 HD
 http://carthage-pro.fr:25461/test2/test2/542
-#EXTINF:-1,|AE| AD SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AD SPORT 4 HD
 http://carthage-pro.fr:25461/test2/test2/543
-#EXTINF:-1,|AE| DUBAI SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI SPORTS 1 HD
 http://carthage-pro.fr:25461/test2/test2/544
-#EXTINF:-1,|AE| DUBAI SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI SPORTS 2 HD
 http://carthage-pro.fr:25461/test2/test2/545
-#EXTINF:-1,|AE| DUBAI SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI SPORTS 3 HD
 http://carthage-pro.fr:25461/test2/test2/546
-#EXTINF:-1,|AE| DUBAI RACING 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI RACING 2 HD
 http://carthage-pro.fr:25461/test2/test2/547
-#EXTINF:-1,|AE| DUBAI RACING 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI RACING 3 HD
 http://carthage-pro.fr:25461/test2/test2/548
-#EXTINF:-1,|AE| SHARJAH SPORT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",SHARJAH SPORT HD
 http://carthage-pro.fr:25461/test2/test2/549
-#EXTINF:-1,|AE| NAT GEO ABUDHABI  HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",NAT GEO ABUDHABI  HD
 http://carthage-pro.fr:25461/test2/test2/550
-#EXTINF:-1,|AE| ABUDHABI TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ABUDHABI TV HD
 http://carthage-pro.fr:25461/test2/test2/551
-#EXTINF:-1,|AE| ABUDHABI EMARAT HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ABUDHABI EMARAT HD
 http://carthage-pro.fr:25461/test2/test2/552
-#EXTINF:-1,|AE| ABU DHABI DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ABU DHABI DRAMA HD
 http://carthage-pro.fr:25461/test2/test2/553
-#EXTINF:-1,|AE| AL-RAYAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AL-RAYAN
 http://carthage-pro.fr:25461/test2/test2/554
-#EXTINF:-1,|AE| AL AAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AL AAN
 http://carthage-pro.fr:25461/test2/test2/555
-#EXTINF:-1,|AE| DUBAI TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI TV HD
 http://carthage-pro.fr:25461/test2/test2/556
-#EXTINF:-1,|AE| DUBAI ONE HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI ONE HD
 http://carthage-pro.fr:25461/test2/test2/557
-#EXTINF:-1,|AE| DUBAI ZAMAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",DUBAI ZAMAN
 http://carthage-pro.fr:25461/test2/test2/558
-#EXTINF:-1,|AE| NOOR DUBAI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",NOOR DUBAI HD
 http://carthage-pro.fr:25461/test2/test2/559
-#EXTINF:-1,|AE| SAMA DUBAI HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",SAMA DUBAI HD
 http://carthage-pro.fr:25461/test2/test2/560
-#EXTINF:-1,|AE| SHARJAH HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",SHARJAH HD
 http://carthage-pro.fr:25461/test2/test2/561
-#EXTINF:-1,|AE| ZEE AFLAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ZEE AFLAM
 http://carthage-pro.fr:25461/test2/test2/562
-#EXTINF:-1,|AE| ZEE ALWAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ZEE ALWAN
 http://carthage-pro.fr:25461/test2/test2/563
-#EXTINF:-1,|AE| B4U AFLAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",B4U AFLAM
 http://carthage-pro.fr:25461/test2/test2/564
-#EXTINF:-1,|AE| B4U PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",B4U PLUS
 http://carthage-pro.fr:25461/test2/test2/565
-#EXTINF:-1,|AE| AJMAN TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",AJMAN TV HD
 http://carthage-pro.fr:25461/test2/test2/566
-#EXTINF:-1,|AE| ALWOUSTA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",ALWOUSTA TV
 http://carthage-pro.fr:25461/test2/test2/569
-#EXTINF:-1,|AE| WANASAH
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",WANASAH
 http://carthage-pro.fr:25461/test2/test2/570
-#EXTINF:-1,|AE| B4U AFLAM+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abu Dhabai",B4U AFLAM+
 http://carthage-pro.fr:25461/test2/test2/572
-#EXTINF:-1,•●★ |AE| Emirats Arabes Unis	|AE| ★●•
-http://carthage-pro.fr:25461/test2/test2/36505
-#EXTINF:-1,|SA| Beity TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",Beity TV
 http://carthage-pro.fr:25461/test2/test2/567
-#EXTINF:-1,|SA| SAUDI CH FOR QURAN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI CH FOR QURAN
 http://carthage-pro.fr:25461/test2/test2/36343
-#EXTINF:-1,|SA| SAUDI CH FOR SUNNAH
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI CH FOR SUNNAH
 http://carthage-pro.fr:25461/test2/test2/36344
-#EXTINF:-1,|SA| MEKKA TV 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",MEKKA TV 
 http://carthage-pro.fr:25461/test2/test2/36346
-#EXTINF:-1,|SA| AL EKHBARIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",AL EKHBARIA
 http://carthage-pro.fr:25461/test2/test2/36348
-#EXTINF:-1,|SA| SAUDI 24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI 24
 http://carthage-pro.fr:25461/test2/test2/36350
-#EXTINF:-1,|SA| SAUDI  TV 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI  TV 1
 http://carthage-pro.fr:25461/test2/test2/36352
-#EXTINF:-1,|SA| SAUDI MASDAR TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI MASDAR TV
 http://carthage-pro.fr:25461/test2/test2/36353
-#EXTINF:-1,|SA| SAUDI SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI SPORT 1 HD
 http://carthage-pro.fr:25461/test2/test2/36354
-#EXTINF:-1,|SA| SAUDI SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI SPORT 2 HD
 http://carthage-pro.fr:25461/test2/test2/36355
-#EXTINF:-1,|SA| TAYBA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",TAYBA TV
 http://carthage-pro.fr:25461/test2/test2/36356
-#EXTINF:-1,|SA| SAUDI SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI SPORT 3 HD
 http://carthage-pro.fr:25461/test2/test2/53166
-#EXTINF:-1,|SA| SAUDI SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",SAUDI SPORT 4 HD
 http://carthage-pro.fr:25461/test2/test2/53167
-#EXTINF:-1,•●★ |SA| SAUDIA  ARABIA |SA| ★●•
-http://carthage-pro.fr:25461/test2/test2/53606
-#EXTINF:-1,|KW| ALBAWADI TV
-http://carthage-pro.fr:25461/test2/test2/36357
-#EXTINF:-1,|KW| KTV 1 HD
-http://carthage-pro.fr:25461/test2/test2/36358
-#EXTINF:-1,|KW| MARINA TV 
-http://carthage-pro.fr:25461/test2/test2/36359
-#EXTINF:-1,|KW| AL SABAH TV
-http://carthage-pro.fr:25461/test2/test2/36360
-#EXTINF:-1,|KW| AL RAI TV
-http://carthage-pro.fr:25461/test2/test2/36361
-#EXTINF:-1,|KW| FUNOON
-http://carthage-pro.fr:25461/test2/test2/36362
-#EXTINF:-1,|KW| ANWAR TV 2
-http://carthage-pro.fr:25461/test2/test2/36363
-#EXTINF:-1,|KW| KTV AL QURAIN 
-http://carthage-pro.fr:25461/test2/test2/36364
-#EXTINF:-1,|KW| I ON KUWAIT
-http://carthage-pro.fr:25461/test2/test2/36365
-#EXTINF:-1,|KW| KTV SPORT HD
-http://carthage-pro.fr:25461/test2/test2/36366
-#EXTINF:-1,|KW| AL MALI  TV
-http://carthage-pro.fr:25461/test2/test2/36367
-#EXTINF:-1,|KW| AL MAAREF TV
-http://carthage-pro.fr:25461/test2/test2/36368
-#EXTINF:-1,•●★ |KW| KUWAIT |KW| ★●•
-http://carthage-pro.fr:25461/test2/test2/53611
-#EXTINF:-1,|BH| BAHRAIN SPORT 1
-http://carthage-pro.fr:25461/test2/test2/262
-#EXTINF:-1,|BAH| BAHRAIN QURAN
-http://carthage-pro.fr:25461/test2/test2/36443
-#EXTINF:-1,|BH| BAHRAIN TV
-http://carthage-pro.fr:25461/test2/test2/36444
-#EXTINF:-1,|BH| BAHRAIN INTERNATIONAL
-http://carthage-pro.fr:25461/test2/test2/36445
-#EXTINF:-1,|BH| BAHRAIN SPORT 2
-http://carthage-pro.fr:25461/test2/test2/49181
-#EXTINF:-1,|BH| BAHRAIN  LAWAL
-http://carthage-pro.fr:25461/test2/test2/53364
-#EXTINF:-1,•●★ |BH| BAHRAIN |BH| ★●•
-http://carthage-pro.fr:25461/test2/test2/53607
-#EXTINF:-1,|IQ| DIJLAH TARAB
-http://carthage-pro.fr:25461/test2/test2/519
-#EXTINF:-1,|IQ| AL IRAQIYA NEWS
-http://carthage-pro.fr:25461/test2/test2/520
-#EXTINF:-1,|IQ| AL SHARQIYA HD
-http://carthage-pro.fr:25461/test2/test2/523
-#EXTINF:-1,|IQ| AL IRAQIYA
-http://carthage-pro.fr:25461/test2/test2/36370
-#EXTINF:-1,|IQ| AL Anwar
-http://carthage-pro.fr:25461/test2/test2/36371
-#EXTINF:-1,|IQ| AL IMAM HUSSEIN
-http://carthage-pro.fr:25461/test2/test2/36372
-#EXTINF:-1,|IQ| AL FORAT NEWS
-http://carthage-pro.fr:25461/test2/test2/36373
-#EXTINF:-1,|IQ| AlGhad  Almoshraq
-http://carthage-pro.fr:25461/test2/test2/36374
-#EXTINF:-1,|IQ| AL HURRA IRAQ
-http://carthage-pro.fr:25461/test2/test2/36375
-#EXTINF:-1,|IQ| Al Mawsleya
-http://carthage-pro.fr:25461/test2/test2/36376
-#EXTINF:-1,|IQ| Al Naeem TV
-http://carthage-pro.fr:25461/test2/test2/36377
-#EXTINF:-1,|IQ| AL RASHEED TV
-http://carthage-pro.fr:25461/test2/test2/36378
-#EXTINF:-1,|IQ| Al Sumaria TV
-http://carthage-pro.fr:25461/test2/test2/36380
-#EXTINF:-1,|IQ| ALBAEENAH IRAQ
-http://carthage-pro.fr:25461/test2/test2/36381
-#EXTINF:-1,|IQ| Altaghier
-http://carthage-pro.fr:25461/test2/test2/36382
-#EXTINF:-1,|IQ| AL GHADEER
-http://carthage-pro.fr:25461/test2/test2/36383
-#EXTINF:-1,|IQ| AL RAFIDAYN 
-http://carthage-pro.fr:25461/test2/test2/36384
-#EXTINF:-1,|IQ| BAGHDAD TV
-http://carthage-pro.fr:25461/test2/test2/36385
-#EXTINF:-1,|IQ| Dijlah TV
-http://carthage-pro.fr:25461/test2/test2/36386
-#EXTINF:-1,|IQ| IFILM ARABIC
-http://carthage-pro.fr:25461/test2/test2/36388
-#EXTINF:-1,|IQ| IRAQ NOW
-http://carthage-pro.fr:25461/test2/test2/36389
-#EXTINF:-1,|IQ| Iraqia
-http://carthage-pro.fr:25461/test2/test2/36390
-#EXTINF:-1,|IQ| Iraqia News
-http://carthage-pro.fr:25461/test2/test2/36391
-#EXTINF:-1,|IQ| Iraqia Sport
-http://carthage-pro.fr:25461/test2/test2/36392
-#EXTINF:-1,|IQ| WESAL TV
-http://carthage-pro.fr:25461/test2/test2/36393
-#EXTINF:-1,|IQ| AL ITEJAH
-http://carthage-pro.fr:25461/test2/test2/36395
-#EXTINF:-1,|IQ| AL AAHD
-http://carthage-pro.fr:25461/test2/test2/36396
-#EXTINF:-1,|IQ| AL MAWQEF
-http://carthage-pro.fr:25461/test2/test2/36398
-#EXTINF:-1,|IQ| AL SHAAER TV
-http://carthage-pro.fr:25461/test2/test2/36399
-#EXTINF:-1,|IQ| IRAQIA SYRIAC
-http://carthage-pro.fr:25461/test2/test2/36400
-#EXTINF:-1,|IQ| MD
-http://carthage-pro.fr:25461/test2/test2/36401
-#EXTINF:-1,|IQ| NABAA TV
-http://carthage-pro.fr:25461/test2/test2/36402
-#EXTINF:-1,|IQ| AL AYAM
-http://carthage-pro.fr:25461/test2/test2/36405
-#EXTINF:-1,|IQ| KARBALAE
-http://carthage-pro.fr:25461/test2/test2/36406
-#EXTINF:-1,|IQ| AL ESHRAQ TV
-http://carthage-pro.fr:25461/test2/test2/36407
-#EXTINF:-1,|IQ| AL KAWTHAR
-http://carthage-pro.fr:25461/test2/test2/36408
-#EXTINF:-1,|IQ| AL SHARQIYA NEWS
-http://carthage-pro.fr:25461/test2/test2/36410
-#EXTINF:-1,|IQ| AL TALEAA TV
-http://carthage-pro.fr:25461/test2/test2/36411
-#EXTINF:-1,|IQ| TURKMENIA
-http://carthage-pro.fr:25461/test2/test2/36412
-#EXTINF:-1,|IQ| ASIA TV
-http://carthage-pro.fr:25461/test2/test2/36420
-#EXTINF:-1,|IQ| DEWAN
-http://carthage-pro.fr:25461/test2/test2/36421
-#EXTINF:-1,•●★ |IQ| IRAQ |IQ| ★●•
-http://carthage-pro.fr:25461/test2/test2/53615
-#EXTINF:-1,|SY| SAMA TV
-http://carthage-pro.fr:25461/test2/test2/153
-#EXTINF:-1,|SY| NOUR ALSHAM
-http://carthage-pro.fr:25461/test2/test2/154
-#EXTINF:-1,|SY| LANA TV
-http://carthage-pro.fr:25461/test2/test2/155
-#EXTINF:-1,|SY| SYRIA DRAMA
-http://carthage-pro.fr:25461/test2/test2/156
-#EXTINF:-1,|SY| SYRIA EDUCATION
-http://carthage-pro.fr:25461/test2/test2/157
-#EXTINF:-1,|SY| HALAB TODAY
-http://carthage-pro.fr:25461/test2/test2/158
-#EXTINF:-1,|SY| SYRIA NEWS
-http://carthage-pro.fr:25461/test2/test2/159
-#EXTINF:-1,|SY| SYRIA TV HD
-http://carthage-pro.fr:25461/test2/test2/160
-#EXTINF:-1,|SY| ALQANAT 9
-http://carthage-pro.fr:25461/test2/test2/165
-#EXTINF:-1,|SY| ALARABY TV
-http://carthage-pro.fr:25461/test2/test2/166
-#EXTINF:-1,•●★ |SY| SYRIA  |SY| ★●•
-http://carthage-pro.fr:25461/test2/test2/53614
-#EXTINF:-1,|PS|  AQSA TV
-http://carthage-pro.fr:25461/test2/test2/278
-#EXTINF:-1,|PS| PALASTINE 
-http://carthage-pro.fr:25461/test2/test2/279
-#EXTINF:-1,|PS| Al Fajer 2
-http://carthage-pro.fr:25461/test2/test2/280
-#EXTINF:-1,|PS| ALQODS Live
-http://carthage-pro.fr:25461/test2/test2/305
-#EXTINF:-1,|PS| Al Fajer 
-http://carthage-pro.fr:25461/test2/test2/312
-#EXTINF:-1,|PS| AJYAL TV
-http://carthage-pro.fr:25461/test2/test2/328
-#EXTINF:-1,|PS| PALASTINE  TODAY
-http://carthage-pro.fr:25461/test2/test2/53601
-#EXTINF:-1,|PS|  MAAN NEWS TV
-http://carthage-pro.fr:25461/test2/test2/53602
-#EXTINF:-1,|PS|  AUDAH TV
-http://carthage-pro.fr:25461/test2/test2/53603
-#EXTINF:-1,|PS| MUSAWA HD
-http://carthage-pro.fr:25461/test2/test2/53604
-#EXTINF:-1,•●★ |PS| PALASTINE |PS| ★●•
-http://carthage-pro.fr:25461/test2/test2/53616
-#EXTINF:-1,|JO| ROYA TV
-http://carthage-pro.fr:25461/test2/test2/533
-#EXTINF:-1,|JO| EL HAKIKA
-http://carthage-pro.fr:25461/test2/test2/534
-#EXTINF:-1,|JO| JORDAN
-http://carthage-pro.fr:25461/test2/test2/36435
-#EXTINF:-1,|JO| AMMAN TV
-http://carthage-pro.fr:25461/test2/test2/36436
-#EXTINF:-1,|JO| NOOR JORDAN
-http://carthage-pro.fr:25461/test2/test2/36437
-#EXTINF:-1,|JO| AL MALAKOT
-http://carthage-pro.fr:25461/test2/test2/36438
-#EXTINF:-1,|JO| SAT 7
-http://carthage-pro.fr:25461/test2/test2/36439
-#EXTINF:-1,|JO| SAT 7 KIDS
-http://carthage-pro.fr:25461/test2/test2/36440
-#EXTINF:-1,|JO| NOURSAT
-http://carthage-pro.fr:25461/test2/test2/36441
-#EXTINF:-1,|JO| AL MAMLAKA TV
-http://carthage-pro.fr:25461/test2/test2/36442
-#EXTINF:-1,•●★ |JO| JORDANIE |JO| ★●•
-http://carthage-pro.fr:25461/test2/test2/53608
-#EXTINF:-1,|LB| NourSat
-http://carthage-pro.fr:25461/test2/test2/490
-#EXTINF:-1,|LB| Al Mayadeen
-http://carthage-pro.fr:25461/test2/test2/517
-#EXTINF:-1,|LB| AL JADEED
-http://carthage-pro.fr:25461/test2/test2/518
-#EXTINF:-1,|LB| AL MANAR
-http://carthage-pro.fr:25461/test2/test2/521
-#EXTINF:-1,|LB| TELE LIBAN TV
-http://carthage-pro.fr:25461/test2/test2/522
-#EXTINF:-1,|LB| ETIHAD TV
-http://carthage-pro.fr:25461/test2/test2/527
-#EXTINF:-1,|LB| Future TV
-http://carthage-pro.fr:25461/test2/test2/528
-#EXTINF:-1,|LB| LBC SAT
-http://carthage-pro.fr:25461/test2/test2/529
-#EXTINF:-1,|LB| LDC
-http://carthage-pro.fr:25461/test2/test2/530
-#EXTINF:-1,|LB| MTV Lebanon
-http://carthage-pro.fr:25461/test2/test2/531
-#EXTINF:-1,|LB| OTV LEBANON
-http://carthage-pro.fr:25461/test2/test2/532
-#EXTINF:-1,|LB| CITRUSS TV HD
-http://carthage-pro.fr:25461/test2/test2/568
-#EXTINF:-1,|LB| LBC International
-http://carthage-pro.fr:25461/test2/test2/49166
-#EXTINF:-1,•●★ |LB| LEBANON |LB| ★●•
-http://carthage-pro.fr:25461/test2/test2/53610
-#EXTINF:-1,|SD| SUDAN TV
-http://carthage-pro.fr:25461/test2/test2/36451
-#EXTINF:-1,|SD| SUDAN DRAMA
-http://carthage-pro.fr:25461/test2/test2/36452
-#EXTINF:-1,|SD| SUDAN KNOWLEDGE
-http://carthage-pro.fr:25461/test2/test2/36453
-#EXTINF:-1,|SD| SUDAN MUSIC
-http://carthage-pro.fr:25461/test2/test2/36454
-#EXTINF:-1,|SD| SUDAN SPORT
-http://carthage-pro.fr:25461/test2/test2/36455
-#EXTINF:-1,|SD| SUDANIA 24
-http://carthage-pro.fr:25461/test2/test2/36456
-#EXTINF:-1,|SD| SUDAN BOKRA
-http://carthage-pro.fr:25461/test2/test2/36457
-#EXTINF:-1,|SD| BLUE NILE TV
-http://carthage-pro.fr:25461/test2/test2/36458
-#EXTINF:-1,|SD| ASHOROOQ TV
-http://carthage-pro.fr:25461/test2/test2/36459
-#EXTINF:-1,|SD| AFRICA TV2
-http://carthage-pro.fr:25461/test2/test2/36460
-#EXTINF:-1,|SD| KASSALA TV
-http://carthage-pro.fr:25461/test2/test2/36461
-#EXTINF:-1,|SD| KHARTOUM TV
-http://carthage-pro.fr:25461/test2/test2/36462
-#EXTINF:-1,|SD| BLUE NILE
-http://carthage-pro.fr:25461/test2/test2/36463
-#EXTINF:-1,|SD| AFRICA TV1
-http://carthage-pro.fr:25461/test2/test2/36464
-#EXTINF:-1,|SD| AL HILAL TV
-http://carthage-pro.fr:25461/test2/test2/36465
-#EXTINF:-1,•●★ |SD SUDAN |SD| ★●•
-http://carthage-pro.fr:25461/test2/test2/54055
-#EXTINF:-1,|SD| AFRICA TV3
-http://carthage-pro.fr:25461/test2/test2/58996
-#EXTINF:-1,|OM| OMAN TV MUBASHER HD
-http://carthage-pro.fr:25461/test2/test2/36447
-#EXTINF:-1,|OM| OMAN TV HD
-http://carthage-pro.fr:25461/test2/test2/36448
-#EXTINF:-1,|OM| OMAN TV CULTURE HD
-http://carthage-pro.fr:25461/test2/test2/36449
-#EXTINF:-1,|OM| OMAN TV SPORT HD
-http://carthage-pro.fr:25461/test2/test2/36450
-#EXTINF:-1,•●★ |OM| OMAN |OM| ★●•
-http://carthage-pro.fr:25461/test2/test2/53617
-#EXTINF:-1,|AR| Almajd General
-http://carthage-pro.fr:25461/test2/test2/284
-#EXTINF:-1,|AR| Almajd Space TV
-http://carthage-pro.fr:25461/test2/test2/285
-#EXTINF:-1,|AR| Almajd Elmiyyeh
-http://carthage-pro.fr:25461/test2/test2/286
-#EXTINF:-1,|AR| Almajd Taghareed
-http://carthage-pro.fr:25461/test2/test2/287
-#EXTINF:-1,|AR| Almajd Rawda
-http://carthage-pro.fr:25461/test2/test2/288
-#EXTINF:-1,|AR| Almajd Basmah
-http://carthage-pro.fr:25461/test2/test2/289
-#EXTINF:-1,|AR| Almajd  Info
-http://carthage-pro.fr:25461/test2/test2/290
-#EXTINF:-1,|AR| Almajd Al Tabeeaiyah
-http://carthage-pro.fr:25461/test2/test2/291
-#EXTINF:-1,|AR| Almajd Documentary
-http://carthage-pro.fr:25461/test2/test2/292
-#EXTINF:-1,|AR| Almajd Ekhbarie
-http://carthage-pro.fr:25461/test2/test2/293
-#EXTINF:-1,•●★ |AR| ISLAMIC |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/294
-#EXTINF:-1,|AR| Bahrain_Quran
-http://carthage-pro.fr:25461/test2/test2/295
-#EXTINF:-1,|AR| Almajd
-http://carthage-pro.fr:25461/test2/test2/296
-#EXTINF:-1,|AR| Saudi Sunnah
-http://carthage-pro.fr:25461/test2/test2/297
-#EXTINF:-1,|AR| Saudi Quran
-http://carthage-pro.fr:25461/test2/test2/298
-#EXTINF:-1,|AR| Al_Nas
-http://carthage-pro.fr:25461/test2/test2/299
-#EXTINF:-1,|AR| AL Resalah
-http://carthage-pro.fr:25461/test2/test2/300
-#EXTINF:-1,|AR| Quran_TV
-http://carthage-pro.fr:25461/test2/test2/301
-#EXTINF:-1,|AR| Mecca Live
-http://carthage-pro.fr:25461/test2/test2/302
-#EXTINF:-1,|AR| Iqraa
-http://carthage-pro.fr:25461/test2/test2/303
-#EXTINF:-1,|AR| Al_Rahma
-http://carthage-pro.fr:25461/test2/test2/304
-#EXTINF:-1,|AR| Al Sirat Quran
-http://carthage-pro.fr:25461/test2/test2/306
-#EXTINF:-1,|AR| The-Savior Quran
-http://carthage-pro.fr:25461/test2/test2/307
-#EXTINF:-1,|AR| KAIFA Quran
-http://carthage-pro.fr:25461/test2/test2/308
-#EXTINF:-1,|AR| ALISTIQAMA Quran
-http://carthage-pro.fr:25461/test2/test2/309
-#EXTINF:-1,|AR| Al Azhari
-http://carthage-pro.fr:25461/test2/test2/310
-#EXTINF:-1,|AR| AL KAWTHAR
-http://carthage-pro.fr:25461/test2/test2/311
-#EXTINF:-1,|AR| Al Safa
-http://carthage-pro.fr:25461/test2/test2/313
-#EXTINF:-1,|AR| WESAL TV
-http://carthage-pro.fr:25461/test2/test2/314
-#EXTINF:-1,|AR| AYAT QURAN
-http://carthage-pro.fr:25461/test2/test2/315
-#EXTINF:-1,|AR| AQSA TV
-http://carthage-pro.fr:25461/test2/test2/316
-#EXTINF:-1,|AR| ALFATH QURAN
-http://carthage-pro.fr:25461/test2/test2/317
-#EXTINF:-1,|AR| Assadissa MAROC
-http://carthage-pro.fr:25461/test2/test2/318
-#EXTINF:-1,|AR| AlAfasy Quran
-http://carthage-pro.fr:25461/test2/test2/319
-#EXTINF:-1,|AR| Ahel Alquran
-http://carthage-pro.fr:25461/test2/test2/320
-#EXTINF:-1,|AR| Al Majd Hadeeth HD
-http://carthage-pro.fr:25461/test2/test2/724
-#EXTINF:-1,|AR| ALI TV
-http://carthage-pro.fr:25461/test2/test2/59083
-#EXTINF:-1,|AR| Al Qamar TV
-http://carthage-pro.fr:25461/test2/test2/59085
-#EXTINF:-1,الشيخ أحمد العجمي
-http://carthage-pro.fr:25461/test2/test2/59572
-#EXTINF:-1,Al Majed Al Hadith Al Nabawi
-http://carthage-pro.fr:25461/test2/test2/710
-#EXTINF:-1,Al Majed Taghareed
-http://carthage-pro.fr:25461/test2/test2/711
-#EXTINF:-1,Al Majed Al Wathaeqeyah
-http://carthage-pro.fr:25461/test2/test2/712
-#EXTINF:-1,Al Majed Al Tabeaeyah
-http://carthage-pro.fr:25461/test2/test2/713
-#EXTINF:-1,Al Majed Kids Rawdha
-http://carthage-pro.fr:25461/test2/test2/714
-#EXTINF:-1,Al Majed Kids Besma
-http://carthage-pro.fr:25461/test2/test2/715
-#EXTINF:-1,Al Majd Quran
-http://carthage-pro.fr:25461/test2/test2/716
-#EXTINF:-1,Majd Kids
-http://carthage-pro.fr:25461/test2/test2/717
-#EXTINF:-1,Almajd 11
-http://carthage-pro.fr:25461/test2/test2/720
-#EXTINF:-1,Almajd 12
-http://carthage-pro.fr:25461/test2/test2/721
-#EXTINF:-1,Almajd 13
-http://carthage-pro.fr:25461/test2/test2/722
-#EXTINF:-1,•●★ |AR| ALMAJD  |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/723
-#EXTINF:-1,•●★ |AR| ARABE NEWS |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/336
-#EXTINF:-1,|AR| Sky News Arabia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Sky News Arabia
 http://carthage-pro.fr:25461/test2/test2/337
-#EXTINF:-1,|AR| Saudi Ekhbarya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Saudi Ekhbarya
 http://carthage-pro.fr:25461/test2/test2/338
-#EXTINF:-1,|AR| Russia Al Yaoum
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Russia Al Yaoum
 http://carthage-pro.fr:25461/test2/test2/339
-#EXTINF:-1,|AR| Nile news
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Nile news
 http://carthage-pro.fr:25461/test2/test2/340
-#EXTINF:-1,|AR| DW-TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",DW-TV
 http://carthage-pro.fr:25461/test2/test2/341
-#EXTINF:-1,|AR| Iraq-Al_Sharquia_News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Iraq-Al_Sharquia_News
 http://carthage-pro.fr:25461/test2/test2/342
-#EXTINF:-1,|AR| lebanon-Al Manar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",lebanon-Al Manar
 http://carthage-pro.fr:25461/test2/test2/343
-#EXTINF:-1,|AR| Syria News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Syria News
 http://carthage-pro.fr:25461/test2/test2/344
-#EXTINF:-1,|AR| Al_Alam_TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Al_Alam_TV
 http://carthage-pro.fr:25461/test2/test2/345
-#EXTINF:-1,|AR| BBC World Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",BBC World Arabic
 http://carthage-pro.fr:25461/test2/test2/346
-#EXTINF:-1,|AR| Asharq News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Asharq News
 http://carthage-pro.fr:25461/test2/test2/347
-#EXTINF:-1,|AR| TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",TV5 Monde
 http://carthage-pro.fr:25461/test2/test2/349
-#EXTINF:-1,|AR| France_24_EN
-http://carthage-pro.fr:25461/test2/test2/351
-#EXTINF:-1,|AR| France 24 AR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",France 24 AR
 http://carthage-pro.fr:25461/test2/test2/352
-#EXTINF:-1,|AR| Al Arabiya Hadath
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Al Arabiya Hadath
 http://carthage-pro.fr:25461/test2/test2/353
-#EXTINF:-1,|AR| AL Arabiya
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",AL Arabiya
 http://carthage-pro.fr:25461/test2/test2/354
-#EXTINF:-1,|AR| Al jazeera Mubasher
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Al jazeera Mubasher
 http://carthage-pro.fr:25461/test2/test2/355
-#EXTINF:-1,|AR| TRT Arabi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",TRT Arabi
 http://carthage-pro.fr:25461/test2/test2/356
-#EXTINF:-1,|AR| Al jazeera HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Al jazeera HD
 http://carthage-pro.fr:25461/test2/test2/357
-#EXTINF:-1,|AR| Al jazeera Documentary  HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABE NEWS",Al jazeera Documentary  HD
 http://carthage-pro.fr:25461/test2/test2/59094
-#EXTINF:-1,•●★ |AR| ARABE KIDS |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/324
-#EXTINF:-1,|AR| Toyour Baby
-http://carthage-pro.fr:25461/test2/test2/325
-#EXTINF:-1,|AR| Toyour Al Jannah
-http://carthage-pro.fr:25461/test2/test2/326
-#EXTINF:-1,|AR| SpaceToon
-http://carthage-pro.fr:25461/test2/test2/327
-#EXTINF:-1,|EG| ON TIME SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EGYPTE",ON TIME SPORTS 3
 http://carthage-pro.fr:25461/test2/test2/329
-#EXTINF:-1,|AR| Majid Kids TV
-http://carthage-pro.fr:25461/test2/test2/330
-#EXTINF:-1,|AR| Jeem kids
-http://carthage-pro.fr:25461/test2/test2/331
-#EXTINF:-1,|AR| CN Arabia
-http://carthage-pro.fr:25461/test2/test2/332
-#EXTINF:-1,|AR| Baraem
-http://carthage-pro.fr:25461/test2/test2/333
-#EXTINF:-1,|AR| Mickey
-http://carthage-pro.fr:25461/test2/test2/334
-#EXTINF:-1,|AR| Karameesh
-http://carthage-pro.fr:25461/test2/test2/335
-#EXTINF:-1,|AR| HodHod  TV
-http://carthage-pro.fr:25461/test2/test2/49164
-#EXTINF:-1,|AR| Cookies kids
-http://carthage-pro.fr:25461/test2/test2/49890
-#EXTINF:-1,|AR| YAMEN CHABAB
-http://carthage-pro.fr:25461/test2/test2/59099
-#EXTINF:-1,Tom & Jerry 
-http://carthage-pro.fr:25461/test2/test2/59964
-#EXTINF:-1,•●★ |AR| GOBX |AR| ★●•
-http://carthage-pro.fr:25461/test2/test2/53612
-#EXTINF:-1,|GOBX| DOCUBOX
-http://carthage-pro.fr:25461/test2/test2/53619
-#EXTINF:-1,|GOBX| FIGHT BOX
-http://carthage-pro.fr:25461/test2/test2/53620
-#EXTINF:-1,|GOBX| FILM BOX
-http://carthage-pro.fr:25461/test2/test2/53621
-#EXTINF:-1,|GOBX| FILM BOX ART HOUSE
-http://carthage-pro.fr:25461/test2/test2/53622
-#EXTINF:-1,|GOBX| FIX FOXi
-http://carthage-pro.fr:25461/test2/test2/53623
-#EXTINF:-1,|GOBX| GUILLI BEL ARABIE
-http://carthage-pro.fr:25461/test2/test2/53624
-#EXTINF:-1,|GOBX| LAAB Wa Jad
-http://carthage-pro.fr:25461/test2/test2/53625
-#EXTINF:-1,|GOBX| REEL PX ACTION
-http://carthage-pro.fr:25461/test2/test2/53627
-#EXTINF:-1,|GOBX| REEL PX CINEMA
-http://carthage-pro.fr:25461/test2/test2/53628
-#EXTINF:-1,|GOBX| REEL PX COMEDY
-http://carthage-pro.fr:25461/test2/test2/53629
-#EXTINF:-1,|GOBX| REEL PX FAMILY
-http://carthage-pro.fr:25461/test2/test2/53630
-#EXTINF:-1,|GOBX| REEL PX unlimited
-http://carthage-pro.fr:25461/test2/test2/53631
-#EXTINF:-1,|GOBX| TRACE SPORT STARTS
-http://carthage-pro.fr:25461/test2/test2/53633
-#EXTINF:-1,|GOBX| TRACE URBAIN
-http://carthage-pro.fr:25461/test2/test2/53634
-#EXTINF:-1,|AR| AD SPORTS Premium 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",AD SPORTS Premium 1
 http://carthage-pro.fr:25461/test2/test2/55891
-#EXTINF:-1,|AR| AD SPORTS Premium 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT ARABE",AD SPORTS Premium 2
 http://carthage-pro.fr:25461/test2/test2/55892
