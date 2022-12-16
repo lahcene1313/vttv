@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Bein Max 4k",Bein 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",Bein 4k
 http://carthage-pro.fr:25461/test2/test2/61447
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beIN Sport Max 1 4K
 http://carthage-pro.fr:25461/test2/test2/49190
@@ -45,10 +45,74 @@ http://carthage-pro.fr:25461/test2/test2/61659
 http://carthage-pro.fr:25461/test2/test2/62687
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",Loc.BeINMax 2 HD
 http://carthage-pro.fr:25461/test2/test2/62686
-#EXTINF:-1,BEINSPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",BEINSPORTS MAX 1 HD
 http://carthage-pro.fr:25461/test2/test2/61662
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max HD",BEINSPORTS MAX 2 HD
 http://carthage-pro.fr:25461/test2/test2/61667
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",PROGRAMME NATIONAL
+http://carthage-pro.fr:25461/test2/test2/40
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE"ALGERIA 1 Aloula
+http://carthage-pro.fr:25461/test2/test2/30
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 2  thania
+http://carthage-pro.fr:25461/test2/test2/26
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CANAL ALGERIE
+http://carthage-pro.fr:25461/test2/test2/46
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 3 Akhbaria
+http://carthage-pro.fr:25461/test2/test2/45
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER 3
+http://carthage-pro.fr:25461/test2/test2/54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 4 Amazigia
+http://carthage-pro.fr:25461/test2/test2/48
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",TAMAZIGHT ALGER
+http://carthage-pro.fr:25461/test2/test2/33
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 5 Koran
+http://carthage-pro.fr:25461/test2/test2/47
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 6 Jazaeriya
+http://carthage-pro.fr:25461/test2/test2/49278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 7 Almareefa
+http://carthage-pro.fr:25461/test2/test2/27
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 8 AlThakera
+http://carthage-pro.fr:25461/test2/test2/28
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL WATANIA ALGERIE
+http://carthage-pro.fr:25461/test2/test2/56
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BERBERE TV
+http://carthage-pro.fr:25461/test2/test2/29
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BAHIA TV
+http://carthage-pro.fr:25461/test2/test2/31
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BEUR TV
+http://carthage-pro.fr:25461/test2/test2/34
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",SAMIRA TV
+http://carthage-pro.fr:25461/test2/test2/35
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK BENNA
+http://carthage-pro.fr:25461/test2/test2/36
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK NEWS
+http://carthage-pro.fr:25461/test2/test2/37
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK TV
+http://carthage-pro.fr:25461/test2/test2/38
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHAMS TV
+http://carthage-pro.fr:25461/test2/test2/39
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",HADDEF ALGERIE
+http://carthage-pro.fr:25461/test2/test2/41
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL BILAD  TV
+http://carthage-pro.fr:25461/test2/test2/42
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER NEWS
+http://carthage-pro.fr:25461/test2/test2/43
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER TV
+http://carthage-pro.fr:25461/test2/test2/44
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL FADJR
+http://carthage-pro.fr:25461/test2/test2/49
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA AL ANIS
+http://carthage-pro.fr:25461/test2/test2/51
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ANNAHAR TV
+http://carthage-pro.fr:25461/test2/test2/52
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ZAHRA TV
+http://carthage-pro.fr:25461/test2/test2/55895
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ONE AL JAZAIRYA
+http://carthage-pro.fr:25461/test2/test2/53
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",M+ DZ
+http://carthage-pro.fr:25461/test2/test2/55
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 1
 http://carthage-pro.fr:25461/test2/test2/96
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canal+ Sport AFRIQUE",Canal+ Sport 2
@@ -498,21 +562,6 @@ http://carthage-pro.fr:25461/test2/test2/62689
 http://carthage-pro.fr:25461/test2/test2/62695
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Radio Jawhara FM
 http://carthage-pro.fr:25461/test2/test2/62694
-#EXTINF:-1,|AR| 4 KIDS
-http://carthage-pro.fr:25461/test2/test2/59694
-#EXTINF:-1,|AR| Alaraby TV
-http://carthage-pro.fr:25461/test2/test2/35114
-#EXTINF:-1,|AR|  Al Hiwar TV
-
-http://carthage-pro.fr:25461/test2/test2/34528
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SAUDIA",Al-Khalij TV
-http://carthage-pro.fr:25461/test2/test2/35194
-#EXTINF:-1,|AR| Almasira TV
-http://carthage-pro.fr:25461/test2/test2/34759
-#EXTINF:-1,|AR| Asharq 
-http://carthage-pro.fr:25461/test2/test2/34571
-#EXTINF:-1,|AR| Aliman TV
-http://carthage-pro.fr:25461/test2/test2/35704
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN News FHD
 http://carthage-pro.fr:25461/test2/test2/133
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEINSPORT",beIN News HD
@@ -1053,68 +1102,7 @@ http://carthage-pro.fr:25461/test2/test2/16
 http://carthage-pro.fr:25461/test2/test2/17
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TUNISIE",Smash Arabic
 http://carthage-pro.fr:25461/test2/test2/162
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 2  thania
-http://carthage-pro.fr:25461/test2/test2/26
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 7 Almareefa
-http://carthage-pro.fr:25461/test2/test2/27
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 8 AlThakera
-http://carthage-pro.fr:25461/test2/test2/28
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BERBERE TV
-http://carthage-pro.fr:25461/test2/test2/29
-#EXTINF:-1,|DZ| ALGERIA 1 Aloula
-http://carthage-pro.fr:25461/test2/test2/30
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BAHIA TV
-http://carthage-pro.fr:25461/test2/test2/31
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",TAMAZIGHT ALGER
-http://carthage-pro.fr:25461/test2/test2/33
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",BEUR TV
-http://carthage-pro.fr:25461/test2/test2/34
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",SAMIRA TV
-http://carthage-pro.fr:25461/test2/test2/35
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK BENNA
-http://carthage-pro.fr:25461/test2/test2/36
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK NEWS
-http://carthage-pro.fr:25461/test2/test2/37
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHOUROUK TV
-http://carthage-pro.fr:25461/test2/test2/38
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CHAMS TV
-http://carthage-pro.fr:25461/test2/test2/39
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",PROGRAMME NATIONAL
-http://carthage-pro.fr:25461/test2/test2/40
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",HADDEF ALGERIE
-http://carthage-pro.fr:25461/test2/test2/41
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL BILAD  TV
-http://carthage-pro.fr:25461/test2/test2/42
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER NEWS
-http://carthage-pro.fr:25461/test2/test2/43
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER TV
-http://carthage-pro.fr:25461/test2/test2/44
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 3 Akhbaria
-http://carthage-pro.fr:25461/test2/test2/45
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",CANAL ALGERIE
-http://carthage-pro.fr:25461/test2/test2/46
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 5 Koran
-http://carthage-pro.fr:25461/test2/test2/47
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 4 Amazigia
-http://carthage-pro.fr:25461/test2/test2/48
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL FADJR
-http://carthage-pro.fr:25461/test2/test2/49
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA AL ANIS
-http://carthage-pro.fr:25461/test2/test2/51
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ANNAHAR TV
-http://carthage-pro.fr:25461/test2/test2/52
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ZAHRA TV
-http://carthage-pro.fr:25461/test2/test2/55895
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ONE AL JAZAIRYA
-http://carthage-pro.fr:25461/test2/test2/53
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",DZAIER 3
-http://carthage-pro.fr:25461/test2/test2/54
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",M+ DZ
-http://carthage-pro.fr:25461/test2/test2/55
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",EL WATANIA ALGERIE
-http://carthage-pro.fr:25461/test2/test2/56
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ALGERIE",ALGERIA 6 Jazaeriya
-http://carthage-pro.fr:25461/test2/test2/49278
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BOX OFFiCE 1 HD
 http://carthage-pro.fr:25461/test2/test2/37965
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN ENTERTAINMENT",beIN BOX OFFiCE 2 HD
