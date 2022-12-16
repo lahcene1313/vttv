@@ -5,26 +5,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 http://51.210.199.18/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Bein 4k new",Be in new 13
 http://carthage-pro.fr:25461/test2/test2/100
-#EXTINF:-1,beIN Sport Max 1 4K
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beIN Sport Max 1 4K
 http://carthage-pro.fr:25461/test2/test2/49190
-#EXTINF:-1,beIN Sport Max  2 4K 
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beIN Sport Max  2 4K 
 http://carthage-pro.fr:25461/test2/test2/49191
-#EXTINF:-1,beINSport Max 3 4K
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beINSport Max 3 4K
 http://carthage-pro.fr:25461/test2/test2/49198
-#EXTINF:-1,beINSport Max 4 4K 
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beINSport Max 4 4K 
 http://carthage-pro.fr:25461/test2/test2/49199
-#EXTINF:-1,beINSport Max 5 4K 
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beINSport Max 5 4K 
 http://carthage-pro.fr:25461/test2/test2/49200
-#EXTINF:-1,beINSport Max 6 4K
-#EXTGRP: Bein Max 4k
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max 4k",beINSport Max 6 4K
 http://carthage-pro.fr:25461/test2/test2/49201
-#EXTINF:-1,beINMax 1SD
-#EXTGRP: Bein Max SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bein Max SD",beINMax 1SD
 http://carthage-pro.fr:25461/test2/test2/62539
 #EXTINF:-1,beINMax 2 SD
 #EXTGRP: Bein Max SD
