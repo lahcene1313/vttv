@@ -118,6 +118,10 @@ Lien-id="http://free.one24tv.com:80/28731667911188/28731667911188/3130"
 Lien-id="http://free.one24tv.com:80/28731667911188/28731667911188/3131"
 #EXTINF:-1 tvg-id="" tvg-name="Medi 1 Arabia" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=13" group-title="Morocco",Medi 1 Arabia
 Lien-id="http://free.one24tv.com:80/28731667911188/28731667911188/3132"
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 Ultra" tvg-logo="xxxxx" group-title="MBC",MBC 1 Ultra
+Lien-id="https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+
+
 
 
 
