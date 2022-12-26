@@ -129,7 +129,7 @@ Lien-id="http://livetv.ktv.zone/4/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 3ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE3.png" group-title="FRANCE",FRANCE 3ᴴᴰ
 Lien-id="http://livetv.ktv.zone/5/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 5ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE5.png" group-title="FRANCE",FRANCE 5ᴴᴰ
-http://livetv.ktv.zone/7/play.m3u8
+Lien-id="http://livetv.ktv.zone/7/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="M6ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="FRANCE",M6
 Lien-id="http://livetv.ktv.zone/108/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="Arteᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="FRANCE",Arteᴴᴰ
