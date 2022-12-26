@@ -126,7 +126,7 @@ Lien-id="http://free.one24tv.com:80/lahcene/lahcene/95"
 Lien-id="http://free.one24tv.com:80/lahcene/lahcene/38409"
 #EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=25" group-title="FRANCE",TF1ᴴᴰ
 Lien-id="http://free.one24tv.com:80/lahcene/lahcene/38406"
-EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="xxxxx" group-title="FRANCE",M6
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="xxxxx" group-title="FRANCE",M6
 Lien-id="http://livetv.ktv.zone/8/play.m3u8"
 
 
