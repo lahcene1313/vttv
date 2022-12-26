@@ -122,12 +122,42 @@ Lien-id="http://free.one24tv.com:80/lahcene/lahcene/3132"
 Lien-id="https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="xxxxx" group-title="MBC",MBC 2
 Lien-id="http://free.one24tv.com:80/lahcene/lahcene/95"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2ᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",FRANCE 2ᴴᴰ
-Lien-id="http://free.one24tv.com:80/lahcene/lahcene/38409"
-#EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=25" group-title="FRANCE",TF1ᴴᴰ
-Lien-id="http://free.one24tv.com:80/lahcene/lahcene/38406"
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="xxxxx" group-title="FRANCE",M6
+#EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="FRANCE",TF1ᴴᴰ
+Lien-id="http://livetv.ktv.zone/3/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE",FRANCE 2ᴴᴰ
+Lien-id="http://livetv.ktv.zone/4/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE3.png" group-title="FRANCE",FRANCE 3ᴴᴰ
+Lien-id="http://livetv.ktv.zone/5/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE5.png" group-title="FRANCE",FRANCE 5ᴴᴰ
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M6ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="FRANCE",M6
 Lien-id="http://livetv.ktv.zone/108/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="Arteᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="FRANCE",Arteᴴᴰ
+Lien-id="http://livetv.ktv.zone/9/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="C8ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/C8.png" group-title="FRANCE",C8ᴴᴰ
+Lien-id="http://livetv.ktv.zone/10/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="W9ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/W9.png" group-title="FRANCE",W9ᴴᴰ
+Lien-id="http://livetv.ktv.zone/11/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="TMCᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TMC.png" group-title="FRANCE",TMCᴴᴰ
+Lien-id="http://livetv.ktv.zone/12/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="TFXᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TFX.png" group-title="FRANCE",TFXᴴᴰ
+Lien-id="http://livetv.ktv.zone/13/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/NRJ12.png" group-title="FRANCE",NRJ 12ᴴᴰ
+Lien-id="http://livetv.ktv.zone/14/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="C Starᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CSTAR.png" group-title="FRANCE",C Starᴴᴰ
+Lien-id="http://livetv.ktv.zone/19/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="6Terᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/6TER.png" group-title="FRANCE",6Terᴴᴰ
+Lien-id="http://livetv.ktv.zone/24/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="RTS Unᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Unᴴᴰ
+Lien-id="http://livetv.ktv.zone/1/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deuxᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Deuxᴴᴰ
+Lien-id="http://livetv.ktv.zone/2/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="RMC Storyᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCSTORY.png" group-title="FRANCE",RMC Storyᴴᴰ
+Lien-id="http://livetv.ktv.zone/25/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverteᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCDECOUVERTE.png" group-title="FRANCE",RMC Decouverteᴴᴰ
+Lien-id="http://livetv.ktv.zone/26/play.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CHERIE25.png" group-title="FRANCE",Chérie 25ᴴᴰ
+Lien-id="http://livetv.ktv.zone/27/play.m3u8"
 
 
 
