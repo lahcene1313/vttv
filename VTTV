@@ -125,6 +125,10 @@ Lien-id="https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbf
 Lien-id="wahiba/lahcene/lahcene/95"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama +" tvg-logo="xxxxx" group-title="MBC",MBC Drama +
 Lien-id="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="xxxxx" group-title="MBC",MBC Drama
+Lien-id="https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u"
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="xxxxx" group-title="MBC",MBC Bollywood
+Lien-id="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="FRANCE",TF1ᴴᴰ
 Lien-id="http://chicha/103/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 2ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE",FRANCE 2ᴴᴰ
