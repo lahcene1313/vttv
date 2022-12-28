@@ -1,4 +1,3 @@
-
 #EXTINF:-1 tvg-id="" tvg-name="Programme National Algerie ᴴᴰ" tvg-logo="wahiba/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9d-1htELP078siCO8W6W3oM7Zcv9vtaHdqz9CFd9MQMb9NEI-dKom-EpalInWcM_rM.png" group-title="Algerie",Programme National Algerie HD
 Lien-id="wahiba/lahcene/lahcene/38765"
 #EXTINF:-1 tvg-id="" tvg-name="Canal Algerie ᴴᴰ" tvg-logo="wahiba/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9fdxtupqicOE4vrzwkIxP-8uRnNNNmGqXVxDFt6MMmFNqxMYUyJjlVc5gxX5GiOFOU.png" group-title="Algerie",Canal Algerie HD
@@ -134,7 +133,7 @@ Lien-id="http://chicha/7/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="M6 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="France",M6 ᴴᴰ
 Lien-id="http://chicha/108/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=389" group-title="France", 13eme Rue ᴴᴰ
-http://wahiba/lahcene/lahcene/38420
+Lien-id="http://wahiba/lahcene/lahcene/38420"
 #EXTINF:-1 tvg-id="" tvg-name="Arte ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="France",Arteᴴᴰ
 Lien-id="http://chicha/9/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="C8 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/C8.png" group-title="France",C8ᴴᴰ
@@ -162,21 +161,21 @@ Lien-id="http://chicha/26/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CHERIE25.png" group-title="France",Chérie 25ᴴᴰ
 Lien-id="http://chicha/27/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="RTL 9 ᴴᴰ" tvg-logo="http://free.one24tv.com:80/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9c1wdXDyEX2TdVf0v8LRi2KVi_qXlYPGgOw4zwR2h2htlpZay-pHS1kIw7Mvvcnmp0.jpg" group-title="France",RTL 9 ᴴᴰ
-http://wahiba/lahcene/lahcene/38419
+Lien-id="http://wahiba/lahcene/lahcene/38419"
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=33" group-title="France", Ushuaia TV ᴴᴰ
-http://wahiba/lahcene/lahcene/38424
+Lien-id="http://wahiba/lahcene/lahcene/38424"
 #EXTINF:-1 tvg-id="" tvg-name="LCI ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=2389" group-title="France", LCI ᴴᴰ
-http://wahiba/lahcene/lahcene/38446
+Lien-id="http://wahiba/lahcene/lahcene/38446"
 #EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/aAplh2-Dg0RKwOq-0355JU3Nwj1y-woT4D0SYbBm1E9dFDY-bvjb44w1YIvf--fwAHM=s128-rw" group-title="France",FR : TV5 MONDE ᴴᴰ
-http://wahiba/lahcene/lahcene/38447
+Lien-id="http://wahiba/lahcene/lahcene/38447"
 #EXTINF:-1 tvg-id="" tvg-name="France 24 ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=319" group-title="France",FR_France 24 ᴴᴰ
-http://wahiba/lahcene/lahcene/38449
+Lien-id="http://wahiba/lahcene/lahcene/38449"
 #EXTINF:-1 tvg-id="" tvg-name="BFM TV ᴴᴰ" tvg-logo="http://free.one24tv.com:80/images/b6kjTBEHD74HCP4qSHqaDhummJB1PbpaVmuAFHCPQwF6JdktNmeOStGFK3Bt-3KgqqolmAvAACfeUPWvrKtu1FDV13U6JSU3o5M1yyC998aJr9p9BUvV8ni_rrztW6U3.png" group-title="France",BFM TV ᴴᴰ
-http://wahiba/lahcene/lahcene/38450
+Lien-id="http://wahiba/lahcene/lahcene/38450"
 #EXTINF:-1 tvg-id="" tvg-name="C NEWS ᴴᴰ" tvg-logo="http://free.one24tv.com:80/images/XSTNKyrnWJkO-JmgKUOjUiGKgbyN_RXtjt-m2L4st2tOueeAav113bdOBXWDKdD7.jpg" group-title="France", CNEWS ᴴᴰ
-http://wahiba/lahcene/lahcene/38452
+Lien-id="http://wahiba/lahcene/lahcene/38452"
 #EXTINF:-1 tvg-id="" tvg-name="Euronews ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=2494" group-title="France",Euronews ᴴᴰ
-http://wahiba/lahcene/lahcene/38454
+Lien-id="http://wahiba/lahcene/lahcene/38454"
 
 
 
