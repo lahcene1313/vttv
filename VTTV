@@ -33,8 +33,6 @@ Lien-id="wahiba/lahcene/lahcene/38780"
 Lien-id="wahiba/lahcene/lahcene/38781"
 #EXTINF:-1 tvg-id="" tvg-name="AR | B TV HD" tvg-logo="wahiba/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9cxq5Go-L0Nt2K5ZYvkc5G_uCI_AwMm8pYZ70cU8olk7ZLv1wF138is5aMG7wOz7Co.png" group-title="Algeria",B TV HD
 Lien-id="wahiba/lahcene/lahcene/38782"
-#EXTINF:-1 tvg-id="" tvg-name="FR | Disney Channel  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=640" group-title="Disney",Disney Channel  FHD
-Lien-id="wahiba/lahcene/lahcene/38701"
 #EXTINF:-1 tvg-id="" tvg-name="AR | El Hayat HD" tvg-logo="wahiba/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9cc4e1angWtQSit5pDfmKKaVRyhc6KJs1RF6DJLx83i4PifhXvtagmxy3CocKbXFI4.png" group-title="Algeria",El-Hayat HD
 Lien-id="http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/550"
 #EXTINF:-1 tvg-id="" tvg-name="AR | El Djazair N1 HD" tvg-logo="wahiba/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9cvxjDeyWqaikBgPhJQ7G3_xGHQX6J944izbt6DPt8LkFkXleZiJx42RCPOmjXOdfU.png" group-title="Algeria",El Djazair N1 HD
@@ -129,6 +127,10 @@ Lien-id="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b1
 Lien-id="https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="xxxxx" group-title="MBC",MBC Bollywood
 Lien-id="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+#EXTINF:-1 tvg-id="" tvg-name="FR | Disney Channel  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=640" group-title="Disney",Disney Channel  FHD
+Lien-id="wahiba/lahcene/lahcene/38701"
+#EXTINF:-1 tvg-id="" tvg-name="FR | Gulli  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=874" group-title="Disney",Gulli  FHD
+Lien-id="wahiba/lahcene/lahcene/38708"
 #EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="FRANCE",TF1ᴴᴰ
 Lien-id="http://chicha/103/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 2ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE",FRANCE 2ᴴᴰ
