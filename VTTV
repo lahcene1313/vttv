@@ -127,45 +127,45 @@ Lien-id="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b1
 Lien-id="https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="xxxxx" group-title="MBC",MBC Bollywood
 Lien-id="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FR | Disney Channel  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=640" group-title="Disney",Disney Channel  FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | Disney Channel  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=640" group-title="Dessins Animés",Disney Channel ᴴᴰ
 Lien-id="wahiba/lahcene/lahcene/38701"
-#EXTINF:-1 tvg-id="" tvg-name="FR | Gulli  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=874" group-title="Disney",Gulli  FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR | Gulli  FHD" tvg-logo="http://hfm.tn:5001/image/chn?id=874" group-title="Dessins Animés",Gulli ᴴᴰ
 Lien-id="wahiba/lahcene/lahcene/38708"
-#EXTINF:-1 tvg-id="" tvg-name="TF1ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="FRANCE",TF1ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="TF1 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TF1.png" group-title="FRANCE",TF1 ᴴᴰ
 Lien-id="http://chicha/103/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE",FRANCE 2ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE",FRANCE 2 ᴴᴰ
 Lien-id="http://chicha/4/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE3.png" group-title="FRANCE",FRANCE 3ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE3.png" group-title="FRANCE",FRANCE 3 ᴴᴰ
 Lien-id="http://chicha/5/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE5.png" group-title="FRANCE",FRANCE 5ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/FRANCE5.png" group-title="FRANCE",FRANCE 5 ᴴᴰ
 Lien-id="http://chicha/7/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="M6ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="FRANCE",M6
+#EXTINF:-1 tvg-id="" tvg-name="M6 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/M6.png" group-title="FRANCE",M6 ᴴᴰ
 Lien-id="http://chicha/108/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="Arteᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="FRANCE",Arteᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Arte ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/ARTE.png" group-title="FRANCE",Arteᴴᴰ
 Lien-id="http://chicha/9/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="C8ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/C8.png" group-title="FRANCE",C8ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="C8 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/C8.png" group-title="FRANCE",C8ᴴᴰ
 Lien-id="http://chicha/10/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="W9ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/W9.png" group-title="FRANCE",W9ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="W9 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/W9.png" group-title="FRANCE",W9ᴴᴰ
 Lien-id="http://chicha/11/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="TMCᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TMC.png" group-title="FRANCE",TMCᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="TMC ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TMC.png" group-title="FRANCE",TMCᴴᴰ
 Lien-id="http://chicha/12/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="TFXᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TFX.png" group-title="FRANCE",TFXᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="TFX ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/TFX.png" group-title="FRANCE",TFXᴴᴰ
 Lien-id="http://chicha/13/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/NRJ12.png" group-title="FRANCE",NRJ 12ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/NRJ12.png" group-title="FRANCE",NRJ 12ᴴᴰ
 Lien-id="http://chicha/14/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="C Starᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CSTAR.png" group-title="FRANCE",C Starᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="C Star ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CSTAR.png" group-title="FRANCE",C Starᴴᴰ
 Lien-id="http://chicha/19/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="6Terᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/6TER.png" group-title="FRANCE",6Terᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="6Ter ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/6TER.png" group-title="FRANCE",6Terᴴᴰ
 Lien-id="http://chicha/24/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="RTS Unᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Unᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un ᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Unᴴᴰ
 Lien-id="http://chicha/1/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deuxᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Deuxᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux ᴴᴰ" tvg-logo="xxxxx" group-title="FRANCE",RTS Deuxᴴᴰ
 Lien-id="http://chicha/2/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="RMC Storyᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCSTORY.png" group-title="FRANCE",RMC Storyᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RMC Story ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCSTORY.png" group-title="FRANCE",RMC Storyᴴᴰ
 Lien-id="http://chicha/25/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverteᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCDECOUVERTE.png" group-title="FRANCE",RMC Decouverteᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/RMCDECOUVERTE.png" group-title="FRANCE",RMC Decouverteᴴᴰ
 Lien-id="http://chicha/26/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="Chérie 25ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CHERIE25.png" group-title="FRANCE",Chérie 25ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25 ᴴᴰ" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-FRANCEHD/CHERIE25.png" group-title="FRANCE",Chérie 25ᴴᴰ
 Lien-id="http://chicha/27/play.m3u8"
 
 
