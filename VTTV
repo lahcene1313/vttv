@@ -75,7 +75,7 @@ Lien-id="wahiba/lahcene/lahcene/38806"
 #EXTINF:-1 tvg-id="" tvg-name="AL INSEN TV ᴴᴰ" tvg-logo="xxxxx" group-title="Tunisie",AL INSEN TV HD
 Lien-id="wahiba/lahcene/lahcene/38807"
 #EXTINF:-1 tvg-id="" tvg-name="BAYA TV ᴴᴰ" tvg-logo="xxxxx" group-title="Tunisie",BAYA TV HD
-Lien-id="http://s.tv.kwaoo.net/1/play.m3u8"
+Lien-id="wahiba/lahcene/lahcene/838808"
 #EXTINF:-1 tvg-id="" tvg-name="SAHEL TV ᴴᴰ" tvg-logo="xxxxx" group-title="Tunisie",SAHEL TV HD
 Lien-id="wahiba/lahcene/lahcene/38809"
 #EXTINF:-1 tvg-id="" tvg-name="TUNISIE iMMOBILIER TV ᴴᴰ" tvg-logo="xxxxx" group-title="Tunisie",TUNISIE iMMOBILIER TV HD
@@ -109,15 +109,15 @@ Lien-id="wahiba/lahcene/lahcene/3131"
 #EXTINF:-1 tvg-id="" tvg-name="Medi 1 Arabia ᴴᴰ" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=13" group-title="Maroc",Medi 1 Arabia
 Lien-id="wahiba/lahcene/lahcene/3132"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 Ultra ᴴᴰ" tvg-logo="xxxxx" group-title="MBC",MBC 1 Ultra
-Lien-id="https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
+Lien-id="wahiba/lahcene/lahcene/91"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2 ᴴᴰ" tvg-logo="xxxxx" group-title="MBC",MBC 2
 Lien-id="wahiba/lahcene/lahcene/95"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama + ᴴᴰ" tvg-logo="xxxxx" group-title="MBC",MBC Drama +
-Lien-id="https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
+Lien-id="wahiba/lahcene/lahcene/103"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama ᴴᴰ" tvg-logo="xxxxx" group-title="MBC",MBC Drama
-Lien-id="https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u"
+Lien-id="wahiba/lahcene/lahcene/102"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood ᴴᴰ" tvg-logo="xxxxx" group-title="MBC",MBC Bollywood
-Lien-id="https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+Lien-id="wahiba/lahcene/lahcene/101"
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=640" group-title="Dessins Animés",Disney Channel ᴴᴰ
 Lien-id="wahiba/lahcene/lahcene/38701"
 #EXTINF:-1 tvg-id="" tvg-name="Gulli ᴴᴰ" tvg-logo="http://hfm.tn:5001/image/chn?id=874" group-title="Dessins Animés",Gulli ᴴᴰ
