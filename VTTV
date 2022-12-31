@@ -49,8 +49,6 @@ Lien-id="wahiba/lahcene/lahcene/38791"
 Lien-id="wahiba/lahcene/lahcene/38792"
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS HD" tvg-logo="" group-title="Bein Sport",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/102546"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="" group-title="Bein Sport",
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/7757"
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1HD" tvg-logo="" group-title="Bein Sport",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/7756"
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 HD" tvg-logo="" group-title="Bein Sport",
@@ -125,25 +123,25 @@ Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/164792"
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/164793"
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS AFC 3HD" tvg-logo="" group-title="Bein Sport",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/164794"
-#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 1SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 1SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125326"
-#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 2SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 2SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125327"
-#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 3SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM 3SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125328"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125319"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125320"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125321"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125322"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125323"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125324"
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7SD" tvg-logo="" group-title="Bein Sport",
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7SD" tvg-logo="" group-title="Bein Sport SD",
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/125325"
 #EXTINF:-1 tvg-id="" tvg-name="TUNISIA NAT 1 ᴴᴰ" tvg-logo="" group-title="Tunisie",TUNISIA NAT 1 HD
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/69316"
