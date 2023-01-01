@@ -130,13 +130,19 @@ Lien-id="wahiba/lahcene/lahcene/3131"
 #EXTINF:-1 tvg-id="" tvg-name="Medi 1 Arabia ᴴᴰ" tvg-logo="" group-title="Maroc",Medi 1 Arabia
 Lien-id="wahiba/lahcene/lahcene/3132"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 Ultra ᴴᴰ" tvg-logo="" group-title="MBC",MBC 1 Ultra
-Lien-id="wahiba/lahcene/lahcene/91"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55540"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2 ᴴᴰ" tvg-logo="" group-title="MBC",MBC 2
-Lien-id="wahiba/lahcene/lahcene/95"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55539"
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 ᴴᴰ" tvg-logo="" group-title="MBC",MBC 4
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55537"
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX ᴴᴰ" tvg-logo="" group-title="MBC",MBC MAX
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55542"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama + ᴴᴰ" tvg-logo="" group-title="MBC",MBC Drama +
 Lien-id="wahiba/lahcene/lahcene/103"
 #EXTINF:-1 tvg-id="" tvg-name="MBC ᐩ elife ᴴᴰ" tvg-logo="" group-title="MBC",MBC ᐩ elife
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/151983"
+#EXTINF:-1 tvg-id="" tvg-name="MBC ᐩ Variety ᴴᴰ" tvg-logo="" group-title="MBC",MBC ᐩ Variety
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55533"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama ᴴᴰ" tvg-logo="" group-title="MBC",MBC Drama
 Lien-id="wahiba/lahcene/lahcene/102"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood ᴴᴰ" tvg-logo="" group-title="MBC",MBC Bollywood
@@ -172,11 +178,11 @@ Lien-id="http://chicha/13/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="NRJ 12 ᴴᴰ" tvg-logo="" group-title="France",NRJ 12ᴴᴰ
 Lien-id="http://chicha/14/play.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="C Star ᴴᴰ" tvg-logo="" group-title="France",C Starᴴᴰ
-Lien-id="http://chicha/19/play.m3u8"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73975"
 #EXTINF:-1 tvg-id="" tvg-name="6Ter ᴴᴰ" tvg-logo="" group-title="France",6Terᴴᴰ
-Lien-id="http://chicha/24/play.m3u8"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73970"
 #EXTINF:-1 tvg-id="" tvg-name="RTS Un ᴴᴰ" tvg-logo="" group-title="France",RTS Unᴴᴰ
-Lien-id="http://chicha/1/play.m3u8"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5845"
 #EXTINF:-1 tvg-id="" tvg-name="RTS Deux ᴴᴰ" tvg-logo="" group-title="France",RTS Deuxᴴᴰ
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/68828"
 #EXTINF:-1 tvg-id="" tvg-name="Chérie 25 ᴴᴰ" tvg-logo="" group-title="France",Chérie 25ᴴᴰ
@@ -201,10 +207,8 @@ Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5861"
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5860"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE+ ᴴᴰ" tvg-logo="" group-title="Documentaires",FR|PLANETE+ HD
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5852"
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ AVENTURE ᴴᴰ" tvg-logo="" group-title="Documentaires",FR|PLANETE+ AVENTURE HD
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5851"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE+ A&E ᴴᴰ" tvg-logo="" group-title="Documentaires",FR|PLANETE+ A&E SD
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74025"
+Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/48015"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CRIME ᴴᴰ" tvg-logo="" group-title="Documentaires",FR|PLANETE+ CRIME HD
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5850"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CI ᴴᴰ" tvg-logo="" group-title="Documentaires",FR|PLANETE+ CI SD
