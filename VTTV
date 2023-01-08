@@ -71,6 +71,16 @@ Lien-id="http://zentv.info:8080/live/z603216654/mn021888610/129163.ts"
 Lien-id="http://zentv.info:8080/live/z603216654/mn021888610/129162.ts"
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FR ᴴᴰ" tvg-logo="" group-title="Sport Fr",
 Lien-id="http://zentv.info:8080/live/z603216654/mn021888610/129157.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 1 HD Afrique" tvg-logo="" group-title="Sport Fr",Canal+ Sport 1 HD AF
+Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/218167"
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 HD Afrique" tvg-logo="" group-title="Sport Fr",Canal+ Sport 2 HD AF
+Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/218168"
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 HD Afrique" tvg-logo="" group-title="Sport Fr",Canal+ Sport 3 HD AF
+Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/218169"
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 HD Afrique" tvg-logo="" group-title="Sport Fr",Canal+ Sport 4 HD AF
+Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/218170"
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 5 HD Afrique" tvg-logo="" group-title="Sport Fr",Canal+ Sport 5 HD AF
+Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/218171"
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 1 FR ᴴᴰ" tvg-logo="" group-title="Sport Fr",
 Lien-id="http://tivixs.com:80/Eliasbozan/PqzQj42WEH9y/161951"
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 2 FR ᴴᴰ" tvg-logo="" group-title="Sport Fr",
