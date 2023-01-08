@@ -221,8 +221,6 @@ Lien-id="http://zentv.info:8080/live/05315026529/26529/60971.ts"
 Lien-id="http://zentv.info:8080/live/05315026529/26529/60972.ts"
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Crime 2" tvg-logo="" group-title="Shahid",Shahid Crime 2
 Lien-id="http://zentv.info:8080/live/05315026529/26529/60973.ts"
-#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 4" tvg-logo="" group-title="Shahid",VIP Shahid Action 4
-Lien-id="http://zentv.info:8080/live/05315026529/26529/60975.ts"
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Drama 1" tvg-logo="" group-title="Shahid",Shahid Drama 1
 Lien-id="http://zentv.info:8080/live/05315026529/26529/60979.ts"
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Drama 2" tvg-logo="" group-title="Shahid",Shahid Drama 2
@@ -233,12 +231,14 @@ Lien-id="http://zentv.info:8080/live/05315026529/26529/60991.ts"
 Lien-id="http://zentv.info:8080/live/05315026529/26529/60992.ts"
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ACTION" tvg-logo="" group-title="Shahid",AR:SHAHID ACTION
 Lien-id="http://zentv.info:8080/live/05315026529/26529/60995.ts"
-#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 3" tvg-logo="" group-title="Shahid",VIP Shahid Action 3
-Lien-id="http://zentv.info:8080/live/05315026529/26529/60993.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 1" tvg-logo="" group-title="Shahid",VIP Shahid Action 1
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61000.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 2" tvg-logo="" group-title="Shahid",VIP Shahid Action 2
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61001.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 3" tvg-logo="" group-title="Shahid",VIP Shahid Action 3
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60993.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 4" tvg-logo="" group-title="Shahid",VIP Shahid Action 4
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60975.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Arabia 1" tvg-logo="" group-title="Shahid",VIP Shahid Arabia 1
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61013.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Arabia 2" tvg-logo="" group-title="Shahid",VIP Shahid Arabia 2
@@ -247,7 +247,7 @@ Lien-id="http://zentv.info:8080/live/05315026529/26529/61014.ts"
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61017.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Horror 2" tvg-logo="" group-title="Shahid",VIP Shahid Horror 2
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61018.ts"
-#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid fiction. scientific" tvg-logo="" group-title="Shahid",VIP Shahid fiction. scientific
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid fiction scientific" tvg-logo="" group-title="Shahid",VIP Shahid fiction. scientific
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61020.ts"
 #EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Comedy 1" tvg-logo="" group-title="Shahid",VIP Shahid Comedy 1
 Lien-id="http://zentv.info:8080/live/05315026529/26529/61021.ts"
