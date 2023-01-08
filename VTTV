@@ -212,9 +212,47 @@ Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/164081"
 #EXTINF:-1 tvg-id="" tvg-name="MBC ᐩ Variety ᴴᴰ" tvg-logo="" group-title="MBC",MBC ᐩ Variety
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55533"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Drama ᴴᴰ" tvg-logo="" group-title="MBC",MBC Drama
-Lien-id="wahiba/lahcene/lahcene/102"
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60590.ts"
 #EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood ᴴᴰ" tvg-logo="" group-title="MBC",MBC Bollywood
-Lien-id="wahiba/lahcene/lahcene/101"
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60595.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid adventure 2" tvg-logo="" group-title="Shahid",Shahid adventure 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60971.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Crime 1" tvg-logo="" group-title="Shahid",Shahid Crime 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60972.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Crime 2" tvg-logo="" group-title="Shahid",Shahid Crime 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60973.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 4" tvg-logo="" group-title="Shahid",VIP Shahid Action 4
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60975.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Drama 1" tvg-logo="" group-title="Shahid",Shahid Drama 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60979.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Drama 2" tvg-logo="" group-title="Shahid",Shahid Drama 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60980.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Drama 3" tvg-logo="" group-title="Shahid",Shahid Drama 3
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60991.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Shahid adventure 1" tvg-logo="" group-title="Shahid",Shahid adventure 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60992.ts"
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ACTION" tvg-logo="" group-title="Shahid",AR:SHAHID ACTION
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60995.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 3" tvg-logo="" group-title="Shahid",VIP Shahid Action 3
+Lien-id="http://zentv.info:8080/live/05315026529/26529/60993.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 1" tvg-logo="" group-title="Shahid",VIP Shahid Action 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61000.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Action 2" tvg-logo="" group-title="Shahid",VIP Shahid Action 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61001.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Arabia 1" tvg-logo="" group-title="Shahid",VIP Shahid Arabia 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61013.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Arabia 2" tvg-logo="" group-title="Shahid",VIP Shahid Arabia 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61014.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Horror 1" tvg-logo="" group-title="Shahid",VIP Shahid Horror 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61017.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Horror 2" tvg-logo="" group-title="Shahid",VIP Shahid Horror 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61018.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid fiction. scientific" tvg-logo="" group-title="Shahid",VIP Shahid fiction. scientific
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61020.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Comedy 1" tvg-logo="" group-title="Shahid",VIP Shahid Comedy 1
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61021.ts"
+#EXTINF:-1 tvg-id="" tvg-name="VIP Shahid Comedy 2" tvg-logo="" group-title="Shahid",VIP Shahid Comedy 2
+Lien-id="http://zentv.info:8080/live/05315026529/26529/61022.ts"
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel ᴴᴰ" tvg-logo="" group-title="Dessins Animés",Disney Channel ᴴᴰ
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74029"
 #EXTINF:-1 tvg-id="" tvg-name="Nicklodeon Teen ᴴᴰ" tvg-logo="" group-title="Dessins Animés",Nicklodeon Teen ᴴᴰ
