@@ -265,60 +265,138 @@ Lien-id="http://zentv.info:8080/live/05315026529/26529/540.ts"
 Lien-id="http://zentv.info:8080/live/05315026529/26529/556.ts"
 #EXTINF:-1 tvg-id="" tvg-name="Masha & The Bear ᴴᴰ" tvg-logo="" group-title="Dessins Animés",Masha & The Bear ᴴᴰ
 Lien-id="http://zentv.info:8080/live/05315026529/26529/59829.ts"
-#EXTINF:-1 tvg-id="" tvg-name="TF1 ᴴᴰ" tvg-logo="" group-title="France",TF1 ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/121131"
+#EXTINF:-1 tvg-id="" tvg-name="TF1 ᴴᴰ" tvg-logo="" group-title="France",TF1 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127318"
 #EXTINF:-1 tvg-id="" tvg-name="TF1 +1 ᴴᴰ" tvg-logo="" group-title="France",TF1 +1
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74125"
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Séries ᴴᴰ" tvg-logo="" group-title="France",TF1 Séries ᴴᴰ
-Lien-id="http://chicha/22/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="TFX ᴴᴰ" tvg-logo="" group-title="France",TFXᴴᴰ
-Lien-id="http://chicha/13/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 2 ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5883"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 3 ᴴᴰ
-Lien-id="http://livetv.ktv.zone/5/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 4 ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5881"
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 5 ᴴᴰ
-Lien-id="http://chicha/7/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="M6 ᴴᴰ" tvg-logo="" group-title="France",M6 ᴴᴰ
-Lien-id="http://chicha/108/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="13eme Rue ᴴᴰ" tvg-logo="" group-title="France", 13eme Rue ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73982"
-#EXTINF:-1 tvg-id="" tvg-name="Arte ᴴᴰ" tvg-logo="" group-title="France",Arteᴴᴰ
-Lien-id="http://chicha/9/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="C8 ᴴᴰ" tvg-logo="" group-title="France",C8ᴴᴰ
-Lien-id="http://chicha/10/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="W9 ᴴᴰ" tvg-logo="" group-title="France",W9ᴴᴰ
-Lien-id="http://chicha/11/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="TMC ᴴᴰ" tvg-logo="" group-title="France",TMCᴴᴰ
-Lien-id="http://chicha/12/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 ᴴᴰ" tvg-logo="" group-title="France",NRJ 12ᴴᴰ
-Lien-id="http://chicha/14/play.m3u8"
-#EXTINF:-1 tvg-id="" tvg-name="C Star ᴴᴰ" tvg-logo="" group-title="France",C Starᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73975"
-#EXTINF:-1 tvg-id="" tvg-name="6Ter ᴴᴰ" tvg-logo="" group-title="France",6Terᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73970"
-#EXTINF:-1 tvg-id="" tvg-name="RTS Un ᴴᴰ" tvg-logo="" group-title="France",RTS Unᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="TFX ᴴᴰ" tvg-logo="" group-title="France",TFX SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127329"
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FILMS ᴴᴰ" tvg-logo="" group-title="France",TF1 SERIES FILMS SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127330"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 2 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127319"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 3 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127320"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 4 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127322"
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 5 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127323"
+#EXTINF:-1 tvg-id="" tvg-name="ARTE ᴴᴰ" tvg-logo="" group-title="France",ARTE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127324"
+#EXTINF:-1 tvg-id="" tvg-name="M6 ᴴᴰ" tvg-logo="" group-title="France",M6 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127325"
+#EXTINF:-1 tvg-id="" tvg-name="6TER ᴴᴰ" tvg-logo="" group-title="France",6TER SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127326"
+#EXTINF:-1 tvg-id="" tvg-name="W9 ᴴᴰ" tvg-logo="" group-title="France",W9 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127327"
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12 ᴴᴰ" tvg-logo="" group-title="France",NRJ12 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127328"
+#EXTINF:-1 tvg-id="" tvg-name="C8 ᴴᴰ" tvg-logo="" group-title="France",C8 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127331"
+#EXTINF:-1 tvg-id="" tvg-name="C Star ᴴᴰ" tvg-logo="" group-title="France",CSTAR SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127332"
+#EXTINF:-1 tvg-id="" tvg-name="TMC ᴴᴰ" tvg-logo="" group-title="France",TMC SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127333"
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY ᴴᴰ" tvg-logo="" group-title="France",RMC STORY SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127334"
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 ᴴᴰ" tvg-logo="" group-title="France",CHERIE 25 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127335"
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN ᴴᴰ" tvg-logo="" group-title="France",RTS UN HD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/94473"
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux ᴴᴰ" tvg-logo="" group-title="France",RTS Deuxᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX ᴴᴰ" tvg-logo="" group-title="France",RTS DEUX HD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/94474"
-#EXTINF:-1 tvg-id="" tvg-name="Chérie 25 ᴴᴰ" tvg-logo="" group-title="France",Chérie 25ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5909"
-#EXTINF:-1 tvg-id="" tvg-name="RTL 9 ᴴᴰ" tvg-logo="" group-title="France",RTL 9 ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73973"
-#EXTINF:-1 tvg-id="" tvg-name="LCI ᴴᴰ" tvg-logo="" group-title="France", LCI ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/47998"
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE ᴴᴰ" tvg-logo="" group-title="France",FR : TV5 MONDE ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5829"
-#EXTINF:-1 tvg-id="" tvg-name="France 24 ᴴᴰ" tvg-logo="" group-title="France",FR_France 24 ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/95716"
-#EXTINF:-1 tvg-id="" tvg-name="BFM TV ᴴᴰ" tvg-logo="" group-title="France",BFM TV ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73947"
-#EXTINF:-1 tvg-id="" tvg-name="C NEWS ᴴᴰ" tvg-logo="" group-title="France", CNEWS ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/73954"
-#EXTINF:-1 tvg-id="" tvg-name="Euronews ᴴᴰ" tvg-logo="" group-title="France",Euronews ᴴᴰ
-Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/5887"
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV ᴴᴰ" tvg-logo="" group-title="France",CLIQUE TV SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127197"
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE ᴴᴰ" tvg-logo="" group-title="France",COMEDIE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127198"
+#EXTINF:-1 tvg-id="" tvg-name="SYFY ᴴᴰ" tvg-logo="" group-title="France",SYFY SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127199"
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT ᴴᴰ" tvg-logo="" group-title="France",E! ENTERTAINMENT SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127200"
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE ᴴᴰ" tvg-logo="" group-title="France",13EME RUE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127201"
+#EXTINF:-1 tvg-id="" tvg-name="TEVA ᴴᴰ" tvg-logo="" group-title="France",TEVA SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127202"
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 ᴴᴰ" tvg-logo="" group-title="France",RTL 9 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127203"
+#EXTINF:-1 tvg-id="" tvg-name="AB1 ᴴᴰ" tvg-logo="" group-title="France",AB1 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127204"
+#EXTINF:-1 tvg-id="" tvg-name="AB 3 ᴴᴰ" tvg-logo="" group-title="France",AB 3 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127205"
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB ᴴᴰ" tvg-logo="" group-title="France",SERIE CLUB SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127206"
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE ᴴᴰ" tvg-logo="" group-title="France",PARIS PREMIERE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127207"
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH ᴴᴰ" tvg-logo="" group-title="France",TV BREIZH SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127208"
+#EXTINF:-1 tvg-id="" tvg-name="VICELAND ᴴᴰ" tvg-logo="" group-title="France",VICELAND SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127209"
+#EXTINF:-1 tvg-id="" tvg-name="BET ᴴᴰ" tvg-logo="" group-title="France",BET SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127210"
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM ᴴᴰ" tvg-logo="" group-title="France",MUSEUM SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127212"
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="" group-title="France",COMEDY CENTRAL SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127213"
+#EXTINF:-1 tvg-id="" tvg-name="KTO ᴴᴰ" tvg-logo="" group-title="France",KTO SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/147876"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ ᴴᴰ" tvg-logo="" group-title="France",CANAL+  SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126833"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT ᴴᴰ" tvg-logo="" group-title="France",CANAL+ SPORT SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126834"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES ᴴᴰ" tvg-logo="" group-title="France",CANAL+ SERIES SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126835"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY ᴴᴰ" tvg-logo="" group-title="France",CANAL+ FAMILY SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126836"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE ᴴᴰ" tvg-logo="" group-title="France",CANAL+ DECALE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126837"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINEMA ᴴᴰ" tvg-logo="" group-title="France",CANAL+ CINEMA SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126838"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DOCS ᴴᴰ" tvg-logo="" group-title="France",CANAL+ DOCS SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/165702"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ GRAND ECRAN ᴴᴰ" tvg-logo="" group-title="France",CANAL+ GRAND ECRAN SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/169176"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="" group-title="France",CANAL+ PREMIER LEAGUE SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126840"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT ᴴᴰ" tvg-logo="" group-title="France",CANAL+ FOOT SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/199963"
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ 360 ᴴᴰ" tvg-logo="" group-title="France",CANAL+ 360 SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/199966"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIER ᴴᴰ" tvg-logo="" group-title="France",CINE+ PREMIER SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127255"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FRISSON ᴴᴰ" tvg-logo="" group-title="France",CINE+ FRISSON SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127256"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION ᴴᴰ" tvg-logo="" group-title="France",CINE+ EMOTION SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127257"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ ᴴᴰ" tvg-logo="" group-title="France",CINE+ FAMIZ SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127258"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLUB ᴴᴰ" tvg-logo="" group-title="France",CINE+ CLUB SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127259"
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC ᴴᴰ" tvg-logo="" group-title="France",CINE+ CLASSIC SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127260"
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX ᴴᴰ" tvg-logo="" group-title="France",OCS MAX SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127261"
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY ᴴᴰ" tvg-logo="" group-title="France",OCS CITY SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127262"
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS ᴴᴰ" tvg-logo="" group-title="France",OCS GEANTS SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127263"
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC ᴴᴰ" tvg-logo="" group-title="France",OCS CHOC SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127264"
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO ᴴᴰ" tvg-logo="" group-title="France",ALTICE STUDIO SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127265"
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV ᴴᴰ" tvg-logo="" group-title="France",WARNER TV SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127266"
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV ᴴᴰ" tvg-logo="" group-title="France",NOVELAS TV SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127267"
+#EXTINF:-1 tvg-id="" tvg-name="POLAR ᴴᴰ" tvg-logo="" group-title="France",POLAR  SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127268"
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT ᴴᴰ" tvg-logo="" group-title="France",CRIME DISTRICT SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127269"
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL ᴴᴰ" tvg-logo="" group-title="France",PARAMOUNT CHANNEL SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127270"
+#EXTINF:-1 tvg-id="" tvg-name="ACTION ᴴᴰ" tvg-logo="" group-title="France",ACTION SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127271"
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA ᴴᴰ" tvg-logo="" group-title="France",TCM CINEMA SD
+Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127272"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE+ ᴴᴰ" tvg-logo="" group-title="Documentaires",PLANETE+ SD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127078"
 #EXTINF:-1 tvg-id="" tvg-name="PLANETE A&E ᴴᴰ" tvg-logo="" group-title="Documentaires",PLANETE A&E SD
