@@ -96,7 +96,7 @@ Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/139511"
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 ᴴᴰ" tvg-logo="" group-title="Sport Ar",
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/139512"
 #EXTINF:-1 tvg-id="" tvg-name="SSC 4 ᴴᴰ" tvg-logo="" group-title="Sport Ar",
-Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/139513"
+Lien-id="http://zentv.info:8080/live/05315026529/26529/115168.ts"
 #EXTINF:-1 tvg-id="" tvg-name="SSC 5 ᴴᴰ" tvg-logo="" group-title="Sport Ar",
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/139514"
 #EXTINF:-1 tvg-id="" tvg-name="SSC 6 ᴴᴰ" tvg-logo="" group-title="Sport Ar",
@@ -173,6 +173,8 @@ Lien-id="wahiba/lahcene/lahcene/3131"
 Lien-id="wahiba/lahcene/lahcene/3132"
 #EXTINF:-1 tvg-id="" tvg-name="MIX Hollywood ᴴᴰ" tvg-logo="" group-title="MBC",MIX Hollywood
 Lien-id="http://etv.nikala.se:1996/45224630969934/45224630969934/224320"
+#EXTINF:-1 tvg-id="" tvg-name="MIX Bel Araby ᴴᴰ" tvg-logo="" group-title="MBC",MIX Bel Araby
+Lien-id="http://zentv.info:8080/live/05315026529/26529/65441.ts"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 Ultra ᴴᴰ" tvg-logo="" group-title="MBC",MBC 1 Ultra
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/55540"
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2 ᴴᴰ" tvg-logo="" group-title="MBC",MBC 2
@@ -257,6 +259,12 @@ Lien-id="http://zentv.info:8080/live/05315026529/26529/61022.ts"
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74029"
 #EXTINF:-1 tvg-id="" tvg-name="Nicklodeon Teen ᴴᴰ" tvg-logo="" group-title="Dessins Animés",Nicklodeon Teen ᴴᴰ
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74035"
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY ᴴᴰ" tvg-logo="" group-title="Dessins Animés",TOM & JERRY ᴴᴰ
+Lien-id="http://zentv.info:8080/live/05315026529/26529/540.ts"
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY ᴴᴰ" tvg-logo="" group-title="Dessins Animés",MICKEY ᴴᴰ
+Lien-id="http://zentv.info:8080/live/05315026529/26529/556.ts"
+#EXTINF:-1 tvg-id="" tvg-name="Masha & The Bear ᴴᴰ" tvg-logo="" group-title="Dessins Animés",Masha & The Bear ᴴᴰ
+Lien-id="http://zentv.info:8080/live/05315026529/26529/59829.ts"
 #EXTINF:-1 tvg-id="" tvg-name="TF1 ᴴᴰ" tvg-logo="" group-title="France",TF1 ᴴᴰ
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/121131"
 #EXTINF:-1 tvg-id="" tvg-name="TF1 +1 ᴴᴰ" tvg-logo="" group-title="France",TF1 +1
