@@ -270,9 +270,9 @@ Lien-id="https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157
 #EXTINF:-1 tvg-id="" tvg-name="TF1 +1 ᴴᴰ" tvg-logo="" group-title="France",TF1 +1
 Lien-id="http://king-play.newtvhd.com:7070/User339/qaa6xt60/74125"
 #EXTINF:-1 tvg-id="" tvg-name="TFX ᴴᴰ" tvg-logo="" group-title="France",TFX SD
-Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127329"
+Lien-id="https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FILMS ᴴᴰ" tvg-logo="" group-title="France",TF1 SERIES FILMS SD
-Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127330"
+Lien-id="https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 2 SD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127319"
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 ᴴᴰ" tvg-logo="" group-title="France",FRANCE 3 SD
@@ -296,7 +296,7 @@ Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127331"
 #EXTINF:-1 tvg-id="" tvg-name="C Star ᴴᴰ" tvg-logo="" group-title="France",CSTAR SD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127332"
 #EXTINF:-1 tvg-id="" tvg-name="TMC ᴴᴰ" tvg-logo="" group-title="France",TMC SD
-Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127333"
+Lien-id="https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8"
 #EXTINF:-1 tvg-id="" tvg-name="RMC STORY ᴴᴰ" tvg-logo="" group-title="France",RMC STORY SD
 Lien-id="http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/127334"
 #EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 ᴴᴰ" tvg-logo="" group-title="France",CHERIE 25 SD
