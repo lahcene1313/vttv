@@ -61,8 +61,8 @@ Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61044"
 Lien-id="http://iptvmedia.live:8080/bigboss/zhs8ksDA9fgG87PZ/290037"
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Xtra 2 ᴴᴰ" tvg-logo="" group-title="Bein Sport",BEIN SPORTS Xtra 2
 Lien-id="http://iptvmedia.live:8080/bigboss/zhs8ksDA9fgG87PZ/283294"
-#EXTINF:-1 tvg-id="" tvg-name="BEIN* SPORTS 1 ᴴᴰ" tvg-logo="" group-title="Bein Sport",BEIN SPORTS 1
-Lien-id="http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/1602.m3u"
+#EXTINF:-1 tvg-id="" tvg-name="BEIN** SPORTS 1 ᴴᴰ" tvg-logo="" group-title="Bein Sport",BEIN SPORTS 1
+Lien-id="http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/1602.ts"
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 ᴴᴰ" tvg-logo="" group-title="Bein Sport",BEIN SPORTS 2
 Lien-id="http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/3463.m3u"
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 ᴴᴰ" tvg-logo="" group-title="Bein Sport",BEIN SPORTS 3
