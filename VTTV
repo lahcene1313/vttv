@@ -1,8 +1,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Programme National Algerie ᴴᴰ" tvg-logo="" group-title="Algerie",Programme National Algerie HD
 Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/152"
-#EXTINF:-1 tvg-id="" tvg-name="Canal Algerie ᴴᴰ" tvg-logo="" group-title="Algerie",Canal Algerie HD
-Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/158"
+#EXTINF:-1 tvg-id="" tvg-name="Canal Algerie* ᴴᴰ" tvg-logo="" group-title="Algerie",Canal Algerie HD
+Lien-id="http://etv.nikala.se:1996/45924301150697/45924301150697/495"
 #EXTINF:-1 tvg-id="" tvg-name="AL 24 ᴴᴰ" tvg-logo="" group-title="Algerie",AL 24 HD
 Lien-id="http://91.208.115.170:25461/khoja2021/zAXBVZBvo0Gw0Nh/231528"
 #EXTINF:-1 tvg-id="" tvg-name="Zahra TV ᴴᴰ" tvg-logo="" group-title="Algerie",Zahra TV HD
