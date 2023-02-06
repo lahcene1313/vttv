@@ -29,8 +29,8 @@ Lien-id="http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/20741.m3
 Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/161"
 #EXTINF:-1 tvg-id="" tvg-name="Echorouk News ᴴᴰ" tvg-logo="" group-title="Algerie",Echorouk News HD
 Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/162"
-#EXTINF:-1 tvg-id="" tvg-name="Ennahar TV ᴴᴰ" tvg-logo="" group-title="Algerie",Ennahar TV
-Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/159"
+#EXTINF:-1 tvg-id="" tvg-name="Ennahar* TV ᴴᴰ" tvg-logo="" group-title="Algerie",Ennahar TV
+Lien-id="http://pro.netmos.ovh:7355/promourj547@/@sxkjkljnxjlk!/1150"
 #EXTINF:-1 tvg-id="" tvg-name="El Bilad TV ᴴᴰ" tvg-logo="" group-title="Algerie",El Bilad TV
 Lien-id="http://iptv-tn.com:8080/ottking/ottking_mcoes.live/157"
 #EXTINF:-1 tvg-id="" tvg-name="El-Fajer TV ᴴᴰ" tvg-logo="" group-title="Algerie",El-Fajer TV
