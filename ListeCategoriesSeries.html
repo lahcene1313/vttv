@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+    <title>Categories Series</title>
+    <style>
+       body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+	background-color: #000000; /* Couleur d'arrière-plan pour le corps */
+}
+
+#sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 100%;
+    max-height: 100vh; /* Hauteur maximale de la barre latérale pour empêcher le débordement */
+    background-color: #000000;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto; /* Permet le défilement vertical si le contenu dépasse la hauteur maximale */
+}
+
+	
+#main {
+        margin-left: 200px; /* Ajustez selon la largeur de la barre latérale */
+        padding: 20px;
+        box-sizing: border-box;
+		overflow-y: auto; /* Permet le défilement vertical si le contenu dépasse la hauteur maximale */
+    }
+
+#movieList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+	background-color: #000000;
+	margin-left: 300px; /* Pour laisser de l'espace pour le volet latéral */
+    padding: 20px;
+	overflow-y: auto; /* Permet le défilement vertical si le contenu dépasse la hauteur maximale */
+}
+
+li {
+        margin-bottom: 10px;
+        background-color: #000000;
+        padding: 10px;
+    }
+
+.card {
+    width: calc(20% - 20px); /* Set width to 20% of the container width minus margins */
+    margin: 10px; /* Add margin to create spacing between cards */
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#categoryCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Center-align cards with equal spacing */
+}
+
+
+.card:hover {
+    
+	transform: scale(1.05); /* Zoom sur la carte au survol */
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 15px;
+    margin-bottom: 2px;
+}
+
+.card h3 {
+    font-size: 12px;
+    margin: 0;
+	color: white;
+}
+
+
+.categoryButton {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px; /* Ajoute un espacement entre chaque bouton */
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.categoryButton:hover {
+    background-color: #45a049;
+}
+
+
+#categoryList {
+    list-style-type: none; /* Supprimer les puces de la liste */
+    padding: 0; /* Supprimer les espaces de remplissage */
+    margin: 0; /* Supprimer les marges */
+    float: left; /* Aligner la liste à gauche */
+    width: Auto; /* Définir la largeur de la liste à 20% de la page */
+	color: white; /* Couleur du texte */
+}
+
+#categoryList li {
+    cursor: pointer; /* Définir le curseur comme pointer */
+    padding: 10px; /* Ajouter un remplissage autour des éléments de la liste */
+    margin-bottom: 5px; /* Ajouter une marge en bas entre les éléments de la liste */
+    border: 1px solid #ccc; /* Ajouter une bordure */
+    border-radius: 5px; /* Ajouter une bordure arrondie */
+}
+
+#categoryList li:hover {
+    background-color: #a802a0; /* Changer la couleur de fond au survol */
+}
+
+.selected {
+    padding: 10px;
+    background-color: yellow;
+}
+
+.card h3 {
+    font-size: 12px;
+    margin: 0;
+    color: black; /* Change the color to black */
+}
+
+.selected h3 {
+    color: black; /* Change the color of the category name in selected card */
+}
+
+ #categoryLabel {
+            text-align: center; /* Centrer le texte */
+            font-size: 20px; /* Taille de la police */
+            margin-top: 20px; /* Espacement depuis le haut de la page */
+            color: white; /* Couleur du texte */
+        }
+
+ 
+    </style>
+</head>
+<body>
+    <label id="categoryLabel">Sélectionnez une catégorie</label>
+    <div id="categoryCards"></div>
+   
+   
+   <script>
+   document.addEventListener("DOMContentLoaded", function() {
+    let categories = {}; // Stockage des catégories
+    let selectedCardIndex = 0; // Indice de la carte sélectionnée
+
+    // Récupérer les données JSON depuis une URL pour les catégories
+    fetch('http://arox.tv/player_api.php?username=05605052020&password=05605052020&action=get_series_categories')
+        .then(response => response.json())
+        .then(data => {
+            const categoryCards = document.getElementById('categoryCards');
+
+            // Parcourir chaque objet dans le JSON
+            data.forEach((obj, index) => {
+                // Extraire la propriété 'category_name' et 'category_id' de chaque objet
+                const categoryName = obj.category_name;
+                const categoryId = obj.category_id;
+
+                // Ajouter l'association dans l'objet des catégories
+                categories[categoryId] = categoryName;
+
+                // Créer un élément de carte pour chaque catégorie et l'ajouter à la liste
+                const card = document.createElement('div');
+                card.classList.add('card');
+                card.dataset.categoryId = categoryId; // Stocker category_id en tant qu'attribut de données
+
+                // Contenu de la carte
+                card.innerHTML = `
+                    <img src="IconeVTTV.png" alt="IconeVTTV">
+                    <h3>${categoryName}</h3>
+                `;
+
+                // Ajouter un écouteur d'événement à chaque carte
+                card.addEventListener('click', function() {
+                    // Récupérer l'index de la carte cliquée
+                    const cardIndex = Array.from(categoryCards.children).indexOf(card);
+                    // Sélectionner la carte
+                    selectCard(cardIndex);
+                });
+
+                categoryCards.appendChild(card);
+
+                // Sélectionner la première vue de carte et appliquer un rembourrage en jaune
+                if (index === 0) {
+                    card.classList.add('selected');
+                }
+            });
+
+            // Mettre à jour le label avec la première catégorie chargée
+            const firstCategoryId = data[0].category_id;
+            updateLabel(data[0].category_name, firstCategoryId);
+        });
+
+    // Fonction pour sélectionner une carte
+    function selectCard(index) {
+        // Retirer la classe 'selected' de la carte actuellement sélectionnée
+        document.querySelector('.card.selected').classList.remove('selected');
+
+        // Ajouter la classe 'selected' à la carte sélectionnée
+        const cards = document.querySelectorAll('.card');
+        cards[index].classList.add('selected');
+
+        // Mettre à jour l'indice de la carte sélectionnée
+        selectedCardIndex = index;
+
+        // Récupérer les informations de la carte sélectionnée
+        const selectedCard = cards[index];
+        const categoryId = selectedCard.dataset.categoryId;
+        const categoryName = categories[categoryId];
+
+        // Mettre à jour la page avec les données de la carte sélectionnée (si nécessaire)
+        const labelText = `http://arox.tv/player_api.php?username=05605052020&password=05605052020&action=get_series&category_id=${categoryId}`;
+        updateNewPage(labelText);
+    }
+
+    // Écouter les événements de pression des touches du clavier
+    document.addEventListener('keydown', (event) => {
+        const key = event.key;
+        const cards = document.querySelectorAll('.card');
+
+        switch (key) {
+            case 'ArrowLeft':
+                if (selectedCardIndex > 0) {
+                    selectCard(selectedCardIndex - 1);
+                }
+                break;
+            case 'ArrowRight':
+                if (selectedCardIndex < cards.length - 1) {
+                    selectCard(selectedCardIndex + 1);
+                }
+                break;
+            case 'ArrowUp':
+                if (selectedCardIndex >= 5) {
+                    selectCard(selectedCardIndex - 5);
+                }
+                break;
+            case 'ArrowDown':
+                if (selectedCardIndex + 5 < cards.length) {
+                    selectCard(selectedCardIndex + 5);
+                }
+                break;
+            case 'Enter':
+                const selectedCard = document.querySelector('.card.selected');
+                const categoryId = selectedCard.dataset.categoryId;
+                const categoryName = categories[categoryId];
+                navigateToListeFilms(categoryId); // Naviguer vers ListeFilms.html avec categoryId
+            break;
+            default:
+                break;
+        }
+    });
+});
+
+function navigateToListeFilms(categoryId) {
+    // Créez l'URL avec categoryId comme paramètre
+    const url = `ListeFilms.html?categoryId=${categoryId}`;
+    // Naviguez vers la page ListeFilms.html
+    window.location.href = url;
+}
+</script>
+</body>
+</html>
