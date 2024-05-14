@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="style.css">
-    <title>Categories Films</title>
+    <title>Affichage de catégories à partir de JSON</title>
     <style>
        body {
     margin: 0;
@@ -154,143 +153,116 @@ li {
     </style>
 </head>
 <body>
- <!-- Ajoutez cet élément pour le label -->
-    <label id="categoryLabel">Sélectionnez une catégorie</label>
-
-    <!-- Ajoutez cet élément pour contenir les cartes de catégorie -->
-    <div id="categoryCards"></div>
-	
-	
-
-
+    <h1>Liste des catégories</h1>
+    <ul id="categoryCards"></ul>
 
     <script>
-   
-   
-   document.addEventListener("DOMContentLoaded", function() {
-    let categories = {}; // Stockage des catégories
-    let selectedCardIndex = 0; // Indice de la carte sélectionnée
+        // Charger les données JSON depuis le fichier
+        fetch('https://raw.githubusercontent.com/lahcene1313/vttv/main/CategoriesFilms.json')
+            .then(response => response.json())
+            .then(data => {
+                const categories = {};
+                const categoryCards = document.getElementById('categoryCards');
 
-    // Récupérer les données JSON depuis une URL pour les catégories
-    fetch('https://github.com/lahcene1313/vttv/blob/main/CategoriesFilms.json')
-        .then(response => response.json())
-        .then(data => {
-            const categoryCards = document.getElementById('categoryCards');
+                // Parcourir chaque objet dans le JSON
+                data.forEach((obj, index) => {
+                    // Extraire la propriété 'category_name' et 'category_id' de chaque objet
+                    const categoryName = obj.category_name;
+                    const categoryId = obj.category_id;
 
-            // Parcourir chaque objet dans le JSON
-            data.forEach((obj, index) => {
-                // Extraire la propriété 'category_name' et 'category_id' de chaque objet
-                const categoryName = obj.category_name;
-                const categoryId = obj.category_id;
+                    // Ajouter l'association dans l'objet des catégories
+                    categories[categoryId] = categoryName;
 
-                // Ajouter l'association dans l'objet des catégories
-                categories[categoryId] = categoryName;
+                    // Créer un élément de carte pour chaque catégorie et l'ajouter à la liste
+                    const card = document.createElement('div');
+                    card.classList.add('card');
+                    card.dataset.categoryId = categoryId; // Stocker category_id en tant qu'attribut de données
 
-                // Créer un élément de carte pour chaque catégorie et l'ajouter à la liste
-                const card = document.createElement('div');
-                card.classList.add('card');
-                card.dataset.categoryId = categoryId; // Stocker category_id en tant qu'attribut de données
+                    // Contenu de la carte
+                    card.innerHTML = `
+                        <img src="IconeVTTV.png" alt="IconeVTTV">
+                        <h3>${categoryName}</h3>
+                    `;
 
-                // Contenu de la carte
-                card.innerHTML = `
-                    <img src="IconeVTTV.png" alt="IconeVTTV">
-                    <h3>${categoryName}</h3>
-                `;
+                    // Ajouter un écouteur d'événement à chaque carte
+                    card.addEventListener('click', function() {
+                        // Récupérer l'index de la carte cliquée
+                        const cardIndex = Array.from(categoryCards.children).indexOf(card);
+                        // Sélectionner la carte
+                        selectCard(cardIndex);
+                    });
 
-                // Ajouter un écouteur d'événement à chaque carte
-                card.addEventListener('click', function() {
-                    // Récupérer l'index de la carte cliquée
-                    const cardIndex = Array.from(categoryCards.children).indexOf(card);
-                    // Sélectionner la carte
-                    selectCard(cardIndex);
+                    categoryCards.appendChild(card);
+
+                    // Sélectionner la première vue de carte et appliquer un rembourrage en jaune
+                    if (index === 0) {
+                        card.classList.add('selected');
+                    }
                 });
 
-                categoryCards.appendChild(card);
+                // Fonction pour sélectionner une carte
+                function selectCard(index) {
+                    // Retirer la classe 'selected' de la carte actuellement sélectionnée
+                    document.querySelector('.card.selected').classList.remove('selected');
 
-                // Sélectionner la première vue de carte et appliquer un rembourrage en jaune
-                if (index === 0) {
-                    card.classList.add('selected');
+                    // Ajouter la classe 'selected' à la carte sélectionnée
+                    const cards = document.querySelectorAll('.card');
+                    cards[index].classList.add('selected');
+
+                    // Mettre à jour l'indice de la carte sélectionnée
+                    selectedCardIndex = index;
+
+                    // Récupérer les informations de la carte sélectionnée
+                    const selectedCard = cards[index];
+                    const categoryId = selectedCard.dataset.categoryId;
+                    const categoryName = categories[categoryId];
                 }
+
+                // Écouter les événements de pression des touches du clavier
+                document.addEventListener('keydown', (event) => {
+                    const key = event.key;
+                    const cards = document.querySelectorAll('.card');
+
+                    switch (key) {
+                        case 'ArrowLeft':
+                            if (selectedCardIndex > 0) {
+                                selectCard(selectedCardIndex - 1);
+                            }
+                            break;
+                        case 'ArrowRight':
+                            if (selectedCardIndex < cards.length - 1) {
+                                selectCard(selectedCardIndex + 1);
+                            }
+                            break;
+                        case 'ArrowUp':
+                            if (selectedCardIndex >= 5) {
+                                selectCard(selectedCardIndex - 5);
+                            }
+                            break;
+                        case 'ArrowDown':
+                            if (selectedCardIndex + 5 < cards.length) {
+                                selectCard(selectedCardIndex + 5);
+                            }
+                            break;
+                        case 'Enter':
+                            const selectedCard = document.querySelector('.card.selected');
+                            const categoryId = selectedCard.dataset.categoryId;
+                            const categoryName = categories[categoryId];
+                            navigateToListeFilms(categoryId); // Naviguer vers ListeFilms.html avec categoryId
+                            break;
+                        default:
+                            break;
+                    }
+                });
             });
 
-            // Mettre à jour le label avec la première catégorie chargée
-            const firstCategoryId = data[0].category_id;
-            updateLabel(data[0].category_name, firstCategoryId);
-        });
-
-    // Fonction pour sélectionner une carte
-    function selectCard(index) {
-        // Retirer la classe 'selected' de la carte actuellement sélectionnée
-        document.querySelector('.card.selected').classList.remove('selected');
-
-        // Ajouter la classe 'selected' à la carte sélectionnée
-        const cards = document.querySelectorAll('.card');
-        cards[index].classList.add('selected');
-
-        // Mettre à jour l'indice de la carte sélectionnée
-        selectedCardIndex = index;
-
-        // Récupérer les informations de la carte sélectionnée
-        const selectedCard = cards[index];
-        const categoryId = selectedCard.dataset.categoryId;
-        const categoryName = categories[categoryId];
-
-        // Mettre à jour le label avec le texte et l'ID de la carte sélectionnée
-        updateLabel(categoryName, categoryId);
-
-        // Mettre à jour la page avec les données de la carte sélectionnée (si nécessaire)
-        const labelText = `http://arox.tv/player_api.php?username=05605052020&password=05605052020&action=get_vod_streams&category_id=${categoryId}`;
-        updateNewPage(labelText);
-    }
-
-    // Écouter les événements de pression des touches du clavier
-    document.addEventListener('keydown', (event) => {
-        const key = event.key;
-        const cards = document.querySelectorAll('.card');
-
-        switch (key) {
-            case 'ArrowLeft':
-                if (selectedCardIndex > 0) {
-                    selectCard(selectedCardIndex - 1);
-                }
-                break;
-            case 'ArrowRight':
-                if (selectedCardIndex < cards.length - 1) {
-                    selectCard(selectedCardIndex + 1);
-                }
-                break;
-            case 'ArrowUp':
-                if (selectedCardIndex >= 5) {
-                    selectCard(selectedCardIndex - 5);
-                }
-                break;
-            case 'ArrowDown':
-                if (selectedCardIndex + 5 < cards.length) {
-                    selectCard(selectedCardIndex + 5);
-                }
-                break;
-            case 'Enter':
-                const selectedCard = document.querySelector('.card.selected');
-                const categoryId = selectedCard.dataset.categoryId;
-                const categoryName = categories[categoryId];
-                 navigateToListeFilms(categoryId); // Naviguer vers ListeFilms.html avec categoryId
-            break;
-            default:
-                break;
+        // Fonction pour naviguer vers la page ListeFilms.html avec categoryId comme paramètre
+        function navigateToListeFilms(categoryId) {
+            // Créez l'URL avec categoryId comme paramètre
+            const url = `ListeFilms.html?categoryId=${categoryId}`;
+            // Naviguez vers la page ListeFilms.html
+            window.location.href = url;
         }
-    });
-});
-
-function navigateToListeFilms(categoryId) {
-    // Créez l'URL avec categoryId comme paramètre
-    const url = `ListeFilms.html?categoryId=${categoryId}`;
-    // Naviguez vers la page ListeFilms.html
-    window.location.href = url;
-}
-
-
-
-
-</script>
+    </script>
 </body>
 </html>
