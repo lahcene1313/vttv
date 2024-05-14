@@ -172,7 +172,7 @@ li {
     let selectedCardIndex = 0; // Indice de la carte sélectionnée
 
     // Récupérer les données JSON depuis une URL pour les catégories
-    fetch('http://arox.tv/player_api.php?username=05605052020&password=05605052020&action=get_vod_categories')
+    fetch('https://github.com/lahcene1313/vttv/blob/main/CategoriesFilms.json')
         .then(response => response.json())
         .then(data => {
             const categoryCards = document.getElementById('categoryCards');
