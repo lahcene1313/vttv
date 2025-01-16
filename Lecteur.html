@@ -66,16 +66,10 @@
         var videoSrc = urlParams.get('src');
 
         if (videoSrc) {
-            // Convertir HTTPS en HTTP si nécessaire
-            if (videoSrc.startsWith('https:')) {
-                videoSrc = videoSrc.replace('https:', 'http:');
-            }
-
-            // Initialiser le lecteur Video.js avec l'URL convertie
             var player = videojs('my-video');
             player.src({
                 src: videoSrc,
-                type: 'application/x-mpegURL'
+                type: 'application/vnd.apple.mpegurl'
             });
             player.play();
         }
