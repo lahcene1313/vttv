@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,|AR.ALG| Ennahar TV
+http://shooters.live:8080/2248552347422521/2248552347422521/28160
+#EXTINF:-1,ALG: PROGRAMME NATIONAL HD
+http://shooters.live:8080/2248552347422521/2248552347422521/28159
+#EXTINF:-1,TF1
+https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHMg70Rn8xcvoW5vSQbkvS34/ts
+#EXTINF:-1,FRANCE 2
+https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHADFJw9oj-tJdSzmYd75oY4/ts
+#EXTINF:-1,M6
+https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHLaawcM9P6uXAYhUr12oe9U/ts
+#EXTINF:-1,arte
+https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHPnA24NLMcjlsC5Jn3FlTP0/ts
+
+#EXTINF:-1,France info
+https://live.tntdirect.tv:443/play/s5qbWb5xN2faMgmkODSXHPKBaQYZ1Q4acldXhP7iwUk/ts
