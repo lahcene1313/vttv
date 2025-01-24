@@ -11,11 +11,12 @@ def download_playlist(url):
     try:
         print(f"Téléchargement de {url}...")
         response = requests.get(url)
-        response.raise_for_status()  # Vérifie que la requête a réussi
+        print(f"Code de statut pour {url}: {response.status_code}")  # Affiche le code HTTP
+        response.raise_for_status()  # Si la requête échoue, une exception sera levée
         print(f"Succès pour {url}, récupération de {len(response.text)} octets.")
-        return response.text.splitlines()  # Retourne les lignes du fichier
+        return response.text.splitlines()  # Retourne les lignes de la playlist
     except requests.RequestException as e:
-        print(f"Erreur de téléchargement pour {url}: {e}")
+        print(f"Erreur lors du téléchargement de {url}: {e}")
         return []
 
 # Fusionner les playlists
@@ -23,7 +24,7 @@ def merge_playlists(playlist_urls):
     merged_playlist = []
     for url in playlist_urls:
         playlist = download_playlist(url)
-        if playlist:  # Vérifie si la playlist a bien été téléchargée
+        if playlist:  # Vérifie que la playlist a bien été téléchargée
             merged_playlist.extend(playlist)
         else:
             print(f"Impossible d'ajouter la playlist depuis {url}")
