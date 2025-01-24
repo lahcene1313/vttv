@@ -3,7 +3,6 @@ import os
 
 # Liste des liens vers les playlists M3U
 playlist_urls = [
-    'https://raw.githubusercontent.com/lahcene1313/vttv/refs/heads/main/Mon.m3u',
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/samsungtvplus/main/filter/raw.m3u',
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/paratv/main/filter/raw.m3u'
 ]
