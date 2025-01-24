@@ -17,7 +17,7 @@ def download_playlist(url):
         return response.text.splitlines()  # Retourne les lignes de la playlist
     except requests.RequestException as e:
         print(f"Erreur lors du téléchargement de {url}: {e}")
-        return []
+        return []  # Retourne une liste vide en cas d'erreur
 
 # Fusionner les playlists
 def merge_playlists(playlist_urls):
@@ -45,7 +45,11 @@ def save_merged_playlist(merged_playlist, filename='lahcene.m3u'):
 # Exécution du script
 if __name__ == "__main__":
     print("Exécution du script de fusion des playlists...")
+    
+    # Fusionner les playlists
     merged_playlist = merge_playlists(playlist_urls)
+    
+    # Si des playlists ont été fusionnées, les enregistrer dans un fichier
     if merged_playlist:
         save_merged_playlist(merged_playlist)
     else:
