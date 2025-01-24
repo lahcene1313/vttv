@@ -1,6 +1,6 @@
 import requests
 
-# Liste des liens vers les playlists M3U (mise à jour selon ta demande)
+# Liste des liens des playlists M3U
 playlist_urls = [
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/samsungtvplus/main/filter/raw.m3u',
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/paratv/main/filter/raw.m3u'
@@ -12,6 +12,7 @@ def download_playlist(url):
         print(f"Téléchargement de {url}...")
         response = requests.get(url)
         response.raise_for_status()  # Vérifie que la requête a réussi
+        print(f"Succès pour {url}, récupération de {len(response.text)} octets.")
         return response.text.splitlines()  # Retourne les lignes du fichier
     except requests.RequestException as e:
         print(f"Erreur de téléchargement pour {url}: {e}")
@@ -26,6 +27,7 @@ def merge_playlists(playlist_urls):
             merged_playlist.extend(playlist)
         else:
             print(f"Impossible d'ajouter la playlist depuis {url}")
+    print(f"Nombre de lignes après fusion: {len(merged_playlist)}")
     return merged_playlist
 
 # Sauvegarder la playlist fusionnée dans un fichier
