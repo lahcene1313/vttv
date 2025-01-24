@@ -1,7 +1,6 @@
 import requests
-import os
 
-# Liste des liens vers les playlists M3U
+# Liste des liens vers les playlists M3U (mise à jour selon ta demande)
 playlist_urls = [
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/samsungtvplus/main/filter/raw.m3u',
     'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/paratv/main/filter/raw.m3u'
@@ -30,7 +29,7 @@ def merge_playlists(playlist_urls):
     return merged_playlist
 
 # Sauvegarder la playlist fusionnée dans un fichier
-def save_merged_playlist(merged_playlist, filename='merged_playlist.m3u'):
+def save_merged_playlist(merged_playlist, filename='lahcene.m3u'):
     print("Début de la sauvegarde...")
     try:
         with open(filename, 'w') as file:
@@ -39,12 +38,6 @@ def save_merged_playlist(merged_playlist, filename='merged_playlist.m3u'):
         print(f"Playlist fusionnée sauvegardée sous {filename}")
     except Exception as e:
         print(f"Erreur lors de la sauvegarde du fichier : {e}")
-
-    # Vérifie si le fichier a bien été créé
-    if os.path.exists(filename):
-        print(f"Le fichier {filename} a été créé avec succès !")
-    else:
-        print(f"Le fichier {filename} n'a pas été créé.")
 
 # Exécution du script
 if __name__ == "__main__":
