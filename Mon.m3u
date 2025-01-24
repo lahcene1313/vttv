@@ -1,0 +1,41 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1,PROGRAMME NATIONAL
+http://shooters.live:8080/2248552347422521/2248552347422521/28159
+#EXTINF:-1,Canal Algerie
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/1785
+#EXTINF:-1,Algerie TV A3
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/42366
+#EXTINF:-1,ALGERIA 6
+http://shooters.live:8080/2248552347422521/2248552347422521/101109
+#EXTINF:-1,Ennahar TV
+http://shooters.live:8080/2248552347422521/2248552347422521/28160
+#EXTINF:-1,El Bilad TV
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/471
+#EXTINF:-1,El Hayat TV
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/56539
+#EXTINF:-1,Echorouk TV
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/24282
+#EXTINF:-1,Echorouk News
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/625
+#EXTINF:-1,Samira TV
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/4708
+#EXTINF:-1,ZAHRA TV
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/257253
+#EXTINF:-1,TF1
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240143
+#EXTINF:-1,FRANCE 2
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240135
+#EXTINF:-1,M6
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240148
+#EXTINF:-1,arte
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240137
+#EXTINF:-1,France info
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240136
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240234
+#EXTINF:-1,BEIN SPORTS 2 FHD
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240233
+#EXTINF:-1,BEIN SPORTS 3 FHD
+http://s1.nasaservers.com:8080/1C:86:9A:C6:E5:42/1C:86:9A/240232
