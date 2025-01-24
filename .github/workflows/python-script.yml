@@ -3,25 +3,25 @@ name: Exécution du script Python
 on:
   push:
     branches:
-      - main  # Le script s'exécute lors d'un push sur la branche principale
+      - main  # S'exécute uniquement sur la branche principale
 
 jobs:
   run-script:
-    runs-on: ubuntu-latest  # Utilisation d'un environnement Ubuntu pour exécuter le script
+    runs-on: ubuntu-latest  # Utilise un environnement Ubuntu
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2  # Télécharge le code de ton dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v2  # Vérifie que le dépôt est bien téléchargé
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'  # Utilisation de Python 3.8
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'  # Choisis la version de Python que tu utilises
 
-    - name: Install dependencies
-      run: |
-        pip install requests  # Installation de la bibliothèque requests pour télécharger les playlists
+      - name: Install dependencies
+        run: |
+          pip install requests  # Installe la bibliothèque requests pour télécharger les playlists
 
-    - name: Run the Python script
-      run: |
-        python main.py  # Exécution du script main.py
+      - name: Run the Python script
+        run: |
+          python main.py  # Exécute ton script Python
