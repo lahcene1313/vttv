@@ -1,27 +1,52 @@
-name: Exécution du script Python
+import requests
 
-on:
-  push:
-    branches:
-      - main  # S'exécute uniquement sur la branche principale
+# Liste des liens des playlists M3U
+playlist_urls = [
+    'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/samsungtvplus/main/filter/raw.m3u',
+    'https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/paratv/main/filter/raw.m3u'
+]
 
-jobs:
-  run-script:
-    runs-on: ubuntu-latest  # Utilise un environnement Ubuntu
+# Fonction pour télécharger le contenu des playlists
+def download_playlist(url):
+    try:
+        print(f"Téléchargement de {url}...")
+        response = requests.get(url)
+        print(f"Code de statut pour {url}: {response.status_code}")  # Affiche le code HTTP
+        response.raise_for_status()  # Si la requête échoue, une exception sera levée
+        print(f"Succès pour {url}, récupération de {len(response.text)} octets.")
+        return response.text.splitlines()  # Retourne les lignes de la playlist
+    except requests.RequestException as e:
+        print(f"Erreur lors du téléchargement de {url}: {e}")
+        return []
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2  # Vérifie que le dépôt est bien téléchargé
+# Fusionner les playlists
+def merge_playlists(playlist_urls):
+    merged_playlist = []
+    for url in playlist_urls:
+        playlist = download_playlist(url)
+        if playlist:  # Vérifie que la playlist a bien été téléchargée
+            merged_playlist.extend(playlist)
+        else:
+            print(f"Impossible d'ajouter la playlist depuis {url}")
+    print(f"Nombre de lignes après fusion: {len(merged_playlist)}")
+    return merged_playlist
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'  # Choisis la version de Python que tu utilises
+# Sauvegarder la playlist fusionnée dans un fichier
+def save_merged_playlist(merged_playlist, filename='lahcene.m3u'):
+    print("Début de la sauvegarde...")
+    try:
+        with open(filename, 'w') as file:
+            for line in merged_playlist:
+                file.write(line + '\n')
+        print(f"Playlist fusionnée sauvegardée sous {filename}")
+    except Exception as e:
+        print(f"Erreur lors de la sauvegarde du fichier : {e}")
 
-      - name: Install dependencies
-        run: |
-          pip install requests  # Installe la bibliothèque requests pour télécharger les playlists
-
-      - name: Run the Python script
-        run: |
-          python main.py  # Exécute ton script Python
+# Exécution du script
+if __name__ == "__main__":
+    print("Exécution du script de fusion des playlists...")
+    merged_playlist = merge_playlists(playlist_urls)
+    if merged_playlist:
+        save_merged_playlist(merged_playlist)
+    else:
+        print("Aucune playlist fusionnée. Le fichier ne sera pas créé.")
