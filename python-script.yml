@@ -1,0 +1,27 @@
+name: Execute Python Script
+
+on:
+  push:
+    branches:
+      - main  # Cela signifie que l'action s'exécutera à chaque push sur la branche main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # Exécute sur un environnement Ubuntu
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'  # Utilise Python 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install requests  # Installe la dépendance requests
+
+    - name: Run main.py
+      run: |
+        python main.py  # Exécute ton script
