@@ -1,4 +1,5 @@
 import requests
+import os
 
 # Liste des liens vers les playlists M3U
 playlist_urls = [
@@ -31,10 +32,17 @@ def merge_playlists(playlist_urls):
 
 # Sauvegarder la playlist fusionnée dans un fichier
 def save_merged_playlist(merged_playlist, filename='merged_playlist.m3u'):
+    print("Début de la sauvegarde...")
     with open(filename, 'w') as file:
         for line in merged_playlist:
             file.write(line + '\n')
     print(f"Playlist fusionnée sauvegardée sous {filename}")
+
+    # Vérifie si le fichier a bien été créé
+    if os.path.exists(filename):
+        print(f"Le fichier {filename} a été créé avec succès !")
+    else:
+        print(f"Le fichier {filename} n'a pas été créé.")
 
 # Exécution du script
 if __name__ == "__main__":
